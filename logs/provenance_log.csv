@@ -1,0 +1,2 @@
+timestamp,text_id,action,source_url,input_file,output_file,status,notes
+2026-09-19,VOF,raw_source_acquisition,https://www.gutenberg.org/ebooks/3289,,data/raw/english/the_valley_of_fear_raw.txt,verified,"Complete Project Gutenberg eBook #3289 downloaded and raw source verification passed; 340174 characters, 60861 words, 14548 lines."

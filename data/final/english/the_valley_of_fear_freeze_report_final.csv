@@ -1,0 +1,13 @@
+metric,value
+master_rows,2872
+unique_sentence_ids,2872
+duplicate_sentence_ids,0
+turns,1267
+numbering_errors,0
+context_errors,0
+t01179_repair_ok,True
+invalid_confidence_values,0
+invalid_chapter_labels,0
+unresolved_source_locations,52
+metadata_errors,0
+overall_freeze_audit,True

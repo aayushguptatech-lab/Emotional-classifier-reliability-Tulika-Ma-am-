@@ -1,0 +1,8 @@
+check,status,details
+required_columns,PASS,All required columns present
+empty_current_text,PASS,0
+empty_turn_id,PASS,0
+empty_sentence_id,PASS,0
+duplicate_sentence_ids,PASS,0
+sentence_numbering,PASS,0
+v6_turn_coverage,PASS,"missing=0, extra=0"

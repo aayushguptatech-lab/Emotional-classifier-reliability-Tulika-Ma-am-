@@ -1,0 +1,53 @@
+sentence_id,turn_id,speaker,current_text,reason
+VOF_T00001_S01,VOF_T00001,Unknown,"What’s this, mr. Holmes?",no_source_fragment_found
+VOF_T00029_S01,VOF_T00029,Holmes,"The same writing, and actually signed,",no_source_fragment_found
+VOF_T00040_S01,VOF_T00040,I,"No doubt, Of course.",no_source_fragment_found
+VOF_T00072_S02,VOF_T00072,Unknown,"What’s this, mr. Holmes?",no_source_fragment_found
+VOF_T00073_S01,VOF_T00073,Unknown,"What’s this, mr. Holmes?",no_source_fragment_found
+VOF_T00078_S01,VOF_T00078,Unknown,"Interested, mr. Mac, but hardly surprised.",no_source_fragment_found
+VOF_T00080_S01,VOF_T00080,Holmes,"I rather think not, Hang it all, mr. Holmes!",no_source_fragment_found
+VOF_T00082_S01,VOF_T00082,Unknown,"No doubt, mr. Mac.",no_source_fragment_found
+VOF_T00088_S01,VOF_T00088,Unknown,no.,no_source_fragment_found
+VOF_T00102_S01,VOF_T00102,Unknown,"Very fine—very handsome indeed, mr. Holmes.",no_source_fragment_found
+VOF_T00108_S01,VOF_T00108,Unknown,"I don’t miss much, mr. Holmes.",no_source_fragment_found
+VOF_T00121_S01,VOF_T00121,the inspector,"Ay, that’s remarkable, Talk away, mr. Holmes.",no_source_fragment_found
+VOF_T00145_S01,VOF_T00145,he,"He can keep, anyhow, You’ve got us side-tracked with your interesting anecdotes, mr. Holmes.",no_source_fragment_found
+VOF_T00161_S01,VOF_T00161,Ames,"An easy-going, free-handed gentleman, But, my word!",no_source_fragment_found
+VOF_T00212_S01,VOF_T00212,Barker,"He’s right, Do you tell me,",no_source_fragment_found
+VOF_T00218_S01,VOF_T00218,Unknown,"A real downright snorter, mr. MacDonald!",no_source_fragment_found
+VOF_T00232_S02,VOF_T00232,Unknown,So had mr. Barker.,no_source_fragment_found
+VOF_T00240_S11,VOF_T00240,Holmes,"Is that credible, mr. Holmes?",no_source_fragment_found
+VOF_T00243_S01,VOF_T00243,Unknown,"There were no signs, mr. Holmes.",no_source_fragment_found
+VOF_T00248_S01,VOF_T00248,I,"I have worked with mr. Holmes before, He plays the game.",no_source_fragment_found
+VOF_T00270_S09,VOF_T00270,Unknown,At that time mr. Douglas entered the room.,no_source_fragment_found
+VOF_T00271_S01,VOF_T00271,Holmes,"The candle shows that, Exactly.",no_source_fragment_found
+VOF_T00273_S08,VOF_T00273,Unknown,"How’s that, mr. Holmes?",no_source_fragment_found
+VOF_T00293_S01,VOF_T00293,Unknown,"What do you think, mr. Mac?",no_source_fragment_found
+VOF_T00300_S01,VOF_T00300,Unknown,"That is so, mr. Holmes.",no_source_fragment_found
+VOF_T00303_S01,VOF_T00303,Ames,"mr. Douglas’s dumb-bells, Dumb-bell—there’s only one.",no_source_fragment_found
+VOF_T00304_S01,VOF_T00304,Unknown,"I don’t know, mr. Holmes.",no_source_fragment_found
+VOF_T00346_S01,VOF_T00346,Unknown,Did you know mrs. Douglas before her marriage?,no_source_fragment_found
+VOF_T00351_S01,VOF_T00351,Unknown,"I imagine nothing, mr. Barker.",no_source_fragment_found
+VOF_T00420_S01,VOF_T00420,Unknown,where is mr. Cecil Barker now?,no_source_fragment_found
+VOF_T00423_S01,VOF_T00423,Unknown,"Yes, mr. Holmes.",no_source_fragment_found
+VOF_T00431_S05,VOF_T00431,the inspector,"But what’s the game, mr. Holmes—what’s the game?",no_source_fragment_found
+VOF_T00435_S01,VOF_T00435,he,"Excuse me, sir, but am I addressing dr. Watson?",no_source_fragment_found
+VOF_T00491_S12,VOF_T00491,Holmes,"How is that, mr. Holmes?",no_source_fragment_found
+VOF_T00496_S01,VOF_T00496,Unknown,"Can we help you, mr. Holmes?",no_source_fragment_found
+VOF_T00538_S01,VOF_T00538,Unknown,"And you, mr. White Mason?",no_source_fragment_found
+VOF_T00547_S01,VOF_T00547,the inspector,"It’s impossible, I’ve made inquiry.",no_source_fragment_found
+VOF_T00584_S02,VOF_T00584,Douglas,"Well, thank you, mr. Holmes.",no_source_fragment_found
+VOF_T00585_S01,VOF_T00585,Unknown,"I’ve heard of you, mr. Holmes.",no_source_fragment_found
+VOF_T00671_S01,VOF_T00671,Unknown,"I’m Miss Ettie Shafter, mr. Shafter’s daughter.",no_source_fragment_found
+VOF_T00715_S01,VOF_T00715,the girl,"Oh, hush, mr. McMurdo, don’t speak so!",no_source_fragment_found
+VOF_T00764_S01,VOF_T00764,Unknown,"I’m new here, mr. McGinty.",no_source_fragment_found
+VOF_T00796_S01,VOF_T00796,Unknown,"True for you, mr. McMurdo.",no_source_fragment_found
+VOF_T00804_S01,VOF_T00804,McMurdo,"You are right, Councillor, I should apologize.",no_source_fragment_found
+VOF_T00874_S01,VOF_T00874,Unknown,"Is your lodge no. 29, Chicago?",no_source_fragment_found
+VOF_T00918_S01,VOF_T00918,Unknown,"mr. Treasurer,",no_source_fragment_found
+VOF_T00950_S01,VOF_T00950,he,"You’ll kill the man, Drop it!",no_source_fragment_found
+VOF_T01009_S01,VOF_T01009,Unknown,no.,no_source_fragment_found
+VOF_T01011_S01,VOF_T01011,Unknown,no.,no_source_fragment_found
+VOF_T01030_S01,VOF_T01030,McMurdo,"All right, I’ll bid you good-bye,",no_source_fragment_found
+VOF_T01225_S01,VOF_T01225,he,"That will do, Ay,",no_source_fragment_found
+VOF_T01247_S01,VOF_T01247,Unknown,"Dear me, mr. Holmes.",no_source_fragment_found

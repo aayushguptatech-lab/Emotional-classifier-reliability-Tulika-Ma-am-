@@ -1,0 +1,379 @@
+text_id,turn_id,sentence_id,speaker,current_text,normal_match,aggressive_match,diagnosis
+VOF,VOF_T00001,VOF_T00001_S01,Unknown,"What’s this, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00003,VOF_T00003_S01,Unknown,"If your heart is as big as your body, and your soul as fine as your face, then I’d ask for nothing better, Oh, Jack, I implore you to give it up!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00005,VOF_T00005_S01,I,"I am inclined to think— I should do so,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00006,VOF_T00006_S01,I,"Really, Holmes, you are a little trying at times.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00007,VOF_T00007_S01,he,"It is Porlock’s writing, I can hardly doubt that it is Porlock’s writing, though I have seen it only twice before.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00029,VOF_T00029_S01,Holmes,"The same writing, and actually signed,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00031,VOF_T00031_S04,Unknown,"“‘Dear mr. Holmes,’ he says, ‘I will go no further in this matter.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00040,VOF_T00040_S01,I,"No doubt, Of course.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00068,VOF_T00068_S01,he,"You are an early bird, mr. Mac, I wish you luck with your worm.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00069,VOF_T00069_S01,Unknown,"If you said ‘hope’ instead of ‘fear,’ it would be nearer the truth, I’m thinking, mr. Holmes,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00072,VOF_T00072_S02,Unknown,"What’s this, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00073,VOF_T00073_S01,Unknown,"What’s this, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00074,VOF_T00074_S01,Unknown,It is a cipher that dr. Watson and I have had occasion to solve.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00075,VOF_T00075_S01,he,"Just this, that mr. Douglas of Birlstone Manor House was horribly murdered last night!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00078,VOF_T00078_S01,Unknown,"Interested, mr. Mac, but hardly surprised.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00079,VOF_T00079_S01,he,"I was going down to Birlstone this morning, I had come to ask you if you cared to come with me—you and your friend here.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00080,VOF_T00080_S01,Holmes,"I rather think not, Hang it all, mr. Holmes!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00082,VOF_T00082_S01,Unknown,"No doubt, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00088,VOF_T00088_S01,Unknown,no.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00095,VOF_T00095_S01,Unknown,"I won’t conceal from you, mr. Holmes, that we think in the C.I.D. that you have a wee bit of a bee in your bonnet over this professor.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00102,VOF_T00102_S01,Unknown,"Very fine—very handsome indeed, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00108,VOF_T00108_S01,Unknown,"I don’t miss much, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00115,VOF_T00115_S01,Unknown,"Your thoughts move a bit too quick for me, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00116,VOF_T00116_S01,Holmes,"All knowledge comes useful to the detective, Even the trivial fact that in the year 1865 a picture by Greuze entitled ‘La Jeune Fille à l’Agneau’ fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00121,VOF_T00121_S01,the inspector,"Ay, that’s remarkable, Talk away, mr. Holmes.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00123,VOF_T00123_S01,the inspector,"We’ve time yet, I’ve a cab at the door, and it won’t take us twenty minutes to Victoria.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00123,VOF_T00123_S02,the inspector,"But about this picture: I thought you told me once, mr. Holmes, that you had never met Professor Moriarty.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00133,VOF_T00133_S01,Unknown,"Well, mr. Holmes, I admit that what you say is interesting: it’s more than interesting—it’s just wonderful.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00138,VOF_T00138_S01,Unknown,"mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00145,VOF_T00145_S01,he,"He can keep, anyhow, You’ve got us side-tracked with your interesting anecdotes, mr. Holmes.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00147,VOF_T00147_S01,Unknown,"Well, that is one suggestion, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00152,VOF_T00152_S01,Holmes,"And ample for us both, While we are on our way, mr. Mac, I will ask you to be good enough to tell me all about it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00154,VOF_T00154_S01,Unknown,"DEAR INSPECTOR MACDONALD, Official requisition for your services is in separate envelope.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00154,VOF_T00154_S06,Unknown,"If you can bring mr. Holmes, please do so; for he will find something after his own heart.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00155,VOF_T00155_S01,Holmes,"Your friend seems to be no fool, No, sir, White Mason is a very live man, if I am any judge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00158,VOF_T00158_S01,Unknown,Then how did you get at mr. Douglas and the fact that he had been horribly murdered?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00159,VOF_T00159_S07,Unknown,"That’s absolutely all we have at present, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00160,VOF_T00160_S01,Unknown,"Then, with your permission, we will leave it at that, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00161,VOF_T00161_S01,Ames,"An easy-going, free-handed gentleman, But, my word!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00163,VOF_T00163_S01,Cecil Barker,"Nothing has been touched up to now, I’ll answer for that.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00169,VOF_T00169_S01,Unknown,"no. I heard mrs. Douglas coming down the stair behind me, and I rushed out to prevent her from seeing this dreadful sight. mrs. Allen, the housekeeper, came and took her away.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00172,VOF_T00172_S02,Unknown,It is out of the question! mr. Douglas must have shot himself.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00179,VOF_T00179_S04,Unknown,"Then I heard the step of mrs. Douglas, and I could not let her enter the room.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00181,VOF_T00181_S01,the police sergeant,"But, I say, It’s all very well your saying that a man escaped by wading this moat, but what I ask you is, how did he ever get into the house at all if the bridge was up?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00182,VOF_T00182_S01,Barker,"Ah, that’s the question, At what o’clock was it raised?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00183,VOF_T00183_S01,Ames,"It was nearly six o’clock, I’ve heard,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00185,VOF_T00185_S01,Ames,"mrs. Douglas had visitors to tea, I couldn’t raise it until they went.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00186,VOF_T00186_S01,the sergeant,"Then it comes to this, If anyone came from outside—_if_ they did—they must have got in across the bridge before six and been in hiding ever since, until mr. Douglas came into the room after eleven.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00187,VOF_T00187_S01,Unknown,That is so! mr. Douglas went round the house every night the last thing before he turned in to see that the lights were right.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00192,VOF_T00192_S03,Unknown,"What have you got there, dr. Wood?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00193,VOF_T00193_S01,Unknown,"mr. Douglas was altering the pictures yesterday,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00195,VOF_T00195_S01,the sergeant,"We’d best put it back on the rug where we found it, It will want the best brains in the force to get to the bottom of this thing.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00198,VOF_T00198_S01,the butler,"When the lamps were lit, It would be shortly after four.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00200,VOF_T00200_S01,Unknown,"I’m bound to say this bears out your theory, mr. Barker.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00200,VOF_T00200_S06,Unknown,"It is likely that his main idea was to burgle the house; but mr. Douglas chanced to come upon him, so he murdered him and escaped.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00201,VOF_T00201_S01,Barker,"That’s how I read it, But, I say, aren’t we wasting precious time?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00205,VOF_T00205_S01,the doctor,"It’s not tattooed, I never saw anything like it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00206,VOF_T00206_S01,Cecil Barker,"I don’t profess to know the meaning of it, but I have seen the mark on Douglas many times this last ten years.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00207,VOF_T00207_S01,the butler,"And so have I, Many a time when the master has rolled up his sleeves I have noticed that very mark.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00208,VOF_T00208_S01,the sergeant,"Then it has nothing to do with the crime, anyhow, But it’s a rum thing all the same.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00212,VOF_T00212_S01,Barker,"He’s right, Do you tell me,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00217,VOF_T00217_S01,he,"Seems to me the sooner we get London on to this case the better, White Mason is a smart man.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00218,VOF_T00218_S01,Unknown,"A real downright snorter, mr. MacDonald!",False,True,found_after_aggressive_normalization
+VOF,VOF_T00219,VOF_T00219_S04,Unknown,"There are some bits that will come home to you, mr. Holmes, or I am mistaken.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00219,VOF_T00219_S05,Unknown,"And you also, dr. Watson; for the medicos will have a word to say before we finish.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00222,VOF_T00222_S01,White Mason in great,"I thought you would say so, mr. Holmes, We’re well up with the times in Sussex.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00223,VOF_T00223_S03,Holmes,There was dr. Wood there to help me.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00223,VOF_T00223_S05,Holmes,"I was hoping that if mr. Douglas defended himself with the hammer, he might have left his mark upon the murderer before he dropped it on the mat.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00224,VOF_T00224_S01,I,"That, of course, proves nothing at all, There has been many a hammer murder and no trace on the hammer.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00227,VOF_T00227_S01,Unknown,"Pennsylvania Small Arms Company—well-known American firm, That is very helpful, mr. Holmes.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00230,VOF_T00230_S01,he,"Man, you are surely travelling overfast, I have heard no evidence yet that any stranger was ever in the house at all.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00232,VOF_T00232_S01,Unknown,"Nothing there that could not have been arranged. mr. Douglas was an American, or had lived long in America.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00232,VOF_T00232_S02,Unknown,So had mr. Barker.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00238,VOF_T00238_S01,he,"I’m not convinced yet that there was ever anyone in the house, I’m asking you to conseedar",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00239,VOF_T00239_S04,Unknown,"I put it to you, mr. Holmes, judging it by what we have heard.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00240,VOF_T00240_S01,Holmes,"Well, state your case, mr. Mac, The man is not a burglar, supposing that he ever existed.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00240,VOF_T00240_S11,Holmes,"Is that credible, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00242,VOF_T00242_S02,Unknown,"May I ask, mr. White Mason, whether you examined the farther side of the moat at once to see if there were any signs of the man having climbed out from the water?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00243,VOF_T00243_S01,Unknown,"There were no signs, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00246,VOF_T00246_S02,Unknown,"Would there be any objection, mr. White Mason, to our going down to the house at once?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00247,VOF_T00247_S01,Unknown,"I was going to propose it, mr. Holmes; but I thought it well to put you in touch with all the facts before we go.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00248,VOF_T00248_S01,I,"I have worked with mr. Holmes before, He plays the game.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00249,VOF_T00249_S01,Holmes,"My own idea of the game, at any rate, I go into a case to help the ends of justice and the work of the police.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00249,VOF_T00249_S04,Holmes,"At the same time, mr. White Mason, I claim the right to work in my own way and give my results at my own time—complete rather than in stages.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00250,VOF_T00250_S01,White Mason,"I am sure we are honoured by your presence and to show you all we know, Come along, dr. Watson, and when the time comes we’ll all hope for a place in your book.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00251,VOF_T00251_S01,White Mason,"That’s the window, that one on the immediate right of the drawbridge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00253,VOF_T00253_S02,Unknown,"We don’t need your deductions, mr. Holmes, to tell us that.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00254,VOF_T00254_S01,White Mason,"I’ve had a good look, mr. Holmes, There is nothing there, no sign that anyone has landed—but why should he leave any sign?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00262,VOF_T00262_S05,Unknown,"Tell him to warn mr. Cecil Barker, mrs. Douglas, and the housekeeper that we may want a word with them presently.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00264,VOF_T00264_S01,MacDonald,"We can surely dismiss that, So I think.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00268,VOF_T00268_S01,Unknown,"Well, then, everyone is agreed that after the alarm was given only a minute at the most had passed before the whole household—not mr. Cecil Barker alone, though he claims to have been the first, but Ames and all of them were on the spot.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00269,VOF_T00269_S01,Holmes,"You put it very clearly, I am inclined to agree with you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00270,VOF_T00270_S05,Unknown,"He may have been a common burglar, or he may have had some private grudge against mr. Douglas.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00270,VOF_T00270_S06,Unknown,"Since mr. Douglas has spent most of his life in America, and this shotgun seems to be an American weapon, it would seem that the private grudge is the more likely theory.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00270,VOF_T00270_S09,Unknown,At that time mr. Douglas entered the room.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00270,VOF_T00270_S10,Unknown,"It was a short interview, if there were any interview at all; for mrs. Douglas declares that her husband had not left her more than a few minutes when she heard the shot.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00271,VOF_T00271_S01,Holmes,"The candle shows that, Exactly.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00271,VOF_T00271_S05,Holmes,When mr. Barker arrived the candle was lit and the lamp was out.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00273,VOF_T00273_S01,Unknown,"Well, now, we can reconstruct things on those lines. mr. Douglas enters the room.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00273,VOF_T00273_S05,Unknown,"He demands the wedding ring—Heaven only knows why, but so it must have been. mr. Douglas gave it up.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00273,VOF_T00273_S08,Unknown,"How’s that, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00275,VOF_T00275_S05,MacDonald,"Come, mr. Holmes, it’s up to you to give us a lead, since you say mr. White Mason’s theory is unconvincing.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00276,VOF_T00276_S01,he,"I should like a few more facts before I get so far as a theory, mr. Mac, Dear me! these injuries are really appalling.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00276,VOF_T00276_S03,he,"Ames, I understand that you have often seen this very unusual mark—a branded triangle inside a circle—upon mr. Douglas’s forearm?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00280,VOF_T00280_S03,Unknown,"Now, I observe, Ames, that there is a small piece of plaster at the angle of mr. Douglas’s jaw.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00286,VOF_T00286_S04,Unknown,"Perhaps you would rather do the questioning, mr. Mac?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00287,VOF_T00287_S01,Unknown,"No, mr. Holmes, it’s in better hands than mine.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00293,VOF_T00293_S01,Unknown,"What do you think, mr. Mac?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00295,VOF_T00295_S01,White Mason,"That’s my idea, too, Well, we can adopt it as a working hypothesis and then see how far our difficulties disappear.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00295,VOF_T00295_S02,White Mason,"An agent from such a society makes his way into the house, waits for mr. Douglas, blows his head nearly off with this weapon, and escapes by wading the moat, after leaving a card beside the dead man, which will, when mentioned in the papers, tell other members of the society that vengeance has been done.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00300,VOF_T00300_S01,Unknown,"That is so, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00303,VOF_T00303_S01,Ames,"mr. Douglas’s dumb-bells, Dumb-bell—there’s only one.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00304,VOF_T00304_S01,Unknown,"I don’t know, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00306,VOF_T00306_S01,he,"Sorry to interrupt your consultation, but you should hear the latest news.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00309,VOF_T00309_S01,the inspector,"It would be a grand help to the police, if these things were numbered and registered.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00309,VOF_T00309_S06,the inspector,"We don’t seem to get a gleam of light in the case, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00342,VOF_T00342_S01,MacDonald,"I should like these dates a little clearer, It is quite six years since Douglas left California.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00346,VOF_T00346_S01,Unknown,Did you know mrs. Douglas before her marriage?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00351,VOF_T00351_S01,Unknown,"I imagine nothing, mr. Barker.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00353,VOF_T00353_S03,Unknown,Did mr. Douglas entirely approve your friendship with his wife?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00359,VOF_T00359_S02,Unknown,I’d only ask you not to worry mrs. Douglas over this matter; for she has enough upon her just now.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00360,VOF_T00360_S01,he,"You are aware, that the dead man’s wedding ring has been taken from his finger?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00361,VOF_T00361_S01,Barker,"So it appears, What do you mean by ‘appears’?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00367,VOF_T00367_S01,MacDonald,"I don’t know that I’ve anything else to ask you at present, There was one small point,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00377,VOF_T00377_S01,Unknown,"I don’t see that it was remarkable, mr. Holmes,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00382,VOF_T00382_S01,the inspector,"We have taken every possible step, mrs. Douglas, You may rest assured that nothing will be neglected.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00387,VOF_T00387_S01,Unknown,We have heard from mr. Cecil Barker that you did not actually see—that you were never in the room where the tragedy occurred?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00391,VOF_T00391_S01,Unknown,How long was it after hearing the shot that you were stopped on the stair by mr. Barker?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00392,VOF_T00392_S05,Unknown,"Then mrs. Allen, the housekeeper, led me upstairs again.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00395,VOF_T00395_S01,Unknown,"That is just the point which I want to come to, mrs. Douglas.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00402,VOF_T00402_S01,Holmes,"Might I ask, what the words were which attracted your attention?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00409,VOF_T00409_S01,I,"There is one other point, You met mr. Douglas in a boarding house in London, did you not, and became engaged to him there?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00416,VOF_T00416_S01,the inspector,"Well, we will not detain you any longer, and we are sorry to have put you to this trouble at such a time, There are some other points, no doubt; but we can refer to you as they arise.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00418,VOF_T00418_S01,MacDonald,"She’s a beautiful woman—a very beautiful woman, This man Barker has certainly been down here a good deal.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00418,VOF_T00418_S06,MacDonald,"The man who tears a wedding ring off a dead man’s—What do you say to it, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00420,VOF_T00420_S01,Unknown,where is mr. Cecil Barker now?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00422,VOF_T00422_S01,Unknown,"Can you remember, Ames, what mr. Barker had on his feet last night when you joined him in the study?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00423,VOF_T00423_S01,Unknown,"Yes, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00426,VOF_T00426_S02,Unknown,"It is, of course, important for us to know which tracks may be mr. Barker’s and which from outside.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00431,VOF_T00431_S05,the inspector,"But what’s the game, mr. Holmes—what’s the game?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00435,VOF_T00435_S01,he,"Excuse me, sir, but am I addressing dr. Watson?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00436,VOF_T00436_S01,Unknown,"We thought that it was probably you, as your friendship with mr. Sherlock Holmes is so well known.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00436,VOF_T00436_S02,Unknown,Would you mind coming over and speaking to mrs. Douglas for one instant?,False,True,found_after_aggressive_normalization
+VOF,VOF_T00437,VOF_T00437_S01,she,"I fear that you think me callous and hard-hearted, It is no business of mine,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00439,VOF_T00439_S01,Barker,"There is no need why dr. Watson should realize, As he has himself said, it is no possible business of his.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00440,VOF_T00440_S01,I,"Exactly, and so I will beg leave to resume my walk.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00441,VOF_T00441_S01,Unknown,"One moment, dr. Watson, There is one question which you can answer with more authority than anyone else in the world, and it may make a very great difference to me.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00441,VOF_T00441_S02,Unknown,You know mr. Holmes and his relations with the police better than anyone else can.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00442,VOF_T00442_S01,Barker,"Yes, that’s it, Is he on his own or is he entirely in with them?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00444,VOF_T00444_S01,Unknown,"I beg—I implore that you will, dr. Watson!",False,True,found_after_aggressive_normalization
+VOF,VOF_T00445,VOF_T00445_S01,Unknown,"mr. Holmes is an independent investigator,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00446,VOF_T00446_S03,Unknown,"Beyond this I can say nothing, and I would refer you to mr. Holmes himself if you wanted fuller information.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00447,VOF_T00447_S01,Holmes,"I wish none of their confidences, No confidences, Watson; for they are mighty awkward if it comes to an arrest for conspiracy and murder.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00452,VOF_T00452_S04,Unknown,But Barker’s story is corroborated by mrs. Douglas.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00452,VOF_T00452_S32,Unknown,"It would not be very loud, and yet in the silence of the night it should have easily penetrated to mrs. Allen’s room.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00452,VOF_T00452_S36,Unknown,"“If this is so, we have now to determine what Barker and mrs. Douglas, presuming that they are not the actual murderers, could have been doing from quarter to eleven, when the sound of the shot brought them down, until quarter past eleven, when they rang the bell and summoned the servants.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00453,VOF_T00453_S01,I,"I am convinced myself, that there is an understanding between those two people.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00455,VOF_T00455_S01,Unknown,"You think then, definitely, that Barker and mrs. Douglas are guilty of the murder?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00456,VOF_T00456_S01,Holmes,"There is an appalling directness about your questions, Watson, They come at me like bullets.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00456,VOF_T00456_S02,Holmes,"If you put it that mrs. Douglas and Barker know the truth about the murder, and are conspiring to conceal it, then I can give you a whole-souled answer.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00457,VOF_T00457_S01,I,"That, I am sure, cannot be true, Well, at least they gave that impression.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00459,VOF_T00459_S14,Unknown,It’s a mere chance as it is that mrs. Allen did not start out to inquire for the slamming door.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00466,VOF_T00466_S01,I,"Well, it is possible, no doubt, We have to remember, Watson, that whatever occurred is certainly something very extraordinary.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00475,VOF_T00475_S01,MacDonald,"Man, I’ll admeet that I had my doubts if there was ever an outsider, but that’s all past now.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00476,VOF_T00476_S01,Holmes,"It sounds to me like the beginning of the end, I’m sure I congratulate you both with all my heart.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00477,VOF_T00477_S01,Unknown,"Well, I started from the fact that mr. Douglas had seemed disturbed since the day before, when he had been at Tunbridge Wells.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00478,VOF_T00478_S01,Holmes,"Well, well, you have indeed done some solid work while I have been sitting spinning theories with my friend!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00478,VOF_T00478_S02,Holmes,"It’s a lesson in being practical, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00479,VOF_T00479_S01,the inspector,"Ay, it’s just that, mr. Holmes, But this may all fit in with your theories,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00480,VOF_T00480_S02,Unknown,"But let us hear the end, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00482,VOF_T00482_S01,White Mason,"That’s what puzzles me, mr. Holmes, If the fellow did not want the hue and cry raised over him, one would imagine that he would have returned and remained at the hotel as an inoffensive tourist. As it is, he must know that he will be reported to the police by the hotel manager and that his disappearance will be connected with the murder.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00485,VOF_T00485_S01,Holmes,"Well, bar the expression, that might almost be a description of Douglas himself, He is just over fifty, with grizzled hair and moustache, and about the same height.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00490,VOF_T00490_S01,MacDonald,"Well, mr. Holmes, when we have got our man—and you may be sure that I had his description on the wires within five minutes of hearing it—we shall be better able to judge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00490,VOF_T00490_S07,MacDonald,"Presumably he at once concealed his cycle among the laurels where it was found, and possibly lurked there himself, with his eye on the house, waiting for mr. Douglas to come out.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00491,VOF_T00491_S01,Holmes,"That is all very clear, Well, mr. Douglas did not appear.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00491,VOF_T00491_S09,Holmes,"He waited until quarter-past eleven, when mr. Douglas upon his usual nightly round came into the room.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00491,VOF_T00491_S12,Holmes,"How is that, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00492,VOF_T00492_S01,Unknown,"Well, mr. Mac, it is very good and very clear so far as it goes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00492,VOF_T00492_S03,Unknown,"My end is that the crime was committed half an hour earlier than reported; that mrs. Douglas and Barker are both in a conspiracy to conceal something; that they aided the murderer’s escape—or at least that they reached the room before he escaped—and that they fabricated evidence of his escape through the window, whereas in all probability they had themselves let him go by lowering the bridge.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00493,VOF_T00493_S01,the London inspector,"Well, mr. Holmes, if this is true, we only tumble out of one mystery into another, And in some ways a worse one,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00495,VOF_T00495_S01,Holmes,"I freely admit the difficulties, I propose to make a little investigation of my own to-night, and it is just possible that it may contribute something to the common cause.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00496,VOF_T00496_S01,Unknown,"Can we help you, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00497,VOF_T00497_S02,Unknown,Darkness and dr. Watson’s umbrella—my wants are simple.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00508,VOF_T00508_S02,Holmes,"Now, mr. Mac and you, mr. White Mason, I wish to give you a very earnest piece of advice.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00512,VOF_T00512_S02,Unknown,"It’s hardly fair of you, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00513,VOF_T00513_S01,Unknown,"You know my methods of work, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00514,VOF_T00514_S01,Unknown,"This is clean beyond me, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00518,VOF_T00518_S01,Unknown,"It immensely adds to the zest of an investigation, my dear mr. Mac, when one is in conscious sympathy with the historical atmosphere of one’s surroundings.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00519,VOF_T00519_S01,Unknown,"You are making fools of us, mr. Holmes!",False,True,found_after_aggressive_normalization
+VOF,VOF_T00520,VOF_T00520_S01,Unknown,"Tut, tut, mr. Mac!—the first sign of temper I have detected in you.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00521,VOF_T00521_S01,Unknown,"I don’t doubt it, mr. Holmes; but that is no business of ours.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00522,VOF_T00522_S03,Unknown,"Breadth of view, my dear mr. Mac, is one of the essentials of our profession.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00523,VOF_T00523_S01,the detective,"I’m the first to admit that, You get to your point, I admit; but you have such a deuced round-the-corner way of doing it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00524,VOF_T00524_S03,Unknown,I did not see either Barker or mrs. Douglas.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00524,VOF_T00524_S05,Unknown,"My visit was specially made to the good mr. Ames, with whom I exchanged some amiabilities, which culminated in his allowing me, without reference to anyone else, to sit alone for a time in the study.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00526,VOF_T00526_S02,Unknown,"You gave permission for that, mr. Mac, as I am informed.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00531,VOF_T00531_S01,the inspector,"Well, we’re bound to take you on your own terms, but when it comes to telling us to abandon the case—why in the name of goodness should we abandon the case?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00532,VOF_T00532_S01,Unknown,"For the simple reason, my dear mr. Mac, that you have not got the first idea what it is that you are investigating.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00533,VOF_T00533_S01,Unknown,We are investigating the murder of mr. John Douglas of Birlstone Manor.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00538,VOF_T00538_S01,Unknown,"And you, mr. White Mason?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00542,VOF_T00542_S01,Unknown,"Do what you like and go where you will, but meet me here before dusk without fail—without fail, mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00544,VOF_T00544_S02,Unknown,"But now, before we part, I want you to write a note to mr. Barker.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00547,VOF_T00547_S01,the inspector,"It’s impossible, I’ve made inquiry.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00553,VOF_T00553_S01,my friend,"Well, gentlemen, I am asking you now to put everything to the test with me, and you will judge for yourselves whether the observations I have made justify the conclusions to which I have come.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00556,VOF_T00556_S01,he,"Watson insists that I am the dramatist in real life, Some touch of the artist wells up within me, and calls insistently for a well-staged performance.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00556,VOF_T00556_S02,he,"Surely our profession, mr. Mac, would be a drab and sordid one if we did not sometimes set the scene so as to glorify our results.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00556,VOF_T00556_S07,he,"I only ask a little patience, mr. Mac, and all will be clear to you.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00557,VOF_T00557_S01,Unknown,"Well, I hope the pride and justification and the rest of it will come before we all get our death of cold, How long is this to last?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00564,VOF_T00564_S01,Unknown,"This is what we are after, mr. Barker—this bundle, weighted with a dumb-bell, which you have just raised from the bottom of the moat.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00568,VOF_T00568_S01,Holmes,"Perhaps I should have said ‘replaced it there,’ You will remember, Inspector MacDonald, that I was somewhat struck by the absence of a dumb-bell.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00568,VOF_T00568_S04,Holmes,"The idea was at least worth testing; so with the help of Ames, who admitted me to the room, and the crook of dr. Watson’s umbrella, I was able last night to fish up and inspect this bundle.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00568,VOF_T00568_S07,Holmes,"We have no less than four witnesses as to who it was who took advantage of the opportunity, and so, mr. Barker, I think the word lies now with you.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00570,VOF_T00570_S01,Holmes,"The clothes are commonplace, save only the overcoat, which is full of suggestive touches.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00571,VOF_T00571_S03,Unknown,"I have some recollection, mr. Barker, that you associated the coal districts with mr. Douglas’s first wife, and it would surely not be too far-fetched an inference that the V.V. upon the card by the dead body might stand for Vermissa Valley, or that this very valley which sends forth emissaries of murder may be that Valley of Fear of which we have heard.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00571,VOF_T00571_S05,Unknown,"And now, mr. Barker, I seem to be standing rather in the way of your explanation.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00572,VOF_T00572_S01,Unknown,"You know such a lot, mr. Holmes, perhaps you had better tell us some more,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00573,VOF_T00573_S01,Unknown,"I have no doubt that I could tell you a great deal more, mr. Barker; but it would come with a better grace from you.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00575,VOF_T00575_S01,the inspector,"Well, if you take that line, mr. Barker, we must just keep you in sight until we have the warrant and can hold you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00576,VOF_T00576_S01,Unknown,"You can do what you damn please about that, You have done enough for now, Cecil,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00578,VOF_T00578_S01,She,"Enough and more than enough, I have every sympathy with you, madam, and should strongly urge you to have some confidence in the common sense of our jurisdiction and to take the police voluntarily into your complete confidence.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00578,VOF_T00578_S02,She,"It may be that I am myself at fault for not following up the hint which you conveyed to me through my friend, dr. Watson; but, at that time I had every reason to believe that you were directly concerned in the crime.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00578,VOF_T00578_S04,She,"At the same time, there is much that is unexplained, and I should strongly recommend that you ask mr. Douglas to tell us his own story.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00581,VOF_T00581_S01,She,"Indeed, yes, mr. Douglas, I am sure that you will find it best.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00582,VOF_T00582_S01,he,"I’ve heard of you, You are the historian of this bunch.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00582,VOF_T00582_S02,he,"Well, dr. Watson, you’ve never had such a story as that pass through your hands before, and I’ll lay my last dollar on that.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00583,VOF_T00583_S01,She,"That’s the past, mr. Douglas, What we desire now is to hear your story of the present.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00584,VOF_T00584_S01,Douglas,"You’ll have it, sir, May I smoke as I talk?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00584,VOF_T00584_S02,Douglas,"Well, thank you, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00585,VOF_T00585_S01,Unknown,"I’ve heard of you, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00588,VOF_T00588_S01,Unknown,"If you are mr. John Douglas of Birlstone Manor, then whose death have we been investigating for these two days, and where in the world have you sprung from now?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00589,VOF_T00589_S01,Holmes,"Ah, mr. Mac, you would not read that excellent local compilation which described the concealment of King Charles.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00589,VOF_T00589_S03,Holmes,I had persuaded myself that we should find mr. Douglas under this roof.,False,True,found_after_aggressive_normalization
+VOF,VOF_T00590,VOF_T00590_S01,the inspector,"And how long have you been playing this trick upon us, mr. Holmes?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00591,VOF_T00591_S01,Unknown,"Not one instant, my dear mr. Mac.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00591,VOF_T00591_S05,Unknown,"When I found the suit of clothes in the moat, it at once became apparent to me that the body we had found could not have been the body of mr. John Douglas at all, but must be that of the bicyclist from Tunbridge Wells.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00591,VOF_T00591_S07,Unknown,"Therefore I had to determine where mr. John Douglas himself could be, and the balance of probability was that with the connivance of his wife and his friend he was concealed in a house which had such conveniences for a fugitive, and awaiting quieter times when he could make his final escape.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00592,VOF_T00592_S01,Douglas,"Well, you figured it out about right, I thought I’d dodge your British law; for I was not sure how I stood under it, and also I saw my chance to throw these hounds once for all off my track.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00596,VOF_T00596_S06,Unknown,"You slipped up there, mr. Holmes, clever as you are; for if you had chanced to take off that plaster you would have found no cut underneath it.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00597,VOF_T00597_S02,Unknown,"You will get no worse than your deserts from that, mr. Douglas.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00599,VOF_T00599_S01,he,"The story is not over yet, I fear, You may find worse dangers than the English law, or even than your enemies from America.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00599,VOF_T00599_S02,he,"I see trouble before you, mr. Douglas.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00601,VOF_T00601_S01,he,"Yes, we need them sometimes in the place I come from.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00606,VOF_T00606_S01,the workman,"You may find you need it here, Ah! is that so?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00618,VOF_T00618_S01,the workman,"I see you speak the truth, But it’s well to make certain.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00619,VOF_T00619_S01,the workman,"Dark nights are unpleasant, Yes, for strangers to travel,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00623,VOF_T00623_S01,McMurdo,"I found plenty of work to do, Then why did you leave?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00630,VOF_T00630_S01,McMurdo with the air,"It’s early days to talk of such things, I’ve my own good reasons for leaving Chicago, and let that be enough for you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00636,VOF_T00636_S01,Unknown,"I guess hell must look something like that, For that matter,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00642,VOF_T00642_S01,one,"No offense, stranger, It was a warning for your own good, seeing that you are, by your own showing, new to the place.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00644,VOF_T00644_S01,one of the patrolmen,"Maybe we’ll see more of you before very long, You’re a real hand-picked one, if I am a judge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00645,VOF_T00645_S01,the other,"I was thinking the same, I guess we may meet again.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00650,VOF_T00650_S01,the guide,"That’s the Union House, Jack McGinty is the boss there.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00665,VOF_T00665_S01,McMurdo,"I thank you, I thought it was father,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00669,VOF_T00669_S01,she,"You are quick to make up your mind, Anyone but a blind man could do as much,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00671,VOF_T00671_S01,Unknown,"I’m Miss Ettie Shafter, mr. Shafter’s daughter.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00674,VOF_T00674_S01,he,"Say, McMurdo, I remembered your address, so I made bold to call.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00688,VOF_T00688_S01,he,"You go and see him, my lad, It’s not the police but you that he’ll hate if you don’t!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00689,VOF_T00689_S01,he,"It seems to me, mister, that you are gettin’ set on my Ettie.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00701,VOF_T00701_S01,he,"The Scowrers, are the Eminent Order of Freemen!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00709,VOF_T00709_S03,Unknown,"Vat about Milman and Van Shorst, and the Nicholson family, and old mr. Hyam, and little Billy James, and the others?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00710,VOF_T00710_S09,McMurdo,"I guess you owe me either an apology or else an explanation, mr. Shafter.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00715,VOF_T00715_S01,the girl,"Oh, hush, mr. McMurdo, don’t speak so!",False,True,found_after_aggressive_normalization
+VOF,VOF_T00741,VOF_T00741_S01,she,"I’m glad to see you, mr. Baldwin, You’re earlier than I had thought.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00743,VOF_T00743_S01,Unknown,"It’s a friend of mine, mr. Baldwin, a new boarder here. mr. McMurdo, may I introduce you to mr. Baldwin?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00748,VOF_T00748_S01,Unknown,"Maybe you are in a humour for a fight, mr. Boarder!",False,True,found_after_aggressive_normalization
+VOF,VOF_T00753,VOF_T00753_S01,McMurdo,"I think, Ettie, that if you were to leave us alone we could get this thing settled, Or maybe, mr. Baldwin, you will take a turn down the street with me.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00754,VOF_T00754_S01,his enemy,"I’ll get even with you without needing to dirty my hands, You’ll wish you had never set foot in this house before I am through with you!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00755,VOF_T00755_S01,McMurdo,"No time like the present, I’ll choose my own time, mister.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00762,VOF_T00762_S01,McMurdo,"I was thinking the same thing, I’ll go right now and fix it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00764,VOF_T00764_S01,Unknown,"I’m new here, mr. McGinty.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00766,VOF_T00766_S01,Unknown,"He’s Councillor McGinty, young man, I’m sorry, Councillor.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00768,VOF_T00768_S02,McMurdo,"If your heart is as big as your body, and your soul as fine as your face, then I’d ask for nothing better, If your heart is as big as your body, and your soul as fine as your face, then I’d ask for nothing better, By Gar! you’ve got an Irish tongue in your head anyhow,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00770,VOF_T00770_S01,McMurdo,"Sure, And you were told to see me?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00776,VOF_T00776_S01,Unknown,"A bit closer, mr. McMurdo; for we don’t take folk on trust in these parts, nor believe all we’re told neither.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00777,VOF_T00777_S01,he,"See here, my joker, if I thought you were playing any game on us, it would be short work for you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00780,VOF_T00780_S01,McGinty,"Ay, but it’s just that same that you have to prove, and God help you if you fail!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00796,VOF_T00796_S01,Unknown,"True for you, mr. McMurdo.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00804,VOF_T00804_S01,McMurdo,"You are right, Councillor, I should apologize.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00815,VOF_T00815_S01,he,"Those never passed the Philadelphia mint, You don’t say!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00826,VOF_T00826_S01,he,"So, you got here first, did you?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00827,VOF_T00827_S01,McMurdo,"Then say it here and now before my face, I’ll say it at my own time, in my own way.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00835,VOF_T00835_S01,McGinty,"Yes, it is, Ted Baldwin, Is it you that would dispute it?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00840,VOF_T00840_S01,the other,"Well, then, we are all good friends again and there’s an end of the matter.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00843,VOF_T00843_S01,Baldwin,"The clouds are heavy, But they will forever brighten.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00846,VOF_T00846_S01,Unknown,"Faith, I’d be slow to do that, I’m quick to quarrel and quick to forgive.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00851,VOF_T00851_S01,the police officer,"A straight whisky; for the night is bitter, I don’t think we have met before, Councillor?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00853,VOF_T00853_S01,McGinty,"We’d do better without you, Captain Marvin, for we have our own police of the township, and no need for any imported goods.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00854,VOF_T00854_S01,the police officer,"Well, well, we won’t argue about that, I expect we all do our duty same as we see it; but we can’t all see it the same.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00857,VOF_T00857_S01,he,"I was never a friend to you nor any other cursed copper in my life, An acquaintance isn’t always a friend,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00859,VOF_T00859_S01,he,"I’m not denying it, D’ye think I’m ashamed of my own name?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00869,VOF_T00869_S01,McMurdo,"Well, I suppose you mean well, and I do thank you, It’s mum with me so long as I see you living on the straight,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00872,VOF_T00872_S01,he,"The Bodymaster orders that he shall be trussed, blinded, and entered, John McMurdo,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00874,VOF_T00874_S01,Unknown,"Is your lodge no. 29, Chicago?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00875,VOF_T00875_S01,the voice,"Dark nights are unpleasant, Yes, for strangers to travel,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00884,VOF_T00884_S01,the voice,"He is of stout heart, Can you bear pain?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00887,VOF_T00887_S01,he,"I can take more than that, One last word, Brother McMurdo,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00889,VOF_T00889_S01,McMurdo,"I am, And you accept the rule of the Bodymaster for the time being under all circumstances?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00892,VOF_T00892_S01,one,"We’ve all had it, but not all as brave as you over it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00893,VOF_T00893_S02,he,"It was nothing, The first business on the agenda paper,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00898,VOF_T00898_S01,the volunteer,"I’ve no pistol, It’s your first, is it not?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00906,VOF_T00906_S01,he,"I like it well, ’Tis a proper place for a lad of mettle.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00909,VOF_T00909_S01,the secretary,"I would move, that Brother McMurdo should wait until it is the good pleasure of the lodge to employ him.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00910,VOF_T00910_S01,McMurdo,"Sure, that was what I meant; I’m in your hands, Your time will come, Brother,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00916,VOF_T00916_S01,the treasurer,"The funds are good at the moment, The firms have been generous of late.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00918,VOF_T00918_S01,Unknown,"mr. Treasurer,",False,True,found_after_aggressive_normalization
+VOF,VOF_T00925,VOF_T00925_S01,the chairman,"I don’t see, Brother Morris, that it matters to us who buys them, since they can’t carry them out of the district.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00929,VOF_T00929_S01,he,"Brother Morris, you were always a croaker.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00933,VOF_T00933_S01,he,"Boys, there’s one man in this town that wants trimming up, and it’s for you to see that he gets it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00937,VOF_T00937_S01,McGinty,"And how would they bring about our destruction, mr. Standback?",False,True,found_after_aggressive_normalization
+VOF,VOF_T00938,VOF_T00938_S01,Unknown,"There is a Judge Lynch that might try the case, I have but to raise my finger,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00946,VOF_T00946_S01,Unknown,"I promised the new brother he should go, Well, he can come if he wants,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00949,VOF_T00949_S01,Baldwin to McMurdo,"Here, you, you can stand below at the door and see that the road is kept open for us.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00950,VOF_T00950_S01,he,"You’ll kill the man, Drop it!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00955,VOF_T00955_S01,one of the men,"It’s truth he says, By Gar! you’d best hurry yourselves!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00958,VOF_T00958_S01,the older man,"I wanted to have a word with you, mr. McMurdo, It was kind of you to come.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00962,VOF_T00962_S01,Morris,"No, no, not always, Whatever we say, even what we think, seems to go back to that man McGinty.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00964,VOF_T00964_S01,Morris,"If that is the view you take, I can only say that I am sorry I gave you the trouble to come and meet me.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00965,VOF_T00965_S01,he,"Sure I spoke for myself only, I am a newcomer, as you know, and I am strange to it all.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00965,VOF_T00965_S02,he,"It is not for me to open my mouth, mr. Morris, and if you think well to say anything to me I am here to hear it.",False,True,found_after_aggressive_normalization
+VOF,VOF_T00968,VOF_T00968_S01,Morris,"I have given up looking for either the one or the other, I may be putting my very life in your hands by what I say; but, bad as you are—and it seemed to me last night that you were shaping to be as bad as the worst—still you are new to it, and your conscience cannot yet be as hardened as theirs.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00975,VOF_T00975_S01,McMurdo,"There are some would say it was war, a war of two classes with all in, so that each struck as best it could.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00979,VOF_T00979_S01,he,"You were too soft for the job, You are the wrong sort for such work.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00983,VOF_T00983_S01,McMurdo,"That’s well, I’m thinking that you are a weak man and that you make too much of the matter.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00985,VOF_T00985_S01,McMurdo,"Well, I’ll let you know what I think when I have seen more, What is very clear is that you are not the man for the place, and that the sooner you sell out—if you only get a dime a dollar for what the business is worth—the better it will be for you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T00987,VOF_T00987_S01,Morris,"One word before you go, We may have been seen together.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01007,VOF_T01007_S01,McMurdo,"It may be enough for most folk; but it ain’t enough for me, Councillor, If you are a judge of men, you’ll know that.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01008,VOF_T01008_S01,he,"You’re a queer card, for sure, Well, if you want reasons, I’ll give them.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01009,VOF_T01009_S01,Unknown,no.,False,True,found_after_aggressive_normalization
+VOF,VOF_T01011,VOF_T01011_S01,Unknown,no.,False,True,found_after_aggressive_normalization
+VOF,VOF_T01015,VOF_T01015_S01,McGinty,"Well, that’s enough, I came down to give you a word in season, and you’ve had it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01016,VOF_T01016_S01,McMurdo,"I’d like to know, how you ever came to learn that I had spoken with Morris at all?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01017,VOF_T01017_S01,he,"It’s my business to know what goes on in this township, I guess you’d best reckon on my hearing all that passes.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01018,VOF_T01018_S01,he,"I thought you’d be getting into trouble, mr. Crooked McMurdo of Chicago, Can’t keep out of it, can you?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01019,VOF_T01019_S01,McGinty,"I guess you’ll pay for this, Captain Marvin, Who are you, I’d like to know, to break into a house in this fashion and molest honest, law-abiding men?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01020,VOF_T01020_S01,the police captain,"You’re standing out in this deal, Councillor McGinty, We are not out after you, but after this man McMurdo.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01021,VOF_T01021_S01,the Boss,"He is a friend of mine, and I’ll answer for his conduct, By all accounts, mr. McGinty, you may have to answer for your own conduct some of these days,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01023,VOF_T01023_S01,McMurdo,"There’s my pistol, Maybe, Captain Marvin, if you and I were alone and face to face you would not take me so easily.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01027,VOF_T01027_S01,McGinty,"Well, if that’s all you have against him, you can save yourself a deal of trouble by dropping it right now.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01028,VOF_T01028_S03,Unknown,"You stand wide, mr. McGinty; for I warn you I will stand no resistance when I am on duty!",False,True,found_after_aggressive_normalization
+VOF,VOF_T01030,VOF_T01030_S01,McMurdo,"All right, I’ll bid you good-bye,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01037,VOF_T01037_S01,Unknown,"He’ll be the boy for the clean job, It’s you!",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01051,VOF_T01051_S01,he,"I’ll tell you, acushla, I’m under oath not to show it, and just as I wouldn’t break my word to you so I would keep it to those who hold my promise.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01063,VOF_T01063_S01,he,"Sure, it is the second time I have heard the valley so named, The shadow does indeed seem to lie heavy on some of you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01073,VOF_T01073_S01,Scanlan,"Sure, we are all in it together, That’s true enough, and we’ll talk till the cows come home of the killing of Charlie Williams or of Simon Bird, or any other job in the past. But till the work is done we say nothing.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01074,VOF_T01074_S01,McMurdo,"There are half a dozen about here that I have a word to say to, I suppose it isn’t Jack Knox of Ironhill that you are after.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01085,VOF_T01085_S01,he,"See here, my lad, I’ve got a job that’s worthy of you at last. You’ll have the doing of it in your own hands.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01103,VOF_T01103_S01,McGinty,"Very good, I leave it with you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01104,VOF_T01104_S01,McMurdo,"Leave him to me, He’s my man, and I’ll get him sure if I have to wait a year for him.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01105,VOF_T01105_S01,Unknown,"Can I speak with you freely, mr. McMurdo?",False,True,found_after_aggressive_normalization
+VOF,VOF_T01111,VOF_T01111_S01,he,"That’s the physic for the likes of you, Now let me hear of it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01112,VOF_T01112_S01,he,"I can tell it to you all in one sentence, There’s a detective on our trail.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01143,VOF_T01143_S01,McMurdo,"Self-protection is no murder, anyhow, It’s him or us.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01160,VOF_T01160_S01,Unknown,"It’s Lander and Egan, They both claim the head money given by the lodge for the shooting of old man Crabbe over at Stylestown, and who’s to say which fired the bullet?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01163,VOF_T01163_S01,McGinty,"Brother McMurdo claims urgency, It’s a claim that by the rules of this lodge takes precedence.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01167,VOF_T01167_S01,Unknown,"It is in this letter which has come into my hands, It is a matter of honour with me that I can give no further particulars about the letter, nor put it into your hands; but I assure you that there is nothing else in it which can affect the interests of the lodge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01168,VOF_T01168_S01,one of the older,"Let me say, mr. Chairman, that I have heard of Birdy Edwards, and that he has the name of being the best man in the Pinkerton service.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01175,VOF_T01175_S01,Unknown,"That he never leaves the valley, Good for you, Brother Baldwin,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01178,VOF_T01178_S01,McMurdo,"Eminent Bodymaster, I would put it to you that this is too vital a thing for us to discuss in open lodge.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01178,VOF_T01178_S03,McMurdo,"I would ask the lodge to choose a trusty committee, mr. Chairman—yourself, if I might suggest it, and Brother Baldwin here, and five more.",False,True,found_after_aggressive_normalization
+VOF,VOF_T01187,VOF_T01187_S02,McGinty,"I believe you are right, But what do you allow that we should do about it?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01190,VOF_T01190_S01,McMurdo,"I’d start this next minute if I knew where we could find him, He’s in Hobson’s Patch; but I don’t know the house.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01199,VOF_T01199_S01,McGinty,"There’s not a weak man in the lodge, True as steel, every man of them.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01205,VOF_T01205_S01,McGinty,"True for you, And we’ll learn from Birdy Edwards himself where he got his news if we have to cut his heart out first. Did he seem to scent a trap?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01211,VOF_T01211_S01,McGinty,"Faith, he’s right there, Didn’t he ask you why you didn’t bring him the papers?",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01213,VOF_T01213_S01,McGinty,"Ay, I heard of that, I guess the heavy end of this business is coming on to you.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01214,VOF_T01214_S01,he,"If we handle it right, they can never prove the killing, No one can see him come to the house after dark, and I’ll lay to it that no one will see him go.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01221,VOF_T01221_S01,McGinty,"It’s a good plan, The lodge will owe you a debt for this.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01222,VOF_T01222_S01,McMurdo,"Sure, Councillor, I am little more than a recruit, And if I were you, Mike Scanlan, I would take a night off and keep clear of it.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01225,VOF_T01225_S01,he,"That will do, Ay,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01227,VOF_T01227_S01,Unknown,"We’ll have the truth out of him, never fear, You are the one to handle him,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01230,VOF_T01230_S02,the secretary,"Maybe he’ll get a sniff of danger, He’ll come, never fear,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01240,VOF_T01240_S01,Unknown,"You’re safer there, Councillor, And you, Baldwin, if you don’t take your hand off your pistol, you’ll cheat the hangman yet.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01241,VOF_T01241_S01,Unknown,"I’d like to say a word to you before we separate, I guess we may not meet again until you see me on the stand in the courthouse.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01247,VOF_T01247_S01,Unknown,"Dear me, mr. Holmes.",False,True,found_after_aggressive_normalization
+VOF,VOF_T01248,VOF_T01248_S01,he,"I’ve had bad news—terrible news, mr. Holmes, I feared as much,",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01253,VOF_T01253_S02,Unknown,I received this cable from mrs. Douglas this morning: “Jack has been lost overboard in gale off st. Helena.,False,True,found_after_aggressive_normalization
+VOF,VOF_T01260,VOF_T01260_S01,Holmes,"No, no, my good sir, There is a master hand here.",False,False,not_found_even_after_aggressive_normalization
+VOF,VOF_T01266,VOF_T01266_S01,Holmes,"No, I don’t say that, I don’t say that he can’t be beat.",False,False,not_found_even_after_aggressive_normalization
