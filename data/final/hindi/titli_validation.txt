@@ -1,0 +1,10 @@
+TITLI HINDI CORPUS VALIDATION
+
+Source: Hindi Wikisource
+Novel: तितली
+Author: जयशंकर प्रसाद
+Pages attempted: 31
+Dialogue candidates: 419
+Known speakers: 419
+Unknown speakers: 0
+CSV: data\final\hindi\titli_dialogue_candidates.csv

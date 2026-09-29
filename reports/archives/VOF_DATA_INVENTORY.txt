@@ -1,0 +1,110 @@
+﻿============================================================
+THE VALLEY OF FEAR — DATA INVENTORY
+Generated: 2026-09-26 17:59:55
+============================================================
+
+============================================================
+FOLDER: .\data\raw\english
+============================================================
+the_man_who_was_thursday_raw.txt | 369,376 bytes | 9/20/2026 11:47:03 PM
+the_old_wives_tale_raw.txt | 1,315,174 bytes | 9/21/2026 12:42:25 AM
+the_valley_of_fear_raw.txt | 356,557 bytes | 9/18/2026 8:26:48 PM
+
+============================================================
+FOLDER: .\data\cleaned\english
+============================================================
+the_man_who_was_thursday_clean.txt | 348,779 bytes | 9/20/2026 11:48:29 PM
+the_old_wives_tale_clean.txt | 1,269,902 bytes | 9/21/2026 12:44:14 AM
+the_valley_of_fear_clean.txt | 343,239 bytes | 9/19/2026 10:11:31 AM
+
+============================================================
+FOLDER: .\data\extracted\english
+============================================================
+the_man_who_was_thursday_candidate_attribution_context_resolved.csv | 393,376 bytes | 9/21/2026 12:28:44 AM
+the_man_who_was_thursday_candidate_attribution_map.csv | 345,784 bytes | 9/21/2026 12:26:15 AM
+the_man_who_was_thursday_candidate_context_review.csv | 997,364 bytes | 9/20/2026 11:55:34 PM
+the_man_who_was_thursday_candidate_speaker_analysis.csv | 206,612 bytes | 9/20/2026 11:52:52 PM
+the_man_who_was_thursday_candidate_speaker_audit_v4.csv | 354,888 bytes | 9/21/2026 12:15:52 AM
+the_man_who_was_thursday_candidate_speaker_audit_v5.csv | 346,457 bytes | 9/21/2026 12:18:51 AM
+the_man_who_was_thursday_dialogue_candidates.csv | 1,043,701 bytes | 9/20/2026 11:51:55 PM
+the_man_who_was_thursday_dialogue_turns_v1.csv | 173,992 bytes | 9/20/2026 11:58:24 PM
+the_man_who_was_thursday_dialogue_turns_v1_audit.csv | 182,719 bytes | 9/21/2026 12:03:32 AM
+the_man_who_was_thursday_dialogue_turns_v2.csv | 156,154 bytes | 9/21/2026 12:07:29 AM
+the_man_who_was_thursday_dialogue_turns_v3.csv | 209,615 bytes | 9/21/2026 12:11:37 AM
+the_man_who_was_thursday_dialogue_turns_v4.csv | 187,513 bytes | 9/21/2026 12:15:52 AM
+the_man_who_was_thursday_dialogue_turns_v5.csv | 189,770 bytes | 9/21/2026 12:18:51 AM
+the_man_who_was_thursday_dialogue_turns_v6.csv | 246,958 bytes | 9/21/2026 12:31:28 AM
+the_man_who_was_thursday_dialogue_turns_v7.csv | 215,400 bytes | 9/21/2026 12:35:28 AM
+the_man_who_was_thursday_turn_boundary_audit_v3.csv | 405,659 bytes | 9/21/2026 12:11:37 AM
+the_man_who_was_thursday_v6_continuation_boundary_audit.csv | 635,401 bytes | 9/21/2026 12:33:46 AM
+the_man_who_was_thursday_v7_turn_audit.csv | 237,911 bytes | 9/21/2026 12:36:46 AM
+the_old_wives_tale_close_boundary_review_v1.csv | 17,940 bytes | 9/21/2026 1:02:41 AM
+the_old_wives_tale_dialogue_attribution_analysis.csv | 1,855,061 bytes | 9/21/2026 12:49:14 AM
+the_old_wives_tale_dialogue_candidates.csv | 1,800,702 bytes | 9/21/2026 12:47:54 AM
+the_old_wives_tale_dialogue_turns_v1.csv | 115,640 bytes | 9/21/2026 1:00:45 AM
+the_old_wives_tale_speaker_audit_v1.csv | 433,585 bytes | 9/21/2026 12:52:27 AM
+the_old_wives_tale_speaker_candidates_v1.csv | 1,847,565 bytes | 9/21/2026 12:51:33 AM
+the_old_wives_tale_speaker_candidates_v2.csv | 1,821,206 bytes | 9/21/2026 12:53:46 AM
+the_old_wives_tale_speaker_candidates_v3.csv | 1,795,294 bytes | 9/21/2026 12:55:12 AM
+the_old_wives_tale_speaker_candidates_v4.csv | 1,819,444 bytes | 9/21/2026 12:56:03 AM
+the_old_wives_tale_speaker_candidates_v5.csv | 1,819,435 bytes | 9/21/2026 12:57:37 AM
+the_old_wives_tale_turn_audit_v1.csv | 50,640 bytes | 9/21/2026 1:00:45 AM
+the_old_wives_tale_turn_boundary_audit_v1.csv | 88,223 bytes | 9/21/2026 1:01:42 AM
+the_old_wives_tale_unusual_speaker_audit_v1.csv | 8,630 bytes | 9/21/2026 12:56:46 AM
+the_old_wives_tale_v1_turn_audit.csv | 225 bytes | 9/21/2026 1:05:14 AM
+the_valley_of_fear_contextual_speaker_audit.csv | 7,970 bytes | 9/19/2026 10:43:04 AM
+the_valley_of_fear_dialogue.csv | 334,194 bytes | 9/19/2026 10:23:39 AM
+the_valley_of_fear_dialogue_review.csv | 736,586 bytes | 9/19/2026 10:23:39 AM
+the_valley_of_fear_dialogue_v2.csv | 305,446 bytes | 9/19/2026 10:32:52 AM
+the_valley_of_fear_dialogue_v2_review.csv | 710,276 bytes | 9/19/2026 10:32:52 AM
+the_valley_of_fear_dialogue_v3.csv | 186,353 bytes | 9/19/2026 10:37:59 AM
+the_valley_of_fear_dialogue_v3_review.csv | 6,382 bytes | 9/19/2026 10:37:59 AM
+the_valley_of_fear_dialogue_v4.csv | 305,084 bytes | 9/26/2026 5:39:59 PM
+the_valley_of_fear_dialogue_v4_review.csv | 225,004 bytes | 9/19/2026 10:40:36 AM
+the_valley_of_fear_dialogue_v5.csv | 304,797 bytes | 9/19/2026 10:44:17 AM
+the_valley_of_fear_dialogue_v5_review.csv | 227,010 bytes | 9/19/2026 10:44:17 AM
+the_valley_of_fear_dialogue_v6.csv | 307,868 bytes | 9/19/2026 10:59:02 AM
+the_valley_of_fear_extraction_artifact_audit.csv | 11,270 bytes | 9/19/2026 11:05:54 AM
+the_valley_of_fear_extraction_artifact_audit_v2.csv | 38,799 bytes | 9/19/2026 11:08:01 AM
+the_valley_of_fear_internal_boundary_audit.csv | 52,078 bytes | 9/19/2026 10:52:25 AM
+the_valley_of_fear_internal_boundary_review.csv | 52,196 bytes | 9/19/2026 10:53:45 AM
+the_valley_of_fear_joined_word_direct_audit.csv | 117 bytes | 9/19/2026 11:13:44 AM
+the_valley_of_fear_joined_word_review.csv | 135 bytes | 9/19/2026 11:12:18 AM
+the_valley_of_fear_sentence_context_audit.csv | 37 bytes | 9/19/2026 11:17:03 AM
+the_valley_of_fear_sentence_structure_audit.csv | 251 bytes | 9/19/2026 11:14:57 AM
+the_valley_of_fear_sentence_v1.csv | 504,589 bytes | 9/19/2026 11:01:28 AM
+the_valley_of_fear_sentence_v1_review.csv | 57,138 bytes | 9/19/2026 11:01:28 AM
+the_valley_of_fear_sentence_v2.csv | 734,351 bytes | 9/19/2026 11:16:05 AM
+the_valley_of_fear_source_fragment_diagnosis.csv | 56,568 bytes | 9/19/2026 11:21:28 AM
+the_valley_of_fear_speaker_audit.csv | 71,151 bytes | 9/19/2026 10:44:57 AM
+the_valley_of_fear_unmatched_diagnosis.csv | 70,875 bytes | 9/19/2026 11:20:49 AM
+the_valley_of_fear_v4_v5_speaker_changes.csv | 1,464 bytes | 9/19/2026 10:46:14 AM
+the_valley_of_fear_v5_known_speaker_audit.csv | 119,789 bytes | 9/19/2026 10:51:09 AM
+the_valley_of_fear_v5_review_context.csv | 1,986,312 bytes | 9/19/2026 10:49:02 AM
+
+============================================================
+FOLDER: .\data\final\english
+============================================================
+the_valley_of_fear_freeze_report.csv | 291 bytes | 9/19/2026 11:29:16 AM
+the_valley_of_fear_freeze_report_final.csv | 290 bytes | 9/19/2026 11:30:58 AM
+the_valley_of_fear_master.csv | 851,068 bytes | 9/19/2026 11:18:33 AM
+the_valley_of_fear_master_final.csv | 884,663 bytes | 9/19/2026 11:29:50 AM
+the_valley_of_fear_master_unresolved.csv | 4,979 bytes | 9/19/2026 11:24:23 AM
+the_valley_of_fear_master_v2.csv | 885,227 bytes | 9/19/2026 11:24:23 AM
+the_valley_of_fear_master_v2_audit.csv | 121 bytes | 9/19/2026 11:28:34 AM
+
+============================================================
+FOLDER: .\metadata
+============================================================
+english_texts.csv | 269 bytes | 9/19/2026 10:02:30 AM
+
+============================================================
+FOLDER: .\logs
+============================================================
+provenance_log.csv | 335 bytes | 9/19/2026 10:07:49 AM
+
+============================================================
+FOLDER: .\readme_files\english
+============================================================
+README_The_Valley_of_Fear.md | 16,678 bytes | 9/19/2026 11:35:15 AM
+

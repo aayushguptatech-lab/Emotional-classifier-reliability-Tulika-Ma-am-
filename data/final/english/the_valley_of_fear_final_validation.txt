@@ -1,0 +1,56 @@
+========================================================================
+THE VALLEY OF FEAR — FINAL CORPUS VALIDATION
+========================================================================
+
+Input turns:              1267
+Final corpus turns:       1267
+Unique turn IDs:          1267
+Duplicate turn IDs:      0
+Empty dialogue rows:      0
+
+SPEAKER COUNTS
+------------------------------------------------------------------------
+Known speakers:           277
+Unknown speakers:         990
+
+CANONICAL TEXT
+------------------------------------------------------------------------
+Characters:               320464
+Words:                    59268
+Mr.:                      180
+Mrs.:                     41
+Dr.:                      14
+St.:                      1
+Lowercase title forms:    0
+Canonical text unchanged: True
+
+SOURCE
+------------------------------------------------------------------------
+Project Gutenberg #3289
+Arthur Conan Doyle — The Valley of Fear
+
+REPRODUCIBILITY NOTE
+------------------------------------------------------------------------
+This final corpus is generated from the current reproducible V6
+dialogue artifact without modifying the canonical cleaned novel.
+Canonical source text is kept separate from any matching or
+segmentation transformations.
+
+DOCUMENTED COUNT DISCREPANCY
+------------------------------------------------------------------------
+README.md reports 172 dialogue turns.
+The available project artifacts do not contain a reproducible
+selection rule, script, or intermediate dataset that produces 172.
+The current generated corpus contains 1267 turns.
+The 172-turn figure is therefore retained as a documented
+historical project claim rather than imposed as an undocumented
+filter on the current corpus.
+
+VALIDATION
+------------------------------------------------------------------------
+PASS unique turn IDs:     True
+PASS non-empty dialogue:   True
+PASS canonical unchanged:  True
+PASS no lowercase titles:  True
+
+========================================================================

@@ -1,0 +1,33 @@
+GABAN SOURCE-LEVEL SEGMENTATION VALIDATION
+=======================================================
+Source paragraphs: 2250
+Segments extracted: 1549
+Final retained segments: 728
+Review segments: 821
+
+Known speakers: 728
+Unknown speakers: 0
+Unknown percentage: 0.00%
+
+CHAPTER DISTRIBUTION
+Chapter 1: 0
+Chapter 2: 303
+Chapter 3: 143
+Chapter 4: 168
+Chapter 5: 114
+
+METHODS
+attribution_quote: 691
+named_dash_quote: 552
+quote: 306
+
+STRUCTURAL CHECKS
+Unique IDs: True
+Empty dialogue: 0
+Duplicate dialogue: 0
+Clean source characters: 520380
+
+OUTPUTS
+data\final\hindi\gaban_dialogue_segmented_v1.csv
+data\final\hindi\gaban_dialogue_segmented_review.csv
+data\final\hindi\gaban_dialogue_segmented_validation.txt

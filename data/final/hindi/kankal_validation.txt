@@ -1,0 +1,9 @@
+KANKAL HINDI CORPUS VALIDATION
+
+Source URL: http://gadyakosh.org/gk/कंकाल_/_जयशंकर_प्रसाद
+Parts found: 31
+Parts processed: 31
+Dialogue turns: 51
+Known speakers: 51
+Unknown speakers: 0
+CSV: data\final\hindi\kankal_dialogue_final.csv

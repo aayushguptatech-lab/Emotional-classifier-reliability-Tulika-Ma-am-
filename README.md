@@ -1,121 +1,104 @@
-# Emotion Classifier Reliability Across Time and Language
+# Emotion Classifier Reliability — Literary Dialogue Corpora
 
-A controlled, human-validated study of emotion-classifier reliability under temporal (historical English) and cross-lingual (historical Hindi) distribution shift.
+Research repository for Tulika Ma'am. This project builds **reproducible literary dialogue corpora** for studying emotion-classifier reliability under historical English and historical Hindi distribution shift.
 
-## Citation
+This README documents **corpus construction**. The original EMORE@ACII2026 paper snapshot is preserved at `readme_files/paper/README_EMORE_158.md` (notebook, figures, and 50-turn annotation files remain in the repository root).
 
-```bibtex
-@inproceedings{sharma2026emotion,
-  title     = {Emotion Classifier Reliability Across Time and Language},
-  author    = {Sharma, Tulika},
-  booktitle = {Proceedings of the EMORE Workshop at the International Conference
-               on Affective Computing and Intelligent Interaction Workshops (ACIIW)},
-  year      = {2026},
-  publisher = {IEEE},
-  note      = {Paper 158}
-}
+## Methodological rules
+
+- Never invent speaker identities.
+- Never silently modify canonical source text.
+- Preserve `Unknown` / review cases when attribution is uncertain.
+- Do not delete useful experimental artifacts merely because they are imperfect.
+- Clearly distinguish frozen files from experimental / provisional files.
+- Do not overwrite validated English results with experimental results.
+- Do not fabricate missing data.
+- Do not call a corpus final/validated if it has known contamination.
+
+## Novels
+
+**English:** *The Valley of Fear* (Arthur Conan Doyle); *The Man Who Was Thursday* (G. K. Chesterton); *The Old Wives' Tale* (Arnold Bennett).
+
+**Hindi:** *गबन* (प्रेमचंद); *कंकाल* (जयशंकर प्रसाद); *तितली* (जयशंकर प्रसाद).
+
+## Repository structure
+
+```text
+data/raw/          immutable downloaded sources
+data/cleaned/      source-preserving cleaned texts
+data/extracted/    intermediate extraction, audit, and review artifacts
+data/final/        frozen English corpora; Hindi snapshots (see notes)
+src/               acquisition, cleaning, extraction, audit scripts
+reports/           project status and archived dumps
+metadata/          source catalogue
+logs/              provenance log
+readme_files/      per-text and paper notes
 ```
 
-## Overview
+## English corpus status — FROZEN
 
-The study uses a two-arm design.
+Unknown speakers are retained rather than guessed.
 
-- **Primary model:** [`tabularisai/multilingual-sentiment-analysis`](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) (XLM-RoBERTa), applied to **both** languages.
-- **Baseline:** [`j-hartmann/emotion-english-distilroberta-base`](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base), English-only DistilRoBERTa.
+| Novel | File | Turns | Known | Unknown |
+|---|---|---:|---:|---:|
+| *The Valley of Fear* | `data/final/english/the_valley_of_fear_final_corpus.csv` | 1267 | 277 | 990 |
+| *The Man Who Was Thursday* | `data/final/english/the_man_who_was_thursday_final_corpus.csv` | 870 | 487 | 383 |
+| *The Old Wives' Tale* | `data/final/english/the_old_wives_tale_final_corpus.csv` | 679 | 637 | 42 |
 
-Two corpora of literary dialogue provide the shifted distributions:
+Combined audit: `data/final/english/english_three_novel_final_audit.txt`
 
-- **English:** Arthur Conan Doyle, *The Valley of Fear* (1915) — 172 dialogue turns, sourced from Project Gutenberg.
-- **Hindi:** Premchand, *Gaban* (1936) — 1044 dialogue turns, sourced from Hindi Samay (hindisamay.com).
+English total: **2816 turns**, **1401 known**, **1415 Unknown**.
 
-**Headline finding — surface-lexical over-prediction.** Emotion keywords appearing in pragmatically neutral lines trigger spurious non-neutral labels. A line that merely *mentions* fear is classified as fearful, regardless of its actual pragmatic force. This failure mode recurs across both the temporal and the cross-lingual shift, and it is the dominant source of disagreement with human annotators in both.
+An earlier VOF sentence-level freeze (`the_valley_of_fear_master_final.csv`) is retained. The current frozen *dialogue-turn* corpus is the 1267-row file above.
 
-## Repository contents
+The paper snapshot historically reported **172** VOF turns. No reproducible selection rule for 172 was recovered. That figure is a documented historical claim, not an undocumented filter.
 
-**Notebook**
+## Hindi corpus status — NOT FROZEN
 
-- `EMORE_158_Analysis_Code.ipynb` — the full analysis, from corpus acquisition through prediction, reliability validation, and figure export. Stored outputs are included, so the results can be read without re-running.
+Filenames containing `_final` are pipeline snapshots, **not** validated final corpora.
 
-**Consensus annotation data** (the human ground truth; these must be supplied — the notebook does not regenerate them)
+### Gaban — PROVISIONAL
 
-- `manual_annotations_50turns.csv` — English, baseline arm. 50 turns selected for the j-hartmann evaluation. Columns: `turn_idx`, `manual_label`.
-- `english_tab_validation_annotated.csv` — English, multilingual arm. 50 turns selected for the tabularisai evaluation. Columns: `turn_idx`, `text`, `human_label`.
-- `gaban_validation_annotated.csv` — Hindi. 50 turns from *Gaban*. Columns: `turn_id`, `text`, `human_label`.
+- 5 chapters in `data/raw/hindi/gaban/`; cleaned `data/cleaned/hindi/gaban_clean.txt`
+- Snapshot: `data/final/hindi/gaban_dialogue_final.csv` (1010 turns)
+- Review: `gaban_dialogue_review.csv`; note: `gaban_final_validation.txt`
+- Known limitation: narrative contamination remains.
 
-**Generated outputs** (produced by a run; included here for reference)
+### Kankal — EXPERIMENTAL
 
-- `fig_confusion_matrices.pdf` — main-paper Figure 2.
-- `fig_confidence_decay.pdf` — supplementary figure.
-- `fig_english_distribution.pdf`, `fig_hindi_distribution.pdf` — emotion distributions (Section 6).
+- 31 parts in `data/raw/hindi/kankal/`
+- `data/final/hindi/kankal_dialogue_final.csv` (51 turns) is **not** validated.
 
-A run also regenerates the intermediate prediction files (`english_tab_pred.csv`, `gaban_pred.csv`, `validation_summary.csv`, and the corpus turn tables), which are not checked in.
+### Titli — EXPERIMENTAL
 
-## Requirements
+- 28 Wikisource pages retrieved; pages **2.6, 2.7, 2.8** returned 404
+- Candidates: `data/final/hindi/titli_dialogue_candidates.csv` (419) — **not** validated.
 
-Python 3 with:
+See `data/final/hindi/README.md` and `reports/PROJECT_STATUS.md`.
 
-```
-transformers
-torch
-pandas
-scikit-learn
-matplotlib
-numpy
-requests
-beautifulsoup4
-```
+## Retained experimental / audit artifacts
 
-Runs on **CPU in a few minutes**. No GPU required. There is **no training or fine-tuning** — inference only, using the two pretrained checkpoints above.
+- English intermediates under `data/extracted/english/`
+- VOF rebuilt snapshots (`*_rebuilt.csv`)
+- `the_valley_of_fear_dialogue_v2_experimental_08b.csv` (experimental; historical V2 restored)
+- Gaban v8/v9 and segmented snapshots
+- Concatenated dumps under `reports/archives/`
 
-## How to run
+## Reproducibility
 
-The notebook acquires both source texts over the network at runtime (Project Gutenberg for the English novel, hindisamay.com for the Hindi chapters). The three consensus-annotation CSVs are the human labels and cannot be regenerated, so they must be supplied by hand.
+Python 3 with `requirements.txt`. Frozen English producers:
 
-**Colab (as used for the paper)**
+- VOF: `src/08v_build_final_vof_corpus.py`
+- MWT: `src/09_build_mwt_corpus.py`
+- OWT: `src/10_build_owt_corpus.py`
+- Combined audit: `src/11_cross_corpus_final_audit.py`
 
-1. Upload `EMORE_158_Analysis_Code.ipynb` and the three annotation CSVs.
-2. **Runtime > Run all.**
+Hindi builders (`src/13_*` through `src/22_*`) are experimental; running them may overwrite Hindi snapshots. Several `src/` files share numeric prefixes and were not mass-renamed.
 
-**Local**
+## Paper snapshot (EMORE@ACII2026)
 
-1. `pip install transformers torch pandas scikit-learn matplotlib numpy requests beautifulsoup4`
-2. Place the three annotation CSVs in the working directory alongside the notebook.
-3. Run the notebook top to bottom.
-
-Prediction is deterministic: both models run in `eval` mode with argmax decoding and no sampling, so a given input yields the same label on every run.
-
-## What it produces
-
-| Notebook section | Artifact | Paper |
-|---|---|---|
-| Section 5 (5.4) | `validation_summary.csv` — the three-way Cohen's kappa table | Main paper, Table I |
-| Section 5.5 | `fig_confusion_matrices.pdf` — per-configuration confusion matrices | Main paper, Figure 2 |
-| Section 5.6 | `fig_confidence_decay.pdf` — confidence characterization outside the top-50 probe | Supplementary figure |
-
-## Key results
-
-| Model / Language | Cohen's kappa | Agreement | Over-prediction |
-|---|---|---|---|
-| j-hartmann / English | 0.803 | 0.84 | 0.12 |
-| tabularisai / English | 0.276 | 0.38 | 0.34 |
-| tabularisai / Hindi | 0.141 | 0.22 | 0.52 |
-
-Corpus neutral rates: **English 50.6%**, **Hindi 49.0%**.
-
-Reliability degrades sharply as the primary model moves away from the English-only baseline condition, and the over-prediction rate rises in step with it — consistent with the surface-lexical failure described above.
-
-## Data and provenance
-
-Both source texts are in the **public domain**. *The Valley of Fear* (1915) is distributed by Project Gutenberg. *Gaban* (1936) is by Premchand, who died in 1936; the text is sourced from Hindi Samay (hindisamay.com).
-
-The annotations are **consensus labels produced by native speakers** of the respective language. Each unit was labeled **in isolation** — annotators saw only the text the model sees, with no surrounding narrative context. This matters for interpreting the kappa values: the human labels are subject to the same context poverty as the model's inputs, so the disagreement measured is not an artifact of humans having more context than the classifier.
+`EMORE_158_Analysis_Code.ipynb` plus `manual_annotations_50turns.csv`, `english_tab_validation_annotated.csv`, `gaban_validation_annotated.csv`. That snapshot is **not** the frozen three-novel English corpus.
 
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-## Contact
-
-Tulika Sharma
-Computer Science and Engineering, PSIT, Kanpur, India
-stulika029@gmail.com

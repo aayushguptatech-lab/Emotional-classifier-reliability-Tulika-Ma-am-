@@ -1,0 +1,66 @@
+======================================================================
+THREE-NOVEL ENGLISH CORPUS — FINAL CROSS-CORPUS AUDIT
+======================================================================
+
+VOF
+----------------------------------------------------------------------
+File:                  data\final\english\the_valley_of_fear_final_corpus.csv
+Turns:                 1267
+Known speakers:        277
+Unknown speakers:      990
+Unknown percentage:    78.14%
+Dialogue column:       dialogue_text
+Duplicate turn IDs:    0
+Empty dialogue rows:   0
+Missing required:      None
+
+MWT
+----------------------------------------------------------------------
+File:                  data\final\english\the_man_who_was_thursday_final_corpus.csv
+Turns:                 870
+Known speakers:        487
+Unknown speakers:      383
+Unknown percentage:    44.02%
+Dialogue column:       quoted_text
+Duplicate turn IDs:    0
+Empty dialogue rows:   0
+Missing required:      None
+
+OWT
+----------------------------------------------------------------------
+File:                  data\final\english\the_old_wives_tale_final_corpus.csv
+Turns:                 679
+Known speakers:        637
+Unknown speakers:      42
+Unknown percentage:    6.19%
+Dialogue column:       quoted_text
+Duplicate turn IDs:    0
+Empty dialogue rows:   0
+Missing required:      None
+
+======================================================================
+COMBINED ENGLISH CORPUS
+======================================================================
+Novels audited:         3
+Total dialogue turns:   2816
+Known speakers:         1401
+Unknown speakers:       1415
+Unknown percentage:     50.25%
+
+EXPECTED CURRENT COUNTS
+The Valley of Fear:     1267
+The Man Who Was Thursday: 870
+The Old Wives' Tale:    679
+Expected total:         2816
+
+STATUS
+All three final files present: True
+Turn counts match frozen versions: True
+Structural checks pass: True
+
+INTERPRETATION
+The three English novels are represented by their current
+reproducible final corpus versions.
+VOF uses dialogue_text; MWT and OWT use quoted_text.
+Unknown speaker values are retained rather than guessed.
+Novel-specific audit findings remain documented separately.

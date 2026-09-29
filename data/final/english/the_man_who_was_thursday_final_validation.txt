@@ -1,0 +1,42 @@
+THE MAN WHO WAS THURSDAY — FINAL CORPUS VALIDATION
+
+Input turns:              870
+Final corpus turns:       870
+Unique turn IDs:          870
+Duplicate turn IDs:       0
+Empty dialogue rows:      0
+
+SPEAKER ATTRIBUTION
+Known speakers:            487
+Unknown speakers:          383
+Unknown percentage:        44.02%
+
+CANONICAL TEXT
+Characters:               328682
+Mr. occurrences:          26
+Mrs. occurrences:         0
+Dr. occurrences:          83
+St. occurrences:          11
+Lowercase title forms:    48
+
+SOURCE
+Project Gutenberg
+G. K. Chesterton — The Man Who Was Thursday
+
+RECONSTRUCTION
+Current final corpus is built from the reproducible V7 dialogue-turn reconstruction.
+Speaker Unknown values are retained rather than guessed.
+Boundary conflicts and review-level decisions are retained for audit.
+
+VALIDATION
+PASS unique IDs:           True
+PASS non-empty dialogue:   True
+PASS required fields:      True
+PASS canonical source:     True
+PASS source-preserving clean text: True
+
+FINAL CSV:
+data\final\english\the_man_who_was_thursday_final_corpus.csv
+
+VALIDATION:
+data\final\english\the_man_who_was_thursday_final_validation.txt

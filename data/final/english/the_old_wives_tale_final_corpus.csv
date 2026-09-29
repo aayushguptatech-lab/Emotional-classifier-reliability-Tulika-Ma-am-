@@ -1,0 +1,680 @@
+﻿text_id,turn_id,speaker,quoted_text,source,source_work,author,speaker_confidence,extraction_confidence,start_char,end_char
+OWT,OWT_T00001,Sophia,"I don't care if she does,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,25883,25910
+OWT,OWT_T00002,Constance,WELL!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,26423,26430
+OWT,OWT_T00003,Sophia,It's too ridiculous!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,27323,27345
+OWT,OWT_T00004,Constance,"I couldn't think of it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,28138,28163
+OWT,OWT_T00005,Sophia,"Con,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,29973,29979
+OWT,OWT_T00006,Constance,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,30034,30041
+OWT,OWT_T00007,Sophia,"He did look funny,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,43241,43261
+OWT,OWT_T00008,Sophia,"Let's go and listen,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,43746,43768
+OWT,OWT_T00009,Constance,"Oh, Mr. Povey!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45145,45161
+OWT,OWT_T00010,Mr. Povey,"Oh no, thanks!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45334,45350
+OWT,OWT_T00011,Constance,"You haven't been to the dentist's,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45422,45458
+OWT,OWT_T00012,Mr. Povey,"No, I haven't,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45494,45510
+OWT,OWT_T00013,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45704,45710
+OWT,OWT_T00014,Mr. Povey,"I shall be all right, thank you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,45878,45912
+OWT,OWT_T00015,Mr. Povey,"I think I'd sooner have the other one,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,46458,46498
+OWT,OWT_T00016,Sophia,There it is!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,50333,50347
+OWT,OWT_T00017,Sophia,"It's sure to be all right,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,51426,51454
+OWT,OWT_T00018,Sophia,"He's asleep, anyhow,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,53099,53121
+OWT,OWT_T00019,Sophia,"That's the one,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,54061,54078
+OWT,OWT_T00020,Constance,"I'll see how much he's taken,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,54274,54305
+OWT,OWT_T00021,Sophia,"Yes, PLEASE,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,62446,62460
+OWT,OWT_T00022,Mr. Povey,"That tooth has been loose for two years,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,64309,64351
+OWT,OWT_T00023,Mr. Povey,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,64535,64540
+OWT,OWT_T00024,Constance,"I think she must be in bed, mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,70459,70496
+OWT,OWT_T00025,Constance,"Asleep,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,74188,74197
+OWT,OWT_T00026,Sophia,"'It will probably come on again,'",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,74289,74324
+OWT,OWT_T00027,Constance,"Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,74607,74616
+OWT,OWT_T00028,Constance,_I_ don't know what's come over you!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,75061,75099
+OWT,OWT_T00029,Constance,"Give it me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,75816,75829
+OWT,OWT_T00030,Constance,"And if you want to know,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,79778,79804
+OWT,OWT_T00031,Mrs. Baines,"Put this curl straight,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,84021,84046
+OWT,OWT_T00032,Unknown,"If you can't find anything better to do,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,86371,86413
+OWT,OWT_T00033,Mrs. Baines,Constance has told you--about leaving school?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,86821,86868
+OWT,OWT_T00034,Sophia,"Mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,87337,87346
+OWT,OWT_T00035,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,87679,87685
+OWT,OWT_T00036,Mrs. Baines,"I wish you would be quiet with that fork,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,88576,88619
+OWT,OWT_T00037,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,90132,90138
+OWT,OWT_T00038,Sophia,Of course. What other kind is there?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,90396,90434
+OWT,OWT_T00039,Mrs. Baines,"It would take you too much away from home,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,91970,92014
+OWT,OWT_T00040,Mrs. Baines,"And there's no opening in Bursley,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,92582,92618
+OWT,OWT_T00041,Unknown,"That will do,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,94786,94801
+OWT,OWT_T00042,Mrs. Baines,"Now, really, Mr. Povey, this is not like you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,94930,94977
+OWT,OWT_T00043,Mr. Povey,"I'm just cutting out that suit for the minister,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,95581,95631
+OWT,OWT_T00044,Mrs. Baines,"I see you are,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,96197,96213
+OWT,OWT_T00045,Unknown,"My tooth doesn't hurt me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,96463,96490
+OWT,OWT_T00046,Mrs. Baines,Fiddlesticks!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,96576,96591
+OWT,OWT_T00047,Unknown,"It's always best to get these things done with,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,98267,98316
+OWT,OWT_T00048,Constance,"Here it is,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,98386,98399
+OWT,OWT_T00049,Mrs. Baines,"I didn't call you in here to be Mr. Povey's valet,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,98578,98630
+OWT,OWT_T00050,Mr. Povey,"I think I'll go out by the side-door,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,99121,99160
+OWT,OWT_T00051,Mrs. Baines,"You won't want that tape-measure,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,99597,99632
+OWT,OWT_T00052,Constance,"I'll put it in its place,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,99833,99860
+OWT,OWT_T00053,Mr. Povey,"Thank you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,99919,99931
+OWT,OWT_T00054,Mrs. Baines,What? Yonder?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,101655,101670
+OWT,OWT_T00055,Unknown,"I wanted to inform him,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,101743,101768
+OWT,OWT_T00056,Mrs. Baines,"What did I tell you, Constance?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,101846,101879
+OWT,OWT_T00057,Mrs. Baines,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,102455,102460
+OWT,OWT_T00058,Mrs. Baines,"I hope she'll turn over a new leaf now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,102650,102691
+OWT,OWT_T00059,Mrs. Baines,Neither did I!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,103835,103851
+OWT,OWT_T00060,Sophia,"Yes, mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,105240,105254
+OWT,OWT_T00061,Mrs. Baines,"Sophia is coming, father,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,105305,105332
+OWT,OWT_T00062,Unknown,Ay! It's Sophia.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,110885,110903
+OWT,OWT_T00063,Mrs. Baines,"I'm not so set up with my pastry to-day,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,117464,117506
+OWT,OWT_T00064,Constance,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,119315,119320
+OWT,OWT_T00065,Sophia,"And I will be, too!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,119432,119453
+OWT,OWT_T00066,Mrs. Baines,"It's for Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,121744,121762
+OWT,OWT_T00067,Sophia,"What is it, mother?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,121898,121919
+OWT,OWT_T00068,Mrs. Baines,"Castor-oil, my dear,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,121964,121986
+OWT,OWT_T00069,Sophia,"I don't want any, mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,122975,123002
+OWT,OWT_T00070,Mrs. Baines,"You simply ate nothing all day yesterday,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,123051,123094
+OWT,OWT_T00071,Sophia,"I don't WANT any,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,123228,123247
+OWT,OWT_T00072,Sophia,"I won't take it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,124215,124233
+OWT,OWT_T00073,Mrs. Baines,"Constance, stay where you are,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,126472,126504
+OWT,OWT_T00074,Sophia,"I just went out,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,127534,127552
+OWT,OWT_T00075,Sophia,"Oh, of course Constance is always right!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,128180,128222
+OWT,OWT_T00076,Mrs. Baines,"You are a very naughty girl,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,128606,128636
+OWT,OWT_T00077,Mrs. Baines,"I knew she was going to cry,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,128939,128969
+OWT,OWT_T00078,Mrs. Baines,"I'm waiting,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,129010,129024
+OWT,OWT_T00079,Sophia,"It's you who make me cry,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,129670,129697
+OWT,OWT_T00080,Mrs. Baines,"Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,129937,129946
+OWT,OWT_T00081,Mrs. Baines,"I will have no trifling,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,130257,130283
+OWT,OWT_T00082,Mrs. Baines,"Take these for tea,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,135932,135953
+OWT,OWT_T00083,Mrs. Baines,There!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,136164,136172
+OWT,OWT_T00084,Maggie,"Yes, mum,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,136262,136273
+OWT,OWT_T00085,Mrs. Baines,"Ah! Miss Chetwynd,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,136664,136684
+OWT,OWT_T00086,Miss Chetwynd,"She is very well, thank you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,140589,140619
+OWT,OWT_T00087,Mrs. Baines,Indeed?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,140772,140781
+OWT,OWT_T00088,Miss Chetwynd,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,140830,140836
+OWT,OWT_T00089,Mrs. Baines,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,140880,140885
+OWT,OWT_T00090,Mrs. Baines,I suppose you weren't surprised by my letter?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,144100,144147
+OWT,OWT_T00091,Miss Chetwynd,"I was and I wasn't,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,144169,144190
+OWT,OWT_T00092,Miss Chetwynd,Oh NO!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,144760,144768
+OWT,OWT_T00093,Mrs. Baines,Indeed!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,145173,145182
+OWT,OWT_T00094,Miss Chetwynd,I suppose she has talked to you about becoming a teacher?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,145452,145511
+OWT,OWT_T00095,Miss Chetwynd,Oh yes!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,145854,145863
+OWT,OWT_T00096,Mrs. Baines,"I dare say your sister will give up her school now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,146372,146425
+OWT,OWT_T00097,Mrs. Baines,THEN YOU THINK SOPHIA WOULD MAKE A GOOD TEACHER?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,146722,146772
+OWT,OWT_T00098,Mrs. Baines,"That wouldn't affect her father--or me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,146946,146987
+OWT,OWT_T00099,Sophia,"I made Miss Chetwynd come and talk to mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,148283,148330
+OWT,OWT_T00100,Sophia,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,150796,150801
+OWT,OWT_T00101,Constance,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,152668,152675
+OWT,OWT_T00102,Mrs. Baines,"We're going now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,157693,157711
+OWT,OWT_T00103,Sophia,"All right,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,157778,157790
+OWT,OWT_T00104,Mr. Povey,"We shall not be long,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,158304,158327
+OWT,OWT_T00105,Unknown,"Good morning, Miss Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,161161,161189
+OWT,OWT_T00106,Unknown,of course it's a very big thing in Bursley.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,165634,165679
+OWT,OWT_T00107,Unknown,it WAS.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,166190,166199
+OWT,OWT_T00108,Unknown,"I simply didn't care to,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,166694,166720
+OWT,OWT_T00109,Maggie,"Yes, miss,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,170143,170155
+OWT,OWT_T00110,Sophia,"Run for the doctor, Maggie,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,172809,172838
+OWT,OWT_T00111,Mr. Critchlow,Gallivanting with that young Scales!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,172973,173011
+OWT,OWT_T00112,Mr. Critchlow,"Been to see the elephant, I reckon!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,174027,174064
+OWT,OWT_T00113,Sophia,Mother!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,175302,175311
+OWT,OWT_T00114,Mrs. Baines,My child!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,175420,175431
+OWT,OWT_T00115,Mrs. Maddack,"Come, sister,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,184970,184985
+OWT,OWT_T00116,Mrs. Maddack,"I shall fetch Constance and Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,185367,185404
+OWT,OWT_T00117,Mrs. Baines,"Calm yourself, my pet,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,189401,189425
+OWT,OWT_T00118,Mr. Povey,Splendid!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,190423,190434
+OWT,OWT_T00119,Mrs. Baines,Look at the clock!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,197261,197281
+OWT,OWT_T00120,Mrs. Baines,"Come, put your things together, and don't keep me waiting,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,197360,197420
+OWT,OWT_T00121,Mrs. Baines,What's this?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,198283,198297
+OWT,OWT_T00122,Mrs. Baines,"You must take my arm, my pet,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,209621,209652
+OWT,OWT_T00123,Mrs. Baines,"Why, bless us!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,210154,210170
+OWT,OWT_T00124,Mr. Povey,"It's Mr. Scales, of all people!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,210499,210532
+OWT,OWT_T00125,Mrs. Baines,Mr. Scales!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,210552,210565
+OWT,OWT_T00126,Sophia,Mr. Scales!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,210593,210606
+OWT,OWT_T00127,Gerald Scales,"Is that you, Mrs. Baines?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,211297,211324
+OWT,OWT_T00128,Mr. Povey,"That makes the fourth case in a week, that we KNOW of!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,211984,212040
+OWT,OWT_T00129,Mrs. Baines,I hope you weren't--,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213230,213252
+OWT,OWT_T00130,Mrs. Baines,Do come in!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213450,213463
+OWT,OWT_T00131,Mr. Scales,"I couldn't think of troubling you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213485,213521
+OWT,OWT_T00132,Mrs. Baines,"You must come in, if it's only for a minute,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213600,213646
+OWT,OWT_T00133,Mr. Scales,"You're very kind,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213728,213747
+OWT,OWT_T00134,Mrs. Baines,"Thank you, Maggie,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,213916,213936
+OWT,OWT_T00135,Mrs. Baines,Ah! So you know Lawyer Lawton!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,217167,217199
+OWT,OWT_T00136,Mr. Scales,"My people are old acquaintances of his,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,217410,217451
+OWT,OWT_T00137,Mr. Povey,You are fond of dogs?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,218323,218346
+OWT,OWT_T00138,Mr. Scales,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,218438,218444
+OWT,OWT_T00139,Mr. Povey,Keep one?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,218491,218502
+OWT,OWT_T00140,Mr. Scales,"I have a fox-terrier bitch,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,218543,218572
+OWT,OWT_T00141,Mr. Povey,Brrr!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,221065,221072
+OWT,OWT_T00142,Mrs. Baines,"Tell her about her new night-dress,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,221246,221283
+OWT,OWT_T00143,Mrs. Baines,"He never looks you straight in the face,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,221501,221543
+OWT,OWT_T00144,Mr. Scales,"The last time I saw you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,225610,225636
+OWT,OWT_T00145,Unknown,"I go to chapel,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,226098,226115
+OWT,OWT_T00146,Sophia,"You needn't be afraid,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,229088,229112
+OWT,OWT_T00147,Mrs. Baines,"A novel, I see,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,229181,229198
+OWT,OWT_T00148,Unknown,"Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,229476,229485
+OWT,OWT_T00149,Mrs. Baines,"You were seen in Wedgwood Street,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,229653,229688
+OWT,OWT_T00150,Mrs. Baines,"No one has been 'gossiping,'",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,229793,229823
+OWT,OWT_T00151,Mrs. Baines,"You know what I mean, my child,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,229946,229979
+OWT,OWT_T00152,Gerald,"I'm an orphan,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,256130,256146
+OWT,OWT_T00153,Mr. Scales,"You're the finest girl I've ever met, anyhow,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,256688,256735
+OWT,OWT_T00154,Mr. Scales,"How strange,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,257832,257846
+OWT,OWT_T00155,Mrs. Baines,"You've been out, Sophia?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,260674,260700
+OWT,OWT_T00156,Mrs. Baines,"You can pour out the tea,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,262466,262493
+OWT,OWT_T00157,Mrs. Baines,"What's all that clay on your boots, child?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,264248,264292
+OWT,OWT_T00158,Mrs. Baines,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,264375,264381
+OWT,OWT_T00159,Sophia,"I must have picked it up on the roads,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,264578,264618
+OWT,OWT_T00160,Mrs. Baines,"You are deceiving me, Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,264828,264859
+OWT,OWT_T00161,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,265087,265093
+OWT,OWT_T00162,Mrs. Baines,"If you are going to be sullen, I shall have to suppose the worst,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,265597,265664
+OWT,OWT_T00163,Unknown,"Yes'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,274817,274825
+OWT,OWT_T00164,Sophia,You needn't think I don't see why you're sending me away!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,275238,275297
+OWT,OWT_T00165,Mrs. Baines,"Well, child, you needn't be in such a hurry,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,280914,280960
+OWT,OWT_T00166,Unknown,What about?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,281332,281345
+OWT,OWT_T00167,Mrs. Baines,Constance!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,281472,281484
+OWT,OWT_T00168,Mr. Povey,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,282057,282062
+OWT,OWT_T00169,Mr. Povey,"I'm not at all satisfied with the present situation,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,282485,282539
+OWT,OWT_T00170,Mrs. Baines,"I don't know what you mean, Mr. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,282602,282642
+OWT,OWT_T00171,Mrs. Baines,"I cannot bind myself to a date,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,286380,286413
+OWT,OWT_T00172,Mrs. Baines,"That's the worst of those quiet calm ones,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,288176,288220
+OWT,OWT_T00173,Mrs. Maddack,"Well, I do declare!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,291407,291428
+OWT,OWT_T00174,Mrs. Baines,Where's Sophia?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,291497,291514
+OWT,OWT_T00175,Mrs. Baines,Serious it is!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,292420,292436
+OWT,OWT_T00176,Mrs. Baines,Sophia's run off. That's the plain English of it!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,292474,292525
+OWT,OWT_T00177,Mrs. Maddack,I thought so!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,293255,293270
+OWT,OWT_T00178,Mr. Critchlow,"It's as plain as a pikestaff,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,296953,296984
+OWT,OWT_T00179,Mr. Povey,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,299043,299050
+OWT,OWT_T00180,Maggie,"If you please, Mrs. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,301075,301103
+OWT,OWT_T00181,Maggie,"I never give notice before, Mrs. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,301875,301916
+OWT,OWT_T00182,Mrs. Povey,"Oh! of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,302049,302065
+OWT,OWT_T00183,Maggie,"You'll soon be suited with another, Mrs. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,303375,303424
+OWT,OWT_T00184,Mrs. Povey,"But if you really want to leave, what are you crying for, Maggie?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,303490,303557
+OWT,OWT_T00185,Constance,Indeed!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,304306,304315
+OWT,OWT_T00186,Constance,"I think I shall go up, dear,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,310791,310821
+OWT,OWT_T00187,Mr. Povey,Really?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,313938,313947
+OWT,OWT_T00188,Constance,Wasn't that Mr. Yardley in the shop to-night?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,317696,317743
+OWT,OWT_T00189,Boon,"Morning, missis!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,320869,320887
+OWT,OWT_T00190,James Boon,Ay!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,321423,321428
+OWT,OWT_T00191,Constance,"I'll tell him you're here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,321457,321485
+OWT,OWT_T00192,Boon,"Now, there's a dog!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,322269,322290
+OWT,OWT_T00193,Boon,"I'll tak' a hundred and twenty sovereigns for her,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,322470,322522
+OWT,OWT_T00194,Mr. Povey,"That's not quite the sort of dog I want,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,322883,322925
+OWT,OWT_T00195,Mr. Povey,"Oh,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,323041,323046
+OWT,OWT_T00196,Mr. Povey,"Not more than two pounds,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,323199,323226
+OWT,OWT_T00197,Boon,I thowt it was a dog as ye wanted!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,323321,323357
+OWT,OWT_T00198,Mr. Povey,"I will,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,323436,323445
+OWT,OWT_T00199,Mr. Povey,"Oh, nothing!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,325191,325205
+OWT,OWT_T00200,Constance,Will you please step this way?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,325515,325547
+OWT,OWT_T00201,Unknown,"If that's all,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,327879,327895
+OWT,OWT_T00202,Constance,"I hope she'll be all right alone,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,329515,329550
+OWT,OWT_T00203,Mrs. Baines,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,329571,329583
+OWT,OWT_T00204,Mrs. Baines,"Well, my chuck, you all right?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,330663,330695
+OWT,OWT_T00205,Unknown,"You're stouter,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,331242,331259
+OWT,OWT_T00206,Mrs. Baines,So your name's Fan!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,334455,334476
+OWT,OWT_T00207,Constance,"Yes, isn't she?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,334542,334559
+OWT,OWT_T00208,Mrs. Baines,"Well, Maggie,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,334749,334764
+OWT,OWT_T00209,Constance,"I expect she has gone to look at father's grave,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,336235,336285
+OWT,OWT_T00210,Mrs. Baines,Indeed I shan't!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,337301,337319
+OWT,OWT_T00211,Mr. Povey,"We couldn't possibly leave the shop,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,337705,337743
+OWT,OWT_T00212,Mr. Povey,There he is!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,341938,341952
+OWT,OWT_T00213,the postman,"Merry Christmas, ma'am!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,342329,342354
+OWT,OWT_T00214,Mrs. Baines,"What is that, Samuel?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,347485,347508
+OWT,OWT_T00215,Mr. Povey,"It's for my first Annual Sale,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,347575,347607
+OWT,OWT_T00216,Constance,Well?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,374989,374996
+OWT,OWT_T00217,Samuel,"She's very good,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,375239,375257
+OWT,OWT_T00218,Constance,I told you not to venture far.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,375995,376027
+OWT,OWT_T00219,Amy,Precious!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,376432,376443
+OWT,OWT_T00220,Constance,"You must give the girl time to take her things off,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,377735,377788
+OWT,OWT_T00221,Samuel,"My dear girl,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,380277,380292
+OWT,OWT_T00222,Constance,Does it?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,383309,383319
+OWT,OWT_T00223,Miss Insull,"Excuse me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,391277,391289
+OWT,OWT_T00224,Mr. Povey,"And two are eight and three are eleven. He must cry,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,391341,391395
+OWT,OWT_T00225,Constance,"I've made perfectly sure he's comfortable,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,391605,391649
+OWT,OWT_T00226,Miss Insull,How right you are!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,391773,391793
+OWT,OWT_T00227,Constance,"I'm just listening,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,392424,392445
+OWT,OWT_T00228,Miss Insull,A telegram!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,393627,393640
+OWT,OWT_T00229,Samuel,What? Mr. Derry?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,393706,393724
+OWT,OWT_T00230,Samuel,"I'll get Cousin Daniel to drive me over at once,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,393985,394035
+OWT,OWT_T00231,Constance,"Put your thick overcoat on, dear,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,394271,394306
+OWT,OWT_T00232,Samuel,"Yes it is, Miss Insull,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,394404,394429
+OWT,OWT_T00233,Samuel,"I thought you said that boy was in his bedroom,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,408608,408657
+OWT,OWT_T00234,Constance,"Amy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,410764,410770
+OWT,OWT_T00235,Mr. Povey,Stand away!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,411489,411502
+OWT,OWT_T00236,Mr. Povey,"I found him in the far cellar,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,411654,411686
+OWT,OWT_T00237,Mr. Povey,Can't you?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412091,412103
+OWT,OWT_T00238,Constance,"Give him to me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412391,412408
+OWT,OWT_T00239,Samuel,"I'll look after him this evening,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412428,412463
+OWT,OWT_T00240,Constance,"But you can't wash him,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412488,412513
+OWT,OWT_T00241,Mr. Povey,Why not?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412571,412581
+OWT,OWT_T00242,Mr. Povey,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,412773,412780
+OWT,OWT_T00243,Mr. Povey,"He's in bed now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,413894,413912
+OWT,OWT_T00244,Mr. Povey,"I've punished him, of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,414145,414176
+OWT,OWT_T00245,Mr. Povey,"Why, of course!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,415195,415212
+OWT,OWT_T00246,Amy,"You ought to be ashamed of yourself,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,417299,417337
+OWT,OWT_T00247,Cyril,Who says I haven't washed my feet?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,417480,417516
+OWT,OWT_T00248,Cyril,And how do you know?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,417836,417858
+OWT,OWT_T00249,Amy,"I know,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,417894,417903
+OWT,OWT_T00250,Cyril,"Well, you just don't, then!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,417917,417946
+OWT,OWT_T00251,Unknown,"good! Oh! Thanks, mother.",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,420629,420656
+OWT,OWT_T00252,Samuel,"Let me see,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,423785,423798
+OWT,OWT_T00253,Mr. Povey,"Now, there's one thing you must always remember, my boy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,424217,424275
+OWT,OWT_T00254,Mr. Povey,Come back home!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,444294,444311
+OWT,OWT_T00255,Mr. Povey,"If you gave it him, that's enough,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,446329,446365
+OWT,OWT_T00256,Constance,"Cyril,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,446846,446854
+OWT,OWT_T00257,Mr. Povey,"Give it your mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,447247,447269
+OWT,OWT_T00258,Mr. Povey,"Please look at it, mother,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,447367,447395
+OWT,OWT_T00259,Mr. Povey,"I thought so,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,447588,447603
+OWT,OWT_T00260,Cyril,"Out of the till,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,447668,447686
+OWT,OWT_T00261,Mr. Povey,"I blame myself,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,447927,447944
+OWT,OWT_T00262,Mr. Povey,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,449738,449743
+OWT,OWT_T00263,Unknown,"Here we have trade getting worse every day,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,453066,453111
+OWT,OWT_T00264,Constance,I never dreamt of such a thing!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,453274,453307
+OWT,OWT_T00265,Mr. Povey,"There's no knowing how much money you have stolen,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,453563,453615
+OWT,OWT_T00266,Cyril,Hear that?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,457709,457721
+OWT,OWT_T00267,Samuel,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,459054,459060
+OWT,OWT_T00268,Daniel Povey,"I want ye,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,459125,459137
+OWT,OWT_T00269,Mr. Povey,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,459620,459626
+OWT,OWT_T00270,Mr. Povey,"Good-night, officer! Brrr!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,460859,460887
+OWT,OWT_T00271,the policeman,"Goo' night, sir,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,461216,461234
+OWT,OWT_T00272,Samuel,What time is it?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,461281,461299
+OWT,OWT_T00273,Samuel,"N--no,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,462319,462327
+OWT,OWT_T00274,Samuel,"I'm very sorry to hear it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,462670,462698
+OWT,OWT_T00275,Daniel,"Not yet,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,466077,466087
+OWT,OWT_T00276,Samuel,"I'll just run upstairs and have a look at him,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,466741,466789
+OWT,OWT_T00277,Samuel,"He's coming, he's coming,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,467839,467866
+OWT,OWT_T00278,Dick,"Well, if he isn't here soon I shall be damn well dead,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,467895,467951
+OWT,OWT_T00279,Daniel,"You come in, sergeant,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,472767,472791
+OWT,OWT_T00280,Constance,"Your muffler--I'll get it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,474209,474237
+OWT,OWT_T00281,Samuel,"I don't need any muffler, thank you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,474406,474444
+OWT,OWT_T00282,Samuel,Now please don't worry me!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,474538,474566
+OWT,OWT_T00283,Constance,"Mr. Huntbach is waiting for you in the parlour,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,485881,485930
+OWT,OWT_T00284,Constance,"He's going with you as far as Knype,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,493406,493444
+OWT,OWT_T00285,Constance,Mr. Critchlow!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,495975,495991
+OWT,OWT_T00286,Mr. Critchlow,Ay!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,496407,496412
+OWT,OWT_T00287,Mr. Critchlow,Nothing yet!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,497018,497032
+OWT,OWT_T00288,Mr. Critchlow,Not it!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,497896,497905
+OWT,OWT_T00289,Cyril,"Good afternoon, Mr. Critchlow,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,500711,500743
+OWT,OWT_T00290,Constance,Sh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,502957,502962
+OWT,OWT_T00291,Constance,"Yes, it is!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,503022,503035
+OWT,OWT_T00292,Constance,"Now do as I say, please,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,527364,527390
+OWT,OWT_T00293,the girl,"If you please, can I speak to the missis?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,539711,539754
+OWT,OWT_T00294,Constance,What can she want?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,540184,540204
+OWT,OWT_T00295,Constance,"I can't allow you to do it yet,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,552790,552823
+OWT,OWT_T00296,the waiter,"Yes, sir; yes, sir,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,563105,563126
+OWT,OWT_T00297,the auctioneer,"Now, gentlemen,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,564092,564109
+OWT,OWT_T00298,the auctioneer,"Gentlemen,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,564943,564955
+OWT,OWT_T00299,Miss Insull,"You can shut,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,567444,567459
+OWT,OWT_T00300,Mr. Critchlow,"Shut, lad,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,567879,567891
+OWT,OWT_T00301,Mr. Critchlow,"That'll be all right,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,572604,572627
+OWT,OWT_T00302,Mr. Critchlow,Ah!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,572846,572851
+OWT,OWT_T00303,Mr. Critchlow,"So that's settled,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,572974,572994
+OWT,OWT_T00304,Constance,"I've lived here all my life,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,573211,573241
+OWT,OWT_T00305,Mr. Critchlow,"Come here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,573635,573647
+OWT,OWT_T00306,Mr. Critchlow,Here!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,573816,573823
+OWT,OWT_T00307,Constance,And what about the shop?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,574747,574773
+OWT,OWT_T00308,Unknown,you have got a nerve! I'll say that.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,592729,592767
+OWT,OWT_T00309,Cyril,"It means a pound a week,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,595763,595789
+OWT,OWT_T00310,Unknown,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,595964,595971
+OWT,OWT_T00311,Cyril,I'll write as soon as ever I get there!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,604626,604667
+OWT,OWT_T00312,Gerald,"Very well, then,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,629913,629931
+OWT,OWT_T00313,Sophia,I do wish I'd noticed her!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,639356,639384
+OWT,OWT_T00314,Gerald,All sorts here!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,643073,643090
+OWT,OWT_T00315,Sophia,"Oh, what a horrid idea!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,646837,646862
+OWT,OWT_T00316,Gerald,"Guillotine, you know!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,646879,646902
+OWT,OWT_T00317,Gerald,"Excuse me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,653064,653076
+OWT,OWT_T00318,Gerald,"My wife,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,654055,654065
+OWT,OWT_T00319,Chirac,Ah!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,655202,655207
+OWT,OWT_T00320,Chirac,I go!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,655492,655499
+OWT,OWT_T00321,Chirac,Madame!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,655903,655912
+OWT,OWT_T00322,Sophia,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,657488,657493
+OWT,OWT_T00323,Gerald,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,657866,657872
+OWT,OWT_T00324,the Englishman,"She's in Trouville,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,657912,657933
+OWT,OWT_T00325,Gerald,At your service!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,659292,659310
+OWT,OWT_T00326,Gerald,"Wait here for me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,659658,659677
+OWT,OWT_T00327,Sophia,"I have no money,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,662362,662380
+OWT,OWT_T00328,Sophia,"Hotel Meurice,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,662502,662518
+OWT,OWT_T00329,Chirac,"I tell them at the restaurant where you gone,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,663116,663163
+OWT,OWT_T00330,Gerald,"So it seems,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,665916,665930
+OWT,OWT_T00331,Gerald,"I knocked my chin against the damned balustrade, coming upstairs,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,666524,666591
+OWT,OWT_T00332,Gerald,Who else?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,670615,670626
+OWT,OWT_T00333,Gerald,"I didn't suppose you could,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,670771,670800
+OWT,OWT_T00334,Unknown,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,672237,672244
+OWT,OWT_T00335,Chirac,"As psychological experience,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,674224,674254
+OWT,OWT_T00336,Gerald,"Jump in,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,678392,678402
+OWT,OWT_T00337,Chirac,Brute!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,678902,678910
+OWT,OWT_T00338,Gerald,"It's all right,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,681898,681915
+OWT,OWT_T00339,Gerald,Oh! Damn!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,682385,682396
+OWT,OWT_T00340,Sophia,"We can't both sleep in this bed, surely,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,682852,682894
+OWT,OWT_T00341,Gerald,"You don't suppose I shall go to bed, do you?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,682995,683041
+OWT,OWT_T00342,Chirac,"He is some little souffrant,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,702712,702742
+OWT,OWT_T00343,Chirac,"Good-bye, madame!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,704025,704044
+OWT,OWT_T00344,Unknown,"you're there, are you?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,733486,733510
+OWT,OWT_T00345,the waiter,"It is well, madame,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,740567,740588
+OWT,OWT_T00346,Chirac,"Eh, well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,743285,743296
+OWT,OWT_T00347,Unknown,it is not so easy as that to--in fine----!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,744713,744757
+OWT,OWT_T00348,Chirac,You did not know that he was coming to me?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,745623,745667
+OWT,OWT_T00349,Sophia,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,746782,746787
+OWT,OWT_T00350,Unknown,the baths are finished.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,755774,755799
+OWT,OWT_T00351,Sophia,How kind you have been!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,758005,758030
+OWT,OWT_T00352,Sophia,"Come in,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,760372,760382
+OWT,OWT_T00353,Sophia,"You are very chic,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,761821,761841
+OWT,OWT_T00354,Madame Foucault,Ah!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,761883,761888
+OWT,OWT_T00355,the man,J'en ai soupe!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,775504,775520
+OWT,OWT_T00356,Sophia,"Oh, yes, you have,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,780511,780531
+OWT,OWT_T00357,Sophia,And me! I am your friend!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,780648,780675
+OWT,OWT_T00358,Madame Foucault,"You are very kind,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,780724,780744
+OWT,OWT_T00359,Madame Foucault,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,782128,782134
+OWT,OWT_T00360,Sophia,"You must not forget,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,786806,786828
+OWT,OWT_T00361,Madame Foucault,"Oh, you are still suffering!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,787075,787105
+OWT,OWT_T00362,Sophia,"I am quite well enough to pay my debts,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,787131,787172
+OWT,OWT_T00363,Madame Foucault,"I do not like to accept money from you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,787189,787230
+OWT,OWT_T00364,Sophia,"Please do not talk in that way,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,787312,787345
+OWT,OWT_T00365,Sophia,How long have I been here?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,788655,788683
+OWT,OWT_T00366,Madame Foucault,I don't know.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,788701,788716
+OWT,OWT_T00367,Sophia,"Suppose we say nine,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,788776,788798
+OWT,OWT_T00368,Sophia,Shall I pay you seventy-five francs a week?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,789143,789188
+OWT,OWT_T00369,Madame Foucault,"I have no change,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,789867,789886
+OWT,OWT_T00370,Madame Foucault,"He has chucked me, Laurence!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,792616,792646
+OWT,OWT_T00371,Madame Foucault,Never!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,793279,793287
+OWT,OWT_T00372,Laurence,"I have put her to bed,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,794594,794618
+OWT,OWT_T00373,Laurence,It must have been her fault!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,795967,795997
+OWT,OWT_T00374,Sophia,Why not?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,796546,796556
+OWT,OWT_T00375,Sophia,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,797651,797656
+OWT,OWT_T00376,Sophia,Truly!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,798455,798463
+OWT,OWT_T00377,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,799024,799030
+OWT,OWT_T00378,Laurence,"Yours also is beautiful,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,799071,799097
+OWT,OWT_T00379,Sophia,You like jewellery?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,800834,800855
+OWT,OWT_T00380,Sophia,"It is not enough,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,801118,801137
+OWT,OWT_T00381,Laurence,"Yes, a little!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,801612,801628
+OWT,OWT_T00382,Laurence,"I shall not show this to Aimee,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,802189,802222
+OWT,OWT_T00383,Sophia,"As you wish,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,802272,802286
+OWT,OWT_T00384,Sophia,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,802387,802392
+OWT,OWT_T00385,Unknown,"he added of the war,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,808504,808528
+OWT,OWT_T00386,Sophia,Returned for lunch!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,811106,811127
+OWT,OWT_T00387,Chirac,A victory! If only it was true!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,813907,813940
+OWT,OWT_T00388,Chirac,My God!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,814429,814438
+OWT,OWT_T00389,Chirac,It is Gueymard!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,815507,815524
+OWT,OWT_T00390,Sophia,The rent?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,818434,818445
+OWT,OWT_T00391,Madame Foucault,Save me!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,821727,821737
+OWT,OWT_T00392,Madame Foucault,It isn't a thousand francs!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,823586,823615
+OWT,OWT_T00393,Sophia,"Please rise,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,823767,823781
+OWT,OWT_T00394,Sophia,No!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,823971,823976
+OWT,OWT_T00395,Madame Foucault,You are an angel of charity!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,824296,824326
+OWT,OWT_T00396,Madame Foucault,"Here are a lady and a gentleman who want a bedroom,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,829203,829256
+OWT,OWT_T00397,Sophia,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,829319,829324
+OWT,OWT_T00398,Madame Foucault,"The fact is,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,829759,829773
+OWT,OWT_T00399,Madame Foucault,"Ah, my faith, no!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,830801,830820
+OWT,OWT_T00400,Sophia,"I'm not unkind,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,831115,831132
+OWT,OWT_T00401,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,831237,831243
+OWT,OWT_T00402,Sophia,By being respectable and dealing with respectable people!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,831546,831605
+OWT,OWT_T00403,Madame Foucault,Ah!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,835646,835651
+OWT,OWT_T00404,Madame Foucault,If we took a promenade on the boulevard?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,836694,836736
+OWT,OWT_T00405,Madame Foucault,Vive la republique!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,837407,837428
+OWT,OWT_T00406,Unknown,there is a piano in it.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,843941,843966
+OWT,OWT_T00407,Chirac,My paper has stopped!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,866541,866564
+OWT,OWT_T00408,Sophia,No!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,866880,866885
+OWT,OWT_T00409,Chirac,"Ah! he has money,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,867886,867905
+OWT,OWT_T00410,Sophia,There!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,869737,869745
+OWT,OWT_T00411,Chirac,"Last year at this moment,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,872503,872530
+OWT,OWT_T00412,Unknown,"You see,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,874945,874955
+OWT,OWT_T00413,Chirac,Ah! the poor animal!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,875049,875071
+OWT,OWT_T00414,the landlord,Ah!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,876148,876153
+OWT,OWT_T00415,the landlady,I believe you that it is chic!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,876434,876466
+OWT,OWT_T00416,Sophia,And then also a quite little cheese!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,876804,876842
+OWT,OWT_T00417,the landlady,Madame is too good!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,877244,877265
+OWT,OWT_T00418,the landlord,"It is a friend of mine,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,877916,877941
+OWT,OWT_T00419,Unknown,"I wanted to tell you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,898038,898061
+OWT,OWT_T00420,Carlier,"He is never too prompt, the Governor. It is a quality!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,910886,910942
+OWT,OWT_T00421,the sailor,Let go all!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,911430,911443
+OWT,OWT_T00422,Chirac,Adieu!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,911925,911933
+OWT,OWT_T00423,Peel-Swynnerton,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,933544,933549
+OWT,OWT_T00424,Lewis Mardon,"House-agent,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,934405,934419
+OWT,OWT_T00425,Peel-Swynnerton,"Oh yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,934451,934460
+OWT,OWT_T00426,Peel-Swynnerton,"Very,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,936097,936104
+OWT,OWT_T00427,Peel-Swynnerton,Who is that?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,936599,936613
+OWT,OWT_T00428,Mr. Mardon,"That's the missis, that is,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,936760,936789
+OWT,OWT_T00429,Mr. Mardon,"Yes. But her real name is Scales,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,936875,936910
+OWT,OWT_T00430,Mr. Mardon,"She runs the entire contraption,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,937007,937041
+OWT,OWT_T00431,Mr. Mardon,Have a whiskey?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,939750,939767
+OWT,OWT_T00432,Matthew,"Do have one with me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,940285,940307
+OWT,OWT_T00433,Mr. Mardon,"Carries herself well, doesn't she?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,940625,940661
+OWT,OWT_T00434,Peel-Swynnerton,"But still,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,940854,940866
+OWT,OWT_T00435,Unknown,"The Hotel Moscow is a limited company now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,941794,941838
+OWT,OWT_T00436,Mr. Mardon,Yes!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,943585,943591
+OWT,OWT_T00437,Peel-Swynnerton,"G-good-night,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,943805,943820
+OWT,OWT_T00438,Matthew,"I want to see you, too,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,952184,952209
+OWT,OWT_T00439,Cyril Povey,"Have a cigarette,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,952543,952562
+OWT,OWT_T00440,Unknown,I've found your aunt.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,953865,953888
+OWT,OWT_T00441,Cyril,"Well, that's very nice of you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,953892,953924
+OWT,OWT_T00442,Matthew,"Mrs. Scales,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,953997,954011
+OWT,OWT_T00443,Matthew,"Yes, precisely!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,954079,954096
+OWT,OWT_T00444,Matthew,Proof be damned!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,954593,954611
+OWT,OWT_T00445,Matthew,"I went there because I was broke,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,954822,954857
+OWT,OWT_T00446,Matthew,Can't!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,955758,955766
+OWT,OWT_T00447,Cyril,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,956206,956212
+OWT,OWT_T00448,Matthew,"I will,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,956293,956302
+OWT,OWT_T00449,the driver,"Yes, sir,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,957088,957099
+OWT,OWT_T00450,Matthew,"Not since Wednesday,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,959457,959479
+OWT,OWT_T00451,Constance,"If I hear from him on Sunday I shall be lucky, bless ye!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,959711,959769
+OWT,OWT_T00452,Unknown,Shall we walk along a bit?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,962219,962247
+OWT,OWT_T00453,Unknown,I must sit me--,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,963147,963164
+OWT,OWT_T00454,Constance,"Mr. Matthew will come with me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,965033,965065
+OWT,OWT_T00455,Mr. Shawcross,"Just take care of yourself, missis,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,965208,965245
+OWT,OWT_T00456,Matthew,"I'm awfully sorry I upset you, Mrs. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,965394,965438
+OWT,OWT_T00457,Matthew,"It's really very funny that Cyril hasn't written to you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,968312,968370
+OWT,OWT_T00458,the portress,"She is sleeping tranquilly, the poor one!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,969662,969705
+OWT,OWT_T00459,the mistress,"I think I shall go to bed, Jacqueline,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,970554,970594
+OWT,OWT_T00460,the mistress,"Arrange yourself as you can,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,971269,971299
+OWT,OWT_T00461,Jacqueline,"I will fetch the doctor--myself,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,980597,980631
+OWT,OWT_T00462,Sophia,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,986446,986458
+OWT,OWT_T00463,Sophia,"There's only one thing that makes me dream of it even for a moment,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,995269,995338
+OWT,OWT_T00464,Constance,"That will do, thank you, Amy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,997736,997767
+OWT,OWT_T00465,Mr. Critchlow,So ye're washing him for her!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,997814,997845
+OWT,OWT_T00466,Constance,About Sophia?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,998040,998055
+OWT,OWT_T00467,Mr. Critchlow,"Eh, bless ye, I don't know,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,999031,999060
+OWT,OWT_T00468,Constance,"I wish it hadn't appeared just to-day,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,999294,999334
+OWT,OWT_T00469,Mr. Critchlow,"Well, I'll be touring on, missis,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,999405,999440
+OWT,OWT_T00470,Constance,"I have decided to go by train,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,999880,999912
+OWT,OWT_T00471,Constance,"Let me look,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1002099,1002113
+OWT,OWT_T00472,Amy,"Unless ye go by tram,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1002316,1002339
+OWT,OWT_T00473,Amy,"Oh yes, 'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1006321,1006334
+OWT,OWT_T00474,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1006444,1006450
+OWT,OWT_T00475,Constance,"Amy, I wonder AT you!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1008265,1008288
+OWT,OWT_T00476,Amy,"Well, I never did see the like of that dog!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1008347,1008392
+OWT,OWT_T00477,Constance,"You must wash him in the scullery, that's all there is for it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1009161,1009225
+OWT,OWT_T00478,Amy,"That's a funny way to go to Bursley Station, that is,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1009569,1009624
+OWT,OWT_T00479,Sophia,"I should have known you anywhere,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1012636,1012671
+OWT,OWT_T00480,Sophia,Oh yes!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1013284,1013293
+OWT,OWT_T00481,Sophia,"This is Fossette,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1014001,1014020
+OWT,OWT_T00482,Sophia,What do you think?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1016056,1016076
+OWT,OWT_T00483,Sophia,Really!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1016517,1016526
+OWT,OWT_T00484,Constance,Eh! Bless us!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1016566,1016581
+OWT,OWT_T00485,Sophia,Well I never!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1017054,1017069
+OWT,OWT_T00486,Constance,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1017265,1017270
+OWT,OWT_T00487,Sophia,Same smoke!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1017770,1017783
+OWT,OWT_T00488,Sophia,"It's even worse,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1017835,1017853
+OWT,OWT_T00489,Sophia,I must have forgotten how dirty it was!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1017979,1018020
+OWT,OWT_T00490,Unknown,Won't it be strange?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1018383,1018405
+OWT,OWT_T00491,Constance,"But of course it's not the same to you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1018712,1018753
+OWT,OWT_T00492,Amy,"Good afternoon, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1019186,1019208
+OWT,OWT_T00493,Sophia,"Fossette will be quite right with me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1021054,1021093
+OWT,OWT_T00494,Sophia,"Oh, no!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1021439,1021448
+OWT,OWT_T00495,Sophia,"Quite, thank you,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1021572,1021591
+OWT,OWT_T00496,Sophia,So this is where you had it bricked up?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1022582,1022623
+OWT,OWT_T00497,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1022640,1022646
+OWT,OWT_T00498,Unknown,"I don't know that I am a widow,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1024831,1024864
+OWT,OWT_T00499,Constance,"Oh, my dear!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1024967,1024981
+OWT,OWT_T00500,Sophia,"Of course I always passed for a widow, over there,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1025210,1025262
+OWT,OWT_T00501,Constance,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1025279,1025291
+OWT,OWT_T00502,Constance,"You didn't tell me this afternoon,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1028212,1028248
+OWT,OWT_T00503,Sophia,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1029033,1029040
+OWT,OWT_T00504,Sophia,"Yesterday morning,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1029324,1029344
+OWT,OWT_T00505,Sophia,"I'm very proud to have Cyril for a nephew,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1029607,1029651
+OWT,OWT_T00506,Amy,"Yes, Mrs. Scales,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1030464,1030483
+OWT,OWT_T00507,Constance,"Mrs. Critchlow and I will go down into the parlour,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1032304,1032357
+OWT,OWT_T00508,Amy,"In the kitchen, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034143,1034165
+OWT,OWT_T00509,Maria,Mrs. Scales has brought a dog with her!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034359,1034400
+OWT,OWT_T00510,Amy,Yes'm!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034421,1034429
+OWT,OWT_T00511,Maria,"You are a family for dogs,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034526,1034554
+OWT,OWT_T00512,Constance,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034596,1034603
+OWT,OWT_T00513,Maria,"I'll be going on to open our side-door,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1034987,1035028
+OWT,OWT_T00514,Sophia,What about bed?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1035905,1035922
+OWT,OWT_T00515,Sophia,"Oh, a fire! How nice!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1036372,1036395
+OWT,OWT_T00516,Constance,"It's no trouble at all,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1036475,1036500
+OWT,OWT_T00517,Constance,"Well, my dear, I hope you'll find everything comfortable,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1036660,1036719
+OWT,OWT_T00518,Sophia,"Good morning, Amy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1056677,1056697
+OWT,OWT_T00519,Amy,"Good morning, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1056740,1056760
+OWT,OWT_T00520,Amy,"Gas-stove, m'm?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1057747,1057764
+OWT,OWT_T00521,Constance,"Oh no, thanks,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1059509,1059525
+OWT,OWT_T00522,Amy,"There ain't no letters,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1061731,1061756
+OWT,OWT_T00523,Sophia,"If the creature will do this while I'm here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1062960,1063006
+OWT,OWT_T00524,Constance,"Of course I really ought not to allow it,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1063762,1063805
+OWT,OWT_T00525,Sophia,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1063873,1063880
+OWT,OWT_T00526,Constance,"You were quite right, quite right,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1064095,1064131
+OWT,OWT_T00527,Sophia,"I've had a good deal of experience of servants,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1064224,1064273
+OWT,OWT_T00528,Sophia,"Now as to that woman,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1064856,1064879
+OWT,OWT_T00529,Constance,She's given notice! And Sunday too!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1066452,1066489
+OWT,OWT_T00530,Constance,"She simply doesn't care,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1066832,1066858
+OWT,OWT_T00531,Sophia,"So you're going to leave, Amy?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1067037,1067069
+OWT,OWT_T00532,Amy,"I am, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1067205,1067217
+OWT,OWT_T00533,Sophia,"I'm sorry I was obliged to correct you this morning,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1067348,1067402
+OWT,OWT_T00534,Amy,"I've been thinking it over, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1067549,1067583
+OWT,OWT_T00535,Amy,"I will, m'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1072466,1072480
+OWT,OWT_T00536,Sophia,"There's something about that woman I like,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1072658,1072702
+OWT,OWT_T00537,Constance,What is it?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1074942,1074955
+OWT,OWT_T00538,Sophia,What CAN she have in the way of worries?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1081515,1081557
+OWT,OWT_T00539,Sophia,"I tell her she doesn't know what worry is,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1081644,1081688
+OWT,OWT_T00540,the doctor,So do I!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1081705,1081715
+OWT,OWT_T00541,Sophia,"I think he's a particularly nice boy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1081933,1081972
+OWT,OWT_T00542,Sophia,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1082023,1082035
+OWT,OWT_T00543,Sophia,"I did something,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1082574,1082592
+OWT,OWT_T00544,Sophia,Then people talk about it?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1083038,1083066
+OWT,OWT_T00545,the doctor,"As a native of Bursley, Mrs. Scales,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1083092,1083130
+OWT,OWT_T00546,Sophia,"Doctor,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1084937,1084946
+OWT,OWT_T00547,Sophia,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1085364,1085376
+OWT,OWT_T00548,Sophia,"No one better,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1086300,1086316
+OWT,OWT_T00549,Sophia,"I never thought of that,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1086702,1086728
+OWT,OWT_T00550,Constance,"You've been having quite a long chat with the doctor,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1087618,1087673
+OWT,OWT_T00551,Constance,"I must send him a line,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1090292,1090317
+OWT,OWT_T00552,Constance,"Amy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1092240,1092246
+OWT,OWT_T00553,Amy,"Yes'm,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1092307,1092315
+OWT,OWT_T00554,Constance,"I'm going to change it with that one,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1093856,1093895
+OWT,OWT_T00555,Sophia,"Suppose I go to meet him,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1094229,1094256
+OWT,OWT_T00556,Constance,Where?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1095361,1095369
+OWT,OWT_T00557,Unknown,"that's a dog, that is! ... All the same....",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1097256,1097301
+OWT,OWT_T00558,Cyril,"I wish I was half as good-looking,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1097781,1097817
+OWT,OWT_T00559,Sophia,Heavy and clumsy!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1098112,1098131
+OWT,OWT_T00560,Cyril,"Now, mater,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1098236,1098249
+OWT,OWT_T00561,Sophia,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1100580,1100585
+OWT,OWT_T00562,Unknown,Get away with you!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1103450,1103470
+OWT,OWT_T00563,Constance,"I should have preferred you to see Mr. Peel-Swynnerton here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1105230,1105292
+OWT,OWT_T00564,Cyril,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1106641,1106646
+OWT,OWT_T00565,Sophia,"I stayed up,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1106919,1106933
+OWT,OWT_T00566,Sophia,"I thought you ought to come down,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1107347,1107382
+OWT,OWT_T00567,Sophia,Yes.,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1109932,1109938
+OWT,OWT_T00568,Sophia,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1110122,1110129
+OWT,OWT_T00569,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1110883,1110889
+OWT,OWT_T00570,Sophia,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1111448,1111453
+OWT,OWT_T00571,Sophia,"I'm coming too,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1128498,1128515
+OWT,OWT_T00572,Sophia,"I tell you what I've been thinking,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1128894,1128931
+OWT,OWT_T00573,Constance,What?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1128972,1128979
+OWT,OWT_T00574,Constance,And stay here?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1129242,1129258
+OWT,OWT_T00575,Constance,"I don't think I should be easy in my mind,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1129502,1129546
+OWT,OWT_T00576,Constance,"It matters a great deal,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1129658,1129684
+OWT,OWT_T00577,Sophia,"I don't see that anything could come to any harm, I really don't!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1129824,1129891
+OWT,OWT_T00578,Constance,Abroad?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1130229,1130238
+OWT,OWT_T00579,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1130326,1130332
+OWT,OWT_T00580,Constance,"I don't think going abroad would suit me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1130671,1130714
+OWT,OWT_T00581,Unknown,"I don't think it would,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1130889,1130914
+OWT,OWT_T00582,Constance,"I think I shall have to be getting back to St. Luke's Square,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1131454,1131517
+OWT,OWT_T00583,Constance,A mistake!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1131846,1131858
+OWT,OWT_T00584,Sophia,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1132109,1132114
+OWT,OWT_T00585,Sophia,"There's one thing I can't understand,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1132801,1132840
+OWT,OWT_T00586,Sophia,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1133948,1133955
+OWT,OWT_T00587,Constance,Do!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1134722,1134727
+OWT,OWT_T00588,Sophia,"You don't realize how serious it is, I'm afraid,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1134757,1134807
+OWT,OWT_T00589,Constance,It's no use!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1136225,1136239
+OWT,OWT_T00590,Sophia,"We will count it that you are here as my guest,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1136845,1136894
+OWT,OWT_T00591,Constance,Oh no!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1136954,1136962
+OWT,OWT_T00592,Sophia,"Yes, we will,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1137065,1137080
+OWT,OWT_T00593,Sophia,Domineer!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1137260,1137271
+OWT,OWT_T00594,Sophia,There!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1140117,1140125
+OWT,OWT_T00595,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1140173,1140179
+OWT,OWT_T00596,Sophia,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1140220,1140227
+OWT,OWT_T00597,Sophia,"And here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1140938,1140949
+OWT,OWT_T00598,Sophia,Will you!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1141930,1141941
+OWT,OWT_T00599,Sophia,"I do declare,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1142136,1142151
+OWT,OWT_T00600,Sophia,"Please shut the door after you, Maud,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1150724,1150763
+OWT,OWT_T00601,Maud,"Yes, ma'am,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1150819,1150832
+OWT,OWT_T00602,Unknown,did you not hear me call you?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1152095,1152126
+OWT,OWT_T00603,Sophia,"And you should light the gas in the kitchen,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1152723,1152769
+OWT,OWT_T00604,Sophia,I'm not going to let her think she can spoil my appetite!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1153855,1153914
+OWT,OWT_T00605,Mrs. Povey,"I do hope he'll call in,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1155697,1155723
+OWT,OWT_T00606,Constance,"I wish you'd go down, Sophia,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1156803,1156834
+OWT,OWT_T00607,Sophia,"I'm glad you've come,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1157110,1157133
+OWT,OWT_T00608,Sophia,"She only wants a bit of your society,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1157533,1157572
+OWT,OWT_T00609,Unknown,"When I was married,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1158651,1158672
+OWT,OWT_T00610,Dr. Stirling,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1159663,1159675
+OWT,OWT_T00611,Constance,"Oh yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1159816,1159825
+OWT,OWT_T00612,Constance,"It's very kind of Dick,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1161040,1161065
+OWT,OWT_T00613,Constance,"Oh, doctor, how you do run on!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1161447,1161479
+OWT,OWT_T00614,the doctor,"You haven't heard his latest, I suppose?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1163599,1163641
+OWT,OWT_T00615,Sophia,"Of course,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1170099,1170111
+OWT,OWT_T00616,Unknown,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1172146,1172152
+OWT,OWT_T00617,Sophia,"I'm sorry we can't come,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1173097,1173123
+OWT,OWT_T00618,Dick,Trouble? I'm sorry to hear that!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1173521,1173555
+OWT,OWT_T00619,Sophia,Can you tell me the trains to Manchester?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1173570,1173613
+OWT,OWT_T00620,Dick,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1173631,1173636
+OWT,OWT_T00621,Dick,"Look here,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1173790,1173802
+OWT,OWT_T00622,Unknown,"Yes, madam. I'll fetch him at once,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1177805,1177842
+OWT,OWT_T00623,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1179446,1179452
+OWT,OWT_T00624,Mr. Till Boldero,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1179715,1179721
+OWT,OWT_T00625,Sophia,He's here?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1180721,1180733
+OWT,OWT_T00626,Mr. Boldero,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1180793,1180799
+OWT,OWT_T00627,Sophia,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1180860,1180866
+OWT,OWT_T00628,Sophia,"Not since 'seventy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1180987,1181008
+OWT,OWT_T00629,Sophia,"It's you that make me cry,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1181396,1181424
+OWT,OWT_T00630,Mr. Boldero,Will you come now? Or will you wait a bit?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1181888,1181932
+OWT,OWT_T00631,Sophia,"I'll come now,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1182024,1182040
+OWT,OWT_T00632,Mr. Boldero,"Nothing,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1188131,1188141
+OWT,OWT_T00633,Sophia,At his age!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1188321,1188334
+OWT,OWT_T00634,Mr. Boldero,"No,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1188962,1188967
+OWT,OWT_T00635,Mr. Boldero,"One would suppose,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1189328,1189348
+OWT,OWT_T00636,Dick,"Well, there's nothing for it!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1192043,1192074
+OWT,OWT_T00637,Lily,Where are you going?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1192928,1192950
+OWT,OWT_T00638,Constance,"Her ladyship has just given it to me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1216404,1216443
+OWT,OWT_T00639,Lily,Indeed!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1216468,1216477
+OWT,OWT_T00640,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1216880,1216886
+OWT,OWT_T00641,Lily,Why!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1218222,1218228
+OWT,OWT_T00642,Constance,"I don't know, my dear,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1218275,1218299
+OWT,OWT_T00643,Lily,"It's Mrs. Scales to the life--I can see that,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1218549,1218596
+OWT,OWT_T00644,Constance,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1218611,1218617
+OWT,OWT_T00645,Constance,"I've got another copy of it in my bedroom,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219061,1219105
+OWT,OWT_T00646,Constance,"Yes, yes!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219193,1219204
+OWT,OWT_T00647,Lily,"Oh, THANK you!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219263,1219279
+OWT,OWT_T00648,Constance,"And that reminds me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219294,1219316
+OWT,OWT_T00649,Constance,"No, no!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219432,1219441
+OWT,OWT_T00650,Constance,"I've always meant to give you this,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219577,1219614
+OWT,OWT_T00651,Lily,Truly!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1219956,1219964
+OWT,OWT_T00652,Lily,What a magnificent old watch!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1220268,1220299
+OWT,OWT_T00653,Constance,"That was father's,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1220396,1220416
+OWT,OWT_T00654,Lily,HAVE you?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1220725,1220736
+OWT,OWT_T00655,Constance,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1221110,1221117
+OWT,OWT_T00656,Lily,"Yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1221429,1221435
+OWT,OWT_T00657,Constance,"I hope pride won't have a fall,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1224015,1224048
+OWT,OWT_T00658,Dick,"I can't stay for tea--really,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1224184,1224215
+OWT,OWT_T00659,Constance,"Of course you can,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1224230,1224250
+OWT,OWT_T00660,Dick,Thank you for nothing!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1225367,1225391
+OWT,OWT_T00661,Lily,"Of course it is rather clumsy,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1225661,1225693
+OWT,OWT_T00662,Dick,"Well, then,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1225799,1225812
+OWT,OWT_T00663,Dick,And I suppose you'll have to wear that!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1226277,1226318
+OWT,OWT_T00664,Lily,"She values it as much as anything she's got, poor old thing!",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1226333,1226395
+OWT,OWT_T00665,Dick,I wonder where she learnt that!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1226528,1226561
+OWT,OWT_T00666,Lily,"Well,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1226642,1226649
+OWT,OWT_T00667,Lily,"That dog does smell,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1227149,1227171
+OWT,OWT_T00668,Dick,"Well, that's very simple,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1227418,1227445
+OWT,OWT_T00669,Dick,"Mrs. Povey,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1227640,1227653
+OWT,OWT_T00670,Constance,It must be something on the pavement--or in the shop!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1228450,1228505
+OWT,OWT_T00671,Dick Povey,"By Jove! I'd better go and see if I can help, hadn't I?",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1228955,1229012
+OWT,OWT_T00672,Constance,"Mary,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1257493,1257500
+OWT,OWT_T00673,Lily,"Oh yes,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1257991,1258000
+OWT,OWT_T00674,Constance,Oh!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1258851,1258856
+OWT,OWT_T00675,Lily,Do I?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1259106,1259113
+OWT,OWT_T00676,Constance,"I'm afraid my sciatica's worse, Doctor,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1259426,1259467
+OWT,OWT_T00677,Unknown,Did you expect it to be better?,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,review,review,1259504,1259537
+OWT,OWT_T00678,Constance,"Lily never told me,",Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1261546,1261567
+OWT,OWT_T00679,Constance,I do hope you won't go running any risks!,Project Gutenberg,The Old Wives' Tale,Arnold Bennett,high,review,1261733,1261776

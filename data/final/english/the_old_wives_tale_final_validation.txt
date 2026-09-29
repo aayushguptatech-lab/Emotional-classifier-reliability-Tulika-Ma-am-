@@ -1,0 +1,38 @@
+THE OLD WIVES' TALE — FINAL CORPUS VALIDATION
+
+Input turn file:          the_old_wives_tale_dialogue_turns_v1.csv
+Input turns:              679
+Final corpus turns:       679
+Unique turn IDs:          679
+Duplicate turn IDs:       0
+Empty dialogue rows:      0
+
+SPEAKER ATTRIBUTION
+Known speakers:           637
+Unknown speakers:         42
+Unknown percentage:       6.19%
+
+CANONICAL TEXT
+Characters:               1269902
+
+SOURCE
+Project Gutenberg
+Arnold Bennett — The Old Wives' Tale
+
+VALIDATION
+PASS unique IDs:          True
+PASS non-empty dialogue:  True
+PASS required fields:     True
+PASS dialogue column:     True
+PASS canonical source:    True
+PASS valid spans:         True
+
+NOTE
+Existing OWT extraction and audit artifacts are retained.
+Unknown speaker values are not guessed or silently replaced.
+
+FINAL CSV:
+data\final\english\the_old_wives_tale_final_corpus.csv
+
+VALIDATION:
+data\final\english\the_old_wives_tale_final_validation.txt

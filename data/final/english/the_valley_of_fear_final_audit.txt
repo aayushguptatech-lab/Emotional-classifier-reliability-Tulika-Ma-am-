@@ -1,0 +1,66 @@
+========================================================================
+THE VALLEY OF FEAR — FINAL AUDIT
+========================================================================
+
+1. CORPUS SIZE
+------------------------------------------------------------------------
+Rows:                    1267
+Unique turn IDs:         1267
+Duplicate turn IDs:     0
+Empty dialogue rows:     0
+
+2. SPEAKER ATTRIBUTION
+------------------------------------------------------------------------
+Known speakers:          277
+Unknown speakers:        990
+Unknown percentage:      78.14%
+
+3. CANONICAL TEXT
+------------------------------------------------------------------------
+Source characters:        320464
+Mr. occurrences:         180
+Mrs. occurrences:        41
+Dr. occurrences:         14
+St. occurrences:         1
+Lowercase title forms:   0
+
+4. SCHEMA
+------------------------------------------------------------------------
+Missing required fields: 0
+
+5. LONG / SUSPICIOUS RECORDS
+------------------------------------------------------------------------
+Records flagged:         14
+Records >1000 chars:     14
+Lowercase-title flags:   0
+
+6. REPRODUCIBILITY
+------------------------------------------------------------------------
+Final corpus producer:
+src/08v_build_final_vof_corpus.py
+
+Canonical source:
+data/cleaned/english/the_valley_of_fear_clean.txt
+
+Final corpus:
+data/final/english/the_valley_of_fear_final_corpus.csv
+
+7. 172-TURN DISCREPANCY
+------------------------------------------------------------------------
+README.md reports 172 dialogue turns.
+No reproducible selection rule or intermediate dataset producing
+172 was found in the available project artifacts.
+Current reproducible corpus: 1267 turns.
+
+8. AUDIT STATUS
+------------------------------------------------------------------------
+PASS unique IDs:         True
+PASS non-empty dialogue:  True
+PASS canonical titles:    True
+PASS schema:              True
+
+NOTE:
+Speaker Unknown values are retained rather than being guessed.
+Long records are flagged for review and are not silently changed.
+
+========================================================================

@@ -1,0 +1,22 @@
+GABAN — HINDI CORPUS VALIDATION
+
+Chapters fetched: 5
+Characters in clean source: 522183
+Dialogue candidates: 1785
+Known speakers: 664
+Unknown speakers: 1121
+Unknown percentage: 62.80%
+
+SOURCE
+HindiSamay — प्रेमचंद — गबन
+https://www.hindisamay.com/
+
+VALIDATION
+PASS source created: True
+PASS final CSV created: True
+PASS unique turn IDs: True
+PASS non-empty dialogue: True
+
+NOTE
+Speaker identities are retained only when supported by local attribution patterns.
+Unknown values are not guessed.

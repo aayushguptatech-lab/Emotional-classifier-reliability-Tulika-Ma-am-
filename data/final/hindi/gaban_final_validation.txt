@@ -1,0 +1,58 @@
+GABAN FINAL CORPUS VALIDATION
+============================================================
+
+Source paragraphs: 2250
+Raw dialogue candidates: 1177
+Final retained turns: 1010
+Review records: 166
+
+Known speakers: 1010
+Unknown speakers: 0
+
+CHAPTER DISTRIBUTION
+Chapter 1: 0
+Chapter 2: 365
+Chapter 3: 214
+Chapter 4: 239
+Chapter 5: 192
+
+SPEAKER COUNT
+Distinct speakers: 24
+
+TOP SPEAKERS
+जालपा: 236
+रमानाथ: 151
+रमा: 131
+देवीदीन: 114
+रतन: 100
+दारोग़ा: 71
+ज़ोहरा: 33
+रमेश: 32
+दयानाथ: 18
+जग्गो: 17
+जागेश्वरी: 12
+मणिभूषण: 12
+गंगू: 11
+डिप्टी: 11
+जौहरी: 10
+चरनदास: 8
+रमेश बाबू: 8
+चपरासी: 7
+इंस्पेक्टर: 7
+टीमल: 5
+प्यादा: 4
+टिकट बाबू: 4
+दीनदयाल: 4
+मुंशीजी: 4
+
+STRUCTURAL CHECKS
+Rows: 1010
+IDs unique: True
+Empty dialogue: 0
+Duplicate dialogue: 0
+Source characters: 520380
+
+OUTPUT FILES
+data\final\hindi\gaban_dialogue_final.csv
+data\final\hindi\gaban_dialogue_review.csv
+data\final\hindi\gaban_final_validation.txt

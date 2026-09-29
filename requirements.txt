@@ -1,0 +1,11 @@
+﻿# Literary corpus pipeline
+pandas
+requests
+beautifulsoup4
+numpy
+
+# EMORE@ACII2026 analysis notebook
+transformers
+torch
+scikit-learn
+matplotlib

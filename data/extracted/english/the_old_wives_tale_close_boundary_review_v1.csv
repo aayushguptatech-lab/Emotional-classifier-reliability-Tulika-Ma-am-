@@ -1,0 +1,123 @@
+﻿current_turn_id,next_turn_id,current_candidate_id,next_candidate_id,current_speaker,next_speaker,same_speaker,unknown_boundary,character_gap,current_text,next_text,review_type
+OWT_T00007,OWT_T00008,OWT_C00064,OWT_C00067,Sophia,Sophia,True,False,485.0,"He did look funny,","Let's go and listen,",CLOSE_SAME_SPEAKER
+OWT_T00022,OWT_T00023,OWT_C00122,OWT_C00124,Mr. Povey,Mr. Povey,True,False,184.0,"That tooth has been loose for two years,",Oh!,CLOSE_SAME_SPEAKER
+OWT_T00027,OWT_T00028,OWT_C00141,OWT_C00143,Constance,Constance,True,False,445.0,"Sophia,",_I_ don't know what's come over you!,CLOSE_SAME_SPEAKER
+OWT_T00034,OWT_T00035,OWT_C00171,OWT_C00173,Sophia,Sophia,True,False,333.0,"Mother,","Yes,",CLOSE_SAME_SPEAKER
+OWT_T00037,OWT_T00038,OWT_C00180,OWT_C00182,Sophia,Sophia,True,False,258.0,"Yes,",Of course. What other kind is there?,CLOSE_SAME_SPEAKER
+OWT_T00057,OWT_T00058,OWT_C00239,OWT_C00243,Mrs. Baines,Mrs. Baines,True,False,190.0,"No,","I hope she'll turn over a new leaf now,",CLOSE_SAME_SPEAKER
+OWT_T00076,OWT_T00077,OWT_C00324,OWT_C00326,Mrs. Baines,Mrs. Baines,True,False,303.0,"You are a very naughty girl,","I knew she was going to cry,",CLOSE_SAME_SPEAKER
+OWT_T00077,OWT_T00078,OWT_C00326,OWT_C00327,Mrs. Baines,Mrs. Baines,True,False,41.0,"I knew she was going to cry,","I'm waiting,",CLOSE_SAME_SPEAKER
+OWT_T00080,OWT_T00081,OWT_C00332,OWT_C00336,Mrs. Baines,Mrs. Baines,True,False,311.0,"Sophia,","I will have no trifling,",CLOSE_SAME_SPEAKER
+OWT_T00082,OWT_T00083,OWT_C00351,OWT_C00352,Mrs. Baines,Mrs. Baines,True,False,211.0,"Take these for tea,",There!,CLOSE_SAME_SPEAKER
+OWT_T00094,OWT_T00095,OWT_C00374,OWT_C00376,Miss Chetwynd,Miss Chetwynd,True,False,343.0,I suppose she has talked to you about becoming a teacher?,Oh yes!,CLOSE_SAME_SPEAKER
+OWT_T00096,OWT_T00097,OWT_C00377,OWT_C00379,Mrs. Baines,Mrs. Baines,True,False,297.0,"I dare say your sister will give up her school now,",THEN YOU THINK SOPHIA WOULD MAKE A GOOD TEACHER?,CLOSE_SAME_SPEAKER
+OWT_T00097,OWT_T00098,OWT_C00379,OWT_C00381,Mrs. Baines,Mrs. Baines,True,False,174.0,THEN YOU THINK SOPHIA WOULD MAKE A GOOD TEACHER?,"That wouldn't affect her father--or me,",CLOSE_SAME_SPEAKER
+OWT_T00115,OWT_T00116,OWT_C00470,OWT_C00472,Mrs. Maddack,Mrs. Maddack,True,False,382.0,"Come, sister,","I shall fetch Constance and Sophia,",CLOSE_SAME_SPEAKER
+OWT_T00119,OWT_T00120,OWT_C00480,OWT_C00482,Mrs. Baines,Mrs. Baines,True,False,79.0,Look at the clock!,"Come, put your things together, and don't keep me waiting,",CLOSE_SAME_SPEAKER
+OWT_T00129,OWT_T00130,OWT_C00512,OWT_C00514,Mrs. Baines,Mrs. Baines,True,False,198.0,I hope you weren't--,Do come in!,CLOSE_SAME_SPEAKER
+OWT_T00142,OWT_T00143,OWT_C00538,OWT_C00543,Mrs. Baines,Mrs. Baines,True,False,218.0,"Tell her about her new night-dress,","He never looks you straight in the face,",CLOSE_SAME_SPEAKER
+OWT_T00149,OWT_T00150,OWT_C00580,OWT_C00582,Mrs. Baines,Mrs. Baines,True,False,105.0,"You were seen in Wedgwood Street,","No one has been 'gossiping,'",CLOSE_SAME_SPEAKER
+OWT_T00150,OWT_T00151,OWT_C00582,OWT_C00583,Mrs. Baines,Mrs. Baines,True,False,123.0,"No one has been 'gossiping,'","You know what I mean, my child,",CLOSE_SAME_SPEAKER
+OWT_T00157,OWT_T00158,OWT_C00664,OWT_C00666,Mrs. Baines,Mrs. Baines,True,False,83.0,"What's all that clay on your boots, child?","Yes,",CLOSE_SAME_SPEAKER
+OWT_T00168,OWT_T00169,OWT_C00697,OWT_C00699,Mr. Povey,Mr. Povey,True,False,423.0,Oh!,"I'm not at all satisfied with the present situation,",CLOSE_SAME_SPEAKER
+OWT_T00175,OWT_T00176,OWT_C00752,OWT_C00754,Mrs. Baines,Mrs. Baines,True,False,38.0,Serious it is!,Sophia's run off. That's the plain English of it!,CLOSE_SAME_SPEAKER
+OWT_T00192,OWT_T00193,OWT_C00825,OWT_C00827,Boon,Boon,True,False,180.0,"Now, there's a dog!","I'll tak' a hundred and twenty sovereigns for her,",CLOSE_SAME_SPEAKER
+OWT_T00194,OWT_T00195,OWT_C00830,OWT_C00834,Mr. Povey,Mr. Povey,True,False,116.0,"That's not quite the sort of dog I want,","Oh,",CLOSE_SAME_SPEAKER
+OWT_T00195,OWT_T00196,OWT_C00834,OWT_C00839,Mr. Povey,Mr. Povey,True,False,153.0,"Oh,","Not more than two pounds,",CLOSE_SAME_SPEAKER
+OWT_T00229,OWT_T00230,OWT_C00952,OWT_C00953,Samuel,Samuel,True,False,261.0,What? Mr. Derry?,"I'll get Cousin Daniel to drive me over at once,",CLOSE_SAME_SPEAKER
+OWT_T00235,OWT_T00236,OWT_C00971,OWT_C00974,Mr. Povey,Mr. Povey,True,False,152.0,Stand away!,"I found him in the far cellar,",CLOSE_SAME_SPEAKER
+OWT_T00236,OWT_T00237,OWT_C00974,OWT_C00977,Mr. Povey,Mr. Povey,True,False,405.0,"I found him in the far cellar,",Can't you?,CLOSE_SAME_SPEAKER
+OWT_T00241,OWT_T00242,OWT_C00983,OWT_C00987,Mr. Povey,Mr. Povey,True,False,192.0,Why not?,"Well,",CLOSE_SAME_SPEAKER
+OWT_T00243,OWT_T00244,OWT_C00990,OWT_C00995,Mr. Povey,Mr. Povey,True,False,233.0,"He's in bed now,","I've punished him, of course,",CLOSE_SAME_SPEAKER
+OWT_T00247,OWT_T00248,OWT_C01002,OWT_C01004,Cyril,Cyril,True,False,320.0,Who says I haven't washed my feet?,And how do you know?,CLOSE_SAME_SPEAKER
+OWT_T00257,OWT_T00258,OWT_C01069,OWT_C01070,Mr. Povey,Mr. Povey,True,False,98.0,"Give it your mother,","Please look at it, mother,",CLOSE_SAME_SPEAKER
+OWT_T00258,OWT_T00259,OWT_C01070,OWT_C01073,Mr. Povey,Mr. Povey,True,False,193.0,"Please look at it, mother,","I thought so,",CLOSE_SAME_SPEAKER
+OWT_T00273,OWT_T00274,OWT_C01128,OWT_C01132,Samuel,Samuel,True,False,343.0,"N--no,","I'm very sorry to hear it,",CLOSE_SAME_SPEAKER
+OWT_T00281,OWT_T00282,OWT_C01176,OWT_C01178,Samuel,Samuel,True,False,94.0,"I don't need any muffler, thank you,",Now please don't worry me!,CLOSE_SAME_SPEAKER
+OWT_T00290,OWT_T00291,OWT_C01222,OWT_C01224,Constance,Constance,True,False,60.0,Sh!,"Yes, it is!",CLOSE_SAME_SPEAKER
+OWT_T00301,OWT_T00302,OWT_C01321,OWT_C01324,Mr. Critchlow,Mr. Critchlow,True,False,219.0,"That'll be all right,",Ah!,CLOSE_SAME_SPEAKER
+OWT_T00302,OWT_T00303,OWT_C01324,OWT_C01325,Mr. Critchlow,Mr. Critchlow,True,False,123.0,Ah!,"So that's settled,",CLOSE_SAME_SPEAKER
+OWT_T00305,OWT_T00306,OWT_C01332,OWT_C01334,Mr. Critchlow,Mr. Critchlow,True,False,169.0,"Come here,",Here!,CLOSE_SAME_SPEAKER
+OWT_T00319,OWT_T00320,OWT_C01506,OWT_C01508,Chirac,Chirac,True,False,285.0,Ah!,I go!,CLOSE_SAME_SPEAKER
+OWT_T00320,OWT_T00321,OWT_C01508,OWT_C01509,Chirac,Chirac,True,False,404.0,I go!,Madame!,CLOSE_SAME_SPEAKER
+OWT_T00325,OWT_T00326,OWT_C01530,OWT_C01531,Gerald,Gerald,True,False,348.0,At your service!,"Wait here for me,",CLOSE_SAME_SPEAKER
+OWT_T00327,OWT_T00328,OWT_C01537,OWT_C01539,Sophia,Sophia,True,False,122.0,"I have no money,","Hotel Meurice,",CLOSE_SAME_SPEAKER
+OWT_T00332,OWT_T00333,OWT_C01557,OWT_C01559,Gerald,Gerald,True,False,145.0,Who else?,"I didn't suppose you could,",CLOSE_SAME_SPEAKER
+OWT_T00338,OWT_T00339,OWT_C01582,OWT_C01585,Gerald,Gerald,True,False,470.0,"It's all right,",Oh! Damn!,CLOSE_SAME_SPEAKER
+OWT_T00356,OWT_T00357,OWT_C01711,OWT_C01713,Sophia,Sophia,True,False,117.0,"Oh, yes, you have,",And me! I am your friend!,CLOSE_SAME_SPEAKER
+OWT_T00367,OWT_T00368,OWT_C01732,OWT_C01737,Sophia,Sophia,True,False,345.0,"Suppose we say nine,",Shall I pay you seventy-five francs a week?,CLOSE_SAME_SPEAKER
+OWT_T00379,OWT_T00380,OWT_C01784,OWT_C01790,Sophia,Sophia,True,False,263.0,You like jewellery?,"It is not enough,",CLOSE_SAME_SPEAKER
+OWT_T00383,OWT_T00384,OWT_C01795,OWT_C01797,Sophia,Sophia,True,False,101.0,"As you wish,","No,",CLOSE_SAME_SPEAKER
+OWT_T00387,OWT_T00388,OWT_C01851,OWT_C01853,Chirac,Chirac,True,False,489.0,A victory! If only it was true!,My God!,CLOSE_SAME_SPEAKER
+OWT_T00393,OWT_T00394,OWT_C01880,OWT_C01885,Sophia,Sophia,True,False,190.0,"Please rise,",No!,CLOSE_SAME_SPEAKER
+OWT_T00400,OWT_T00401,OWT_C01904,OWT_C01906,Sophia,Sophia,True,False,105.0,"I'm not unkind,","Yes,",CLOSE_SAME_SPEAKER
+OWT_T00401,OWT_T00402,OWT_C01906,OWT_C01909,Sophia,Sophia,True,False,303.0,"Yes,",By being respectable and dealing with respectable people!,CLOSE_SAME_SPEAKER
+OWT_T00426,OWT_T00427,OWT_C02101,OWT_C02103,Peel-Swynnerton,Peel-Swynnerton,True,False,495.0,"Very,",Who is that?,CLOSE_SAME_SPEAKER
+OWT_T00428,OWT_T00429,OWT_C02104,OWT_C02106,Mr. Mardon,Mr. Mardon,True,False,86.0,"That's the missis, that is,","Yes. But her real name is Scales,",CLOSE_SAME_SPEAKER
+OWT_T00429,OWT_T00430,OWT_C02106,OWT_C02110,Mr. Mardon,Mr. Mardon,True,False,97.0,"Yes. But her real name is Scales,","She runs the entire contraption,",CLOSE_SAME_SPEAKER
+OWT_T00442,OWT_T00443,OWT_C02150,OWT_C02153,Matthew,Matthew,True,False,68.0,"Mrs. Scales,","Yes, precisely!",CLOSE_SAME_SPEAKER
+OWT_T00443,OWT_T00444,OWT_C02153,OWT_C02157,Matthew,Matthew,True,False,497.0,"Yes, precisely!",Proof be damned!,CLOSE_SAME_SPEAKER
+OWT_T00444,OWT_T00445,OWT_C02157,OWT_C02159,Matthew,Matthew,True,False,211.0,Proof be damned!,"I went there because I was broke,",CLOSE_SAME_SPEAKER
+OWT_T00482,OWT_T00483,OWT_C02298,OWT_C02301,Sophia,Sophia,True,False,441.0,What do you think?,Really!,CLOSE_SAME_SPEAKER
+OWT_T00487,OWT_T00488,OWT_C02306,OWT_C02308,Sophia,Sophia,True,False,52.0,Same smoke!,"It's even worse,",CLOSE_SAME_SPEAKER
+OWT_T00488,OWT_T00489,OWT_C02308,OWT_C02310,Sophia,Sophia,True,False,126.0,"It's even worse,",I must have forgotten how dirty it was!,CLOSE_SAME_SPEAKER
+OWT_T00493,OWT_T00494,OWT_C02323,OWT_C02325,Sophia,Sophia,True,False,346.0,"Fossette will be quite right with me,","Oh, no!",CLOSE_SAME_SPEAKER
+OWT_T00494,OWT_T00495,OWT_C02325,OWT_C02327,Sophia,Sophia,True,False,124.0,"Oh, no!","Quite, thank you,",CLOSE_SAME_SPEAKER
+OWT_T00503,OWT_T00504,OWT_C02351,OWT_C02355,Sophia,Sophia,True,False,284.0,"Well,","Yesterday morning,",CLOSE_SAME_SPEAKER
+OWT_T00504,OWT_T00505,OWT_C02355,OWT_C02361,Sophia,Sophia,True,False,263.0,"Yesterday morning,","I'm very proud to have Cyril for a nephew,",CLOSE_SAME_SPEAKER
+OWT_T00514,OWT_T00515,OWT_C02389,OWT_C02393,Sophia,Sophia,True,False,450.0,What about bed?,"Oh, a fire! How nice!",CLOSE_SAME_SPEAKER
+OWT_T00516,OWT_T00517,OWT_C02394,OWT_C02395,Constance,Constance,True,False,160.0,"It's no trouble at all,","Well, my dear, I hope you'll find everything comfortable,",CLOSE_SAME_SPEAKER
+OWT_T00529,OWT_T00530,OWT_C02440,OWT_C02444,Constance,Constance,True,False,343.0,She's given notice! And Sunday too!,"She simply doesn't care,",CLOSE_SAME_SPEAKER
+OWT_T00538,OWT_T00539,OWT_C02490,OWT_C02492,Sophia,Sophia,True,False,87.0,What CAN she have in the way of worries?,"I tell her she doesn't know what worry is,",CLOSE_SAME_SPEAKER
+OWT_T00541,OWT_T00542,OWT_C02495,OWT_C02497,Sophia,Sophia,True,False,51.0,"I think he's a particularly nice boy,","Of course,",CLOSE_SAME_SPEAKER
+OWT_T00543,OWT_T00544,OWT_C02500,OWT_C02502,Sophia,Sophia,True,False,446.0,"I did something,",Then people talk about it?,CLOSE_SAME_SPEAKER
+OWT_T00546,OWT_T00547,OWT_C02511,OWT_C02513,Sophia,Sophia,True,False,418.0,"Doctor,","Of course,",CLOSE_SAME_SPEAKER
+OWT_T00548,OWT_T00549,OWT_C02516,OWT_C02520,Sophia,Sophia,True,False,386.0,"No one better,","I never thought of that,",CLOSE_SAME_SPEAKER
+OWT_T00565,OWT_T00566,OWT_C02593,OWT_C02595,Sophia,Sophia,True,False,414.0,"I stayed up,","I thought you ought to come down,",CLOSE_SAME_SPEAKER
+OWT_T00567,OWT_T00568,OWT_C02614,OWT_C02617,Sophia,Sophia,True,False,184.0,Yes.,"Well,",CLOSE_SAME_SPEAKER
+OWT_T00571,OWT_T00572,OWT_C02630,OWT_C02632,Sophia,Sophia,True,False,379.0,"I'm coming too,","I tell you what I've been thinking,",CLOSE_SAME_SPEAKER
+OWT_T00573,OWT_T00574,OWT_C02633,OWT_C02634,Constance,Constance,True,False,263.0,What?,And stay here?,CLOSE_SAME_SPEAKER
+OWT_T00574,OWT_T00575,OWT_C02634,OWT_C02636,Constance,Constance,True,False,244.0,And stay here?,"I don't think I should be easy in my mind,",CLOSE_SAME_SPEAKER
+OWT_T00575,OWT_T00576,OWT_C02636,OWT_C02638,Constance,Constance,True,False,112.0,"I don't think I should be easy in my mind,","It matters a great deal,",CLOSE_SAME_SPEAKER
+OWT_T00582,OWT_T00583,OWT_C02646,OWT_C02648,Constance,Constance,True,False,329.0,"I think I shall have to be getting back to St. Luke's Square,",A mistake!,CLOSE_SAME_SPEAKER
+OWT_T00592,OWT_T00593,OWT_C02675,OWT_C02677,Sophia,Sophia,True,False,180.0,"Yes, we will,",Domineer!,CLOSE_SAME_SPEAKER
+OWT_T00598,OWT_T00599,OWT_C02688,OWT_C02689,Sophia,Sophia,True,False,195.0,Will you!,"I do declare,",CLOSE_SAME_SPEAKER
+OWT_T00607,OWT_T00608,OWT_C02708,OWT_C02711,Sophia,Sophia,True,False,400.0,"I'm glad you've come,","She only wants a bit of your society,",CLOSE_SAME_SPEAKER
+OWT_T00612,OWT_T00613,OWT_C02722,OWT_C02724,Constance,Constance,True,False,382.0,"It's very kind of Dick,","Oh, doctor, how you do run on!",CLOSE_SAME_SPEAKER
+OWT_T00620,OWT_T00621,OWT_C02751,OWT_C02753,Dick,Dick,True,False,154.0,"No,","Look here,",CLOSE_SAME_SPEAKER
+OWT_T00627,OWT_T00628,OWT_C02778,OWT_C02780,Sophia,Sophia,True,False,121.0,"Yes,","Not since 'seventy,",CLOSE_SAME_SPEAKER
+OWT_T00628,OWT_T00629,OWT_C02780,OWT_C02785,Sophia,Sophia,True,False,388.0,"Not since 'seventy,","It's you that make me cry,",CLOSE_SAME_SPEAKER
+OWT_T00634,OWT_T00635,OWT_C02804,OWT_C02805,Mr. Boldero,Mr. Boldero,True,False,361.0,"No,","One would suppose,",CLOSE_SAME_SPEAKER
+OWT_T00644,OWT_T00645,OWT_C02832,OWT_C02834,Constance,Constance,True,False,444.0,"Yes,","I've got another copy of it in my bedroom,",CLOSE_SAME_SPEAKER
+OWT_T00645,OWT_T00646,OWT_C02834,OWT_C02836,Constance,Constance,True,False,88.0,"I've got another copy of it in my bedroom,","Yes, yes!",CLOSE_SAME_SPEAKER
+OWT_T00648,OWT_T00649,OWT_C02838,OWT_C02840,Constance,Constance,True,False,116.0,"And that reminds me,","No, no!",CLOSE_SAME_SPEAKER
+OWT_T00649,OWT_T00650,OWT_C02840,OWT_C02841,Constance,Constance,True,False,136.0,"No, no!","I've always meant to give you this,",CLOSE_SAME_SPEAKER
+OWT_T00651,OWT_T00652,OWT_C02842,OWT_C02843,Lily,Lily,True,False,304.0,Truly!,What a magnificent old watch!,CLOSE_SAME_SPEAKER
+OWT_T00662,OWT_T00663,OWT_C02875,OWT_C02880,Dick,Dick,True,False,465.0,"Well, then,",And I suppose you'll have to wear that!,CLOSE_SAME_SPEAKER
+OWT_T00666,OWT_T00667,OWT_C02883,OWT_C02885,Lily,Lily,True,False,500.0,"Well,","That dog does smell,",CLOSE_SAME_SPEAKER
+OWT_T00668,OWT_T00669,OWT_C02886,OWT_C02888,Dick,Dick,True,False,195.0,"Well, that's very simple,","Mrs. Povey,",CLOSE_SAME_SPEAKER
+OWT_T00678,OWT_T00679,OWT_C02912,OWT_C02914,Constance,Constance,True,False,166.0,"Lily never told me,",I do hope you won't go running any risks!,CLOSE_SAME_SPEAKER
+OWT_T00032,OWT_T00033,OWT_C00168,OWT_C00169,Unknown,Mrs. Baines,False,True,408.0,"If you can't find anything better to do,",Constance has told you--about leaving school?,CLOSE_UNKNOWN
+OWT_T00041,OWT_T00042,OWT_C00194,OWT_C00195,Unknown,Mrs. Baines,False,True,129.0,"That will do,","Now, really, Mr. Povey, this is not like you,",CLOSE_UNKNOWN
+OWT_T00044,OWT_T00045,OWT_C00197,OWT_C00198,Mrs. Baines,Unknown,False,True,250.0,"I see you are,","My tooth doesn't hurt me,",CLOSE_UNKNOWN
+OWT_T00045,OWT_T00046,OWT_C00198,OWT_C00199,Unknown,Mrs. Baines,False,True,86.0,"My tooth doesn't hurt me,",Fiddlesticks!,CLOSE_UNKNOWN
+OWT_T00047,OWT_T00048,OWT_C00214,OWT_C00216,Unknown,Constance,False,True,70.0,"It's always best to get these things done with,","Here it is,",CLOSE_UNKNOWN
+OWT_T00054,OWT_T00055,OWT_C00232,OWT_C00233,Mrs. Baines,Unknown,False,True,73.0,What? Yonder?,"I wanted to inform him,",CLOSE_UNKNOWN
+OWT_T00055,OWT_T00056,OWT_C00233,OWT_C00234,Unknown,Mrs. Baines,False,True,78.0,"I wanted to inform him,","What did I tell you, Constance?",CLOSE_UNKNOWN
+OWT_T00107,OWT_T00108,OWT_C00414,OWT_C00419,Unknown,Unknown,False,True,495.0,it WAS.,"I simply didn't care to,",CLOSE_UNKNOWN
+OWT_T00144,OWT_T00145,OWT_C00547,OWT_C00557,Mr. Scales,Unknown,False,True,462.0,"The last time I saw you,","I go to chapel,",CLOSE_UNKNOWN
+OWT_T00147,OWT_T00148,OWT_C00577,OWT_C00578,Mrs. Baines,Unknown,False,True,278.0,"A novel, I see,","Sophia,",CLOSE_UNKNOWN
+OWT_T00148,OWT_T00149,OWT_C00578,OWT_C00580,Unknown,Mrs. Baines,False,True,168.0,"Sophia,","You were seen in Wedgwood Street,",CLOSE_UNKNOWN
+OWT_T00163,OWT_T00164,OWT_C00688,OWT_C00690,Unknown,Sophia,False,True,413.0,"Yes'm,",You needn't think I don't see why you're sending me away!,CLOSE_UNKNOWN
+OWT_T00165,OWT_T00166,OWT_C00692,OWT_C00693,Mrs. Baines,Unknown,False,True,372.0,"Well, child, you needn't be in such a hurry,",What about?,CLOSE_UNKNOWN
+OWT_T00166,OWT_T00167,OWT_C00693,OWT_C00695,Unknown,Mrs. Baines,False,True,127.0,What about?,Constance!,CLOSE_UNKNOWN
+OWT_T00263,OWT_T00264,OWT_C01091,OWT_C01092,Unknown,Constance,False,True,163.0,"Here we have trade getting worse every day,",I never dreamt of such a thing!,CLOSE_UNKNOWN
+OWT_T00309,OWT_T00310,OWT_C01371,OWT_C01373,Cyril,Unknown,False,True,175.0,"It means a pound a week,","Well,",CLOSE_UNKNOWN
+OWT_T00412,OWT_T00413,OWT_C02008,OWT_C02010,Unknown,Chirac,False,True,94.0,"You see,",Ah! the poor animal!,CLOSE_UNKNOWN
+OWT_T00440,OWT_T00441,OWT_C02148,OWT_C02149,Unknown,Cyril,False,True,4.0,I've found your aunt.,"Well, that's very nice of you,",CLOSE_UNKNOWN
+OWT_T00489,OWT_T00490,OWT_C02310,OWT_C02312,Sophia,Unknown,False,True,363.0,I must have forgotten how dirty it was!,Won't it be strange?,CLOSE_UNKNOWN
+OWT_T00490,OWT_T00491,OWT_C02312,OWT_C02314,Unknown,Constance,False,True,307.0,Won't it be strange?,"But of course it's not the same to you,",CLOSE_UNKNOWN
+OWT_T00498,OWT_T00499,OWT_C02339,OWT_C02340,Unknown,Constance,False,True,103.0,"I don't know that I am a widow,","Oh, my dear!",CLOSE_UNKNOWN
+OWT_T00557,OWT_T00558,OWT_C02559,OWT_C02563,Unknown,Cyril,False,True,480.0,"that's a dog, that is! ... All the same....","I wish I was half as good-looking,",CLOSE_UNKNOWN
+OWT_T00580,OWT_T00581,OWT_C02642,OWT_C02644,Constance,Unknown,False,True,175.0,"I don't think going abroad would suit me,","I don't think it would,",CLOSE_UNKNOWN
+OWT_T00676,OWT_T00677,OWT_C02910,OWT_C02911,Constance,Unknown,False,True,37.0,"I'm afraid my sciatica's worse, Doctor,",Did you expect it to be better?,CLOSE_UNKNOWN
