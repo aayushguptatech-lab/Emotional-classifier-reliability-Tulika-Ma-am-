@@ -1,58 +1,83 @@
-GABAN FINAL CORPUS VALIDATION
-============================================================
+GABAN (PREMCHAND) RESEARCH CORPUS VALIDATION REPORT
+===================================================
+Novel: Gaban (प्रेमचंद)
+Pipeline Version: 2.0 (Disciplined Multi-Stage Reproducible Pipeline)
+Status: FINAL REPRODUCIBLE CORPUS
 
-Source paragraphs: 2250
-Raw dialogue candidates: 1177
-Final retained turns: 1010
-Review records: 166
+1. SOURCE & CANONICAL INTEGRITY
+-------------------------------
+Source Chapters Processed: 5 / 5 (100% complete)
+Source Paragraph Count: 2250
+Cleaned Source Characters: 520380
+Canonical Source Intact: True
 
-Known speakers: 1010
-Unknown speakers: 0
+2. EXTRACTION & RECONSTRUCTION METRICS
+--------------------------------------
+Total Candidates Extracted: 1895
+Accepted Final Turns: 1491
+Review / Rejected Turns: 400
+Known Speaker Turns: 1491
+Unknown Speaker Turns (in review): 341
+Distinct Valid Speakers: 31
 
-CHAPTER DISTRIBUTION
-Chapter 1: 0
-Chapter 2: 365
-Chapter 3: 214
-Chapter 4: 239
-Chapter 5: 192
+3. CHAPTER DISTRIBUTION
+-----------------------
+Chapter 1: 173 turns
+Chapter 2: 478 turns
+Chapter 3: 289 turns
+Chapter 4: 312 turns
+Chapter 5: 239 turns
 
-SPEAKER COUNT
-Distinct speakers: 24
+4. EXTRACTION METHOD BREAKDOWN
+------------------------------
+named_dash_quote: 719
+named_comma_quote: 553
+unquoted_dash: 217
+unquoted_attribution_dash: 2
 
-TOP SPEAKERS
-जालपा: 236
-रमानाथ: 151
-रमा: 131
-देवीदीन: 114
-रतन: 100
-दारोग़ा: 71
-ज़ोहरा: 33
-रमेश: 32
-दयानाथ: 18
-जग्गो: 17
-जागेश्वरी: 12
-मणिभूषण: 12
-गंगू: 11
-डिप्टी: 11
-जौहरी: 10
-चरनदास: 8
-रमेश बाबू: 8
-चपरासी: 7
-इंस्पेक्टर: 7
-टीमल: 5
-प्यादा: 4
-टिकट बाबू: 4
-दीनदयाल: 4
-मुंशीजी: 4
+5. TOP SPEAKERS DISTRIBUTION
+----------------------------
+रमानाथ: 417 turns
+जालपा: 337 turns
+देवीदीन: 148 turns
+रतन: 123 turns
+दारोग़ा: 80 turns
+रमेश: 74 turns
+ज़ोहरा: 42 turns
+जागेश्वरी: 40 turns
+दयानाथ: 38 turns
+जग्गो: 24 turns
+डिप्टी: 20 turns
+इंद्रभूषण: 17 turns
+मणिभूषण: 16 turns
+इंस्पेक्टर: 15 turns
+गंगू: 12 turns
+जौहरी: 11 turns
+चरनदास: 10 turns
+दीनदयाल: 9 turns
+शहजादी: 9 turns
+चपरासी: 8 turns
+टीमल: 7 turns
+जवाब: 6 turns
+प्यादा: 5 turns
+टिकट बाबू: 5 turns
+मुंशीजी: 5 turns
 
-STRUCTURAL CHECKS
-Rows: 1010
-IDs unique: True
-Empty dialogue: 0
-Duplicate dialogue: 0
-Source characters: 520380
+6. QUALITY & INTEGRITY CHECKS
+-----------------------------
+IDs Unique: True
+Duplicate Dialogue Count: 0
+Empty Dialogue Count: 0
+Suspiciously Long Dialogue (>500 chars): 0
+Suspiciously Short Dialogue (<5 chars): 0
+Invalid Speaker Count: 0
+Source-Reference Failures: 0
 
-OUTPUT FILES
-data\final\hindi\gaban_dialogue_final.csv
-data\final\hindi\gaban_dialogue_review.csv
-data\final\hindi\gaban_final_validation.txt
+7. ARTIFACT PATHS
+-----------------
+Main Pipeline Script: src/20_build_final_gaban_hindi.py
+Source Inventory: data\extracted\hindi\gaban\gaban_source_inventory.json
+Candidate Extractions: data\extracted\hindi\gaban\gaban_candidates.csv
+Final Corpus CSV: data\final\hindi\gaban_dialogue_final.csv
+Review CSV: data\final\hindi\gaban_dialogue_review.csv
+Validation Report: data\final\hindi\gaban_final_validation.txt

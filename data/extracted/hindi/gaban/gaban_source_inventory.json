@@ -1,0 +1,37 @@
+[
+  {
+    "chapter": 1,
+    "source_url": "https://www.hindisamay.com/content/226/1/प्रेमचंद--धनपत-राय-उपन्यास-गबन-अध्याय-1.cspx",
+    "status": "verified_existing",
+    "source_size_bytes": 453361,
+    "evidence_path": "data\\raw\\hindi\\gaban\\gaban_chapter_1.html"
+  },
+  {
+    "chapter": 2,
+    "source_url": "https://www.hindisamay.com/content/226/2/प्रेमचंद--धनपत-राय-उपन्यास-गबन-अध्याय-1.cspx",
+    "status": "verified_existing",
+    "source_size_bytes": 815830,
+    "evidence_path": "data\\raw\\hindi\\gaban\\gaban_chapter_2.html"
+  },
+  {
+    "chapter": 3,
+    "source_url": "https://www.hindisamay.com/content/226/3/प्रेमचंद--धनपत-राय-उपन्यास-गबन-अध्याय-1.cspx",
+    "status": "verified_existing",
+    "source_size_bytes": 768856,
+    "evidence_path": "data\\raw\\hindi\\gaban\\gaban_chapter_3.html"
+  },
+  {
+    "chapter": 4,
+    "source_url": "https://www.hindisamay.com/content/226/4/प्रेमचंद--धनपत-राय-उपन्यास-गबन-अध्याय-1.cspx",
+    "status": "verified_existing",
+    "source_size_bytes": 620166,
+    "evidence_path": "data\\raw\\hindi\\gaban\\gaban_chapter_4.html"
+  },
+  {
+    "chapter": 5,
+    "source_url": "https://www.hindisamay.com/content/226/5/प्रेमचंद--धनपत-राय-उपन्यास-गबन-अध्याय-1.cspx",
+    "status": "verified_existing",
+    "source_size_bytes": 711456,
+    "evidence_path": "data\\raw\\hindi\\gaban\\gaban_chapter_5.html"
+  }
+]
