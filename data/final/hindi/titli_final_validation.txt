@@ -1,0 +1,45 @@
+TITLI FINAL HINDI DIALOGUE CORPUS VALIDATION
+============================================================================
+
+Final classification: FINAL CORPUS VALIDATED; REPRODUCIBILITY VERIFIED
+Input reconstruction: data\extracted\hindi\titli\titli_dialogue_turns_attributed.csv
+Input reconstruction SHA256: 0557d39c9a2a19f4633eed1eb71253b8de5233f7c05b0b764c7b051c4f586bc3
+Canonical clean source SHA256: 21f45bccbb755181ba5832d4f0c20291d9db23e929b0668190879362f15132ec
+
+Input reconstruction row count: 595
+Final corpus row count: 145
+Excluded UNKNOWN count: 268
+Excluded REVIEW count: 182
+Unique speaker count: 15
+Empty dialogue count: 0
+Duplicate candidate ID count: 0
+Duplicate candidate ID rows involved: 0
+Duplicate dialogue-text groups: 2
+Rows involved in duplicate dialogue-text groups: 4
+Non-ATTRIBUTED rows accidentally present: 0
+Invalid/empty speaker count: 0
+SHA256 of final CSV: 020cfe032601850a5fae0a34ef7d52a74acaded5a483aea48bc074604105026b
+Final CSV byte size: 121678
+Reproducibility status: PASS
+Source/reconstruction provenance status: PASS
+Exact ATTRIBUTED-only projection status: PASS
+
+Speaker frequency table:
+  शैला = 34
+  मधुबन = 21
+  तितली = 18
+  इंद्रदेव = 14
+  रामनाथ = 12
+  इन्द्रदेव = 10
+  महंगू = 6
+  बंजो = 5
+  अनवरी = 4
+  तहसीलदार = 4
+  माधुरी = 4
+  राजकुमारी = 4
+  रामजस = 4
+  सुखदेव = 3
+  मधुवा = 2
+
+Repeated dialogue was retained; no dialogue-text deduplication was performed.
+All reconstruction columns and source row ordering were preserved.

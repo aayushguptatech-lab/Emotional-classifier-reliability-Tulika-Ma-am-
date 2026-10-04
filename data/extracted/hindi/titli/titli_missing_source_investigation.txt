@@ -1,0 +1,68 @@
+TITLI (तितली) — MISSING SOURCE INVESTIGATION
+
+1. SPECIAL FILE: titli_part_1.html
+Exists: YES
+Bytes: 77118
+HTML title: तितली - विकिस्रोत
+Extracted text characters: 3605
+Titli-related links found: 2
+  LABEL='https://hi.wikisource.org/w/index.php?title=तितली&oldid=467294' | HREF='https://hi.wikisource.org/w/index.php?title=तितली&oldid=467294'
+  LABEL='तितली' | HREF='/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80'
+
+First 25 non-empty text lines:
+  तितली - विकिस्रोत
+  सामग्री पर जाएँ
+  मुख्य मेन्यू
+  मुख्य मेन्यू
+  साइडबार पर ले जाएँ
+  छिपाएँ
+  मार्गदर्शन
+  मुखपृष्ठ
+  चौपाल
+  हाल में हुए परिवर्तन
+  लेखक
+  विषय
+  समाज
+  हाल की घटनाएँ
+  सहायता
+  सहायता
+  बेतरतीब पृष्ठ
+  दूतावास (Embassy)
+  do
+  खोजें
+  खोजें
+  दिखावट
+  दान करें
+  खाता बनाएँ
+  लॉग-इन करें
+
+2. MISSING PAGE INVESTIGATION
+
+--- PAGE 14 CANDIDATES ---
+URL=https://hi.wikisource.org/wiki/तितली/14 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/14 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/1.14 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/1.14 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/2.14 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/2.14 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/3.14 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/3.14 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/4.14 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/4.14 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/14.1 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/14.1 | CONTENT_TYPE=text/html; charset=UTF-8
+
+--- PAGE 15 CANDIDATES ---
+URL=https://hi.wikisource.org/wiki/तितली/15 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/15 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/1.15 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/1.15 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/2.15 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/2.15 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/3.15 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/3.15 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/4.15 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/4.15 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/15.1 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/15.1 | CONTENT_TYPE=text/html; charset=UTF-8
+
+--- PAGE 16 CANDIDATES ---
+URL=https://hi.wikisource.org/wiki/तितली/16 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/16 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/1.16 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/1.16 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/2.16 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/2.16 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/3.16 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/3.16 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/4.16 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/4.16 | CONTENT_TYPE=text/html; charset=UTF-8
+URL=https://hi.wikisource.org/wiki/तितली/16.1 | STATUS=404 | FINAL=https://hi.wikisource.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%B2%E0%A5%80/16.1 | CONTENT_TYPE=text/html; charset=UTF-8
+
+3. INVESTIGATION RULES
+A page is considered recovered only if the response contains actual Titli novel prose rather than a Wikisource error or navigation page.
+No missing page will be synthesized or inferred from surrounding pages.
+The special local file will be included in the canonical source only if inspection shows that it contains genuine novel text not already represented by the numbered source pages.

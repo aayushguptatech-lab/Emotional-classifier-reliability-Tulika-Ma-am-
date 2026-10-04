@@ -1,0 +1,121 @@
+TITLI SPEAKER ATTRIBUTION / DIALOGUE RECONSTRUCTION VALIDATION
+========================================================================
+
+Candidate input: C:\Users\ASUS\Desktop\emotion-classifier-reliability---codePart\emotion-classifier-reliability\data\extracted\hindi\titli\titli_dialogue_candidates.csv
+Canonical source: C:\Users\ASUS\Desktop\emotion-classifier-reliability---codePart\emotion-classifier-reliability\data\cleaned\hindi\titli_clean.txt
+Output CSV: C:\Users\ASUS\Desktop\emotion-classifier-reliability---codePart\emotion-classifier-reliability\data\extracted\hindi\titli\titli_dialogue_turns_attributed.csv
+
+Canonical source sections: 28
+Canonical source paragraphs: 1406
+Input candidates: 595
+Output rows: 595
+
+STATUS COUNTS
+------------------------------------------------------------------------
+ATTRIBUTED: 145
+REVIEW: 182
+UNKNOWN: 268
+
+CONFIDENCE COUNTS
+------------------------------------------------------------------------
+HIGH: 144
+LOW: 450
+MEDIUM: 1
+
+ATTRIBUTED SPEAKER COUNTS
+------------------------------------------------------------------------
+शैला: 34
+मधुबन: 21
+तितली: 18
+इंद्रदेव: 14
+रामनाथ: 12
+इन्द्रदेव: 10
+महंगू: 6
+बंजो: 5
+अनवरी: 4
+तहसीलदार: 4
+माधुरी: 4
+राजकुमारी: 4
+रामजस: 4
+सुखदेव: 3
+मधुवा: 2
+
+ATTRIBUTION METHODS
+------------------------------------------------------------------------
+unresolved_local_attribution: 268
+structural_contamination_review: 182
+candidate_explicit_name: 143
+explicit_named_attribution: 1
+named_dash_local_context: 1
+
+SECTION COUNTS
+------------------------------------------------------------------------
+1.1: 32
+1.2: 22
+1.3: 13
+1.4: 6
+1.5: 22
+1.6: 27
+1.7: 25
+1.8: 15
+2.1: 28
+2.10: 19
+2.2: 7
+2.3: 20
+2.4: 40
+2.5: 16
+2.9: 27
+3.1: 20
+3.2: 36
+3.3: 29
+3.4: 22
+3.5: 12
+3.6: 13
+3.7: 50
+3.8: 4
+4.1: 20
+4.2: 20
+4.3: 22
+4.4: 12
+4.5: 16
+
+SOURCE LOOKUP
+------------------------------------------------------------------------
+Source lookup misses: 0
+
+PROVENANCE
+------------------------------------------------------------------------
+Sampled rows: 100
+Exact source matches: 100
+Source mismatches: 0
+Full candidate provenance matches: 595/595
+Full candidate provenance mismatches: 0
+PROVENANCE STATUS: PASS
+
+SPEAKER VALIDATION
+------------------------------------------------------------------------
+Invalid speaker assignments rejected: 0
+
+DIALOGUE QUALITY FLAGS
+------------------------------------------------------------------------
+Empty dialogue rows: 0
+Long unresolved/review rows (>500 chars): 12
+Exact duplicate dialogue groups: 6
+Rows involved in duplicate groups: 13
+Excess duplicate occurrences: 7
+
+CSV INTEGRITY
+------------------------------------------------------------------------
+CSV SHA256: 0557d39c9a2a19f4633eed1eb71253b8de5233f7c05b0b764c7b051c4f586bc3
+
+LIMITATIONS
+------------------------------------------------------------------------
+This is the speaker-attribution/reconstruction layer, not the final corpus.
+Unknown candidates are intentionally preserved.
+No speaker is assigned solely from a generic pronoun.
+Repeated dialogue is preserved when provenance differs.
+Final corpus construction must occur only after independent audit.
+
+OVERALL STATUS
+------------------------------------------------------------------------
+ATTRIBUTION LAYER STRUCTURAL STATUS: PASS

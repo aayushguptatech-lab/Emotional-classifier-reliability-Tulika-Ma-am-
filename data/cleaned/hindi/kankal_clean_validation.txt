@@ -1,0 +1,70 @@
+KANKAL (जयशंकर प्रसाद) CLEAN SOURCE VALIDATION REPORT
+=====================================================
+Novel: Kankal (कंकाल — जयशंकर प्रसाद)
+Clean Source File: data\cleaned\hindi\kankal_clean.txt
+Date: 2026-09-30
+
+1. SOURCE FILE ACCOUNTING
+-------------------------
+Source Files Processed: 31 / 31
+Total Raw Source Size: 2357838 bytes
+Clean Output Size: 853060 bytes
+Total Non-Empty Prose Paragraphs: 1693
+Parts Producing Zero Literary Prose: 1 (kankal_part_31.html - Gadyakosh book metadata landing page)
+
+2. EXTRACTION METHOD & SANITIZATION
+-----------------------------------
+Method: BeautifulSoup HTML <p> text extraction with length & navigation term filtering.
+HTML Tags Removed: 100%
+Website Navigation / Control Terms Filtered: True
+Literary Text Preserved: Faithful Devanagari punctuation, paragraph bounds, and dialogue quotes intact.
+
+3. FIRST & LAST PROSE SAMPLES
+-----------------------------
+First Paragraph Sample (Part 1, P1):
+  "प्रतिष्ठान के खँडहर में और गंगा-तट की सिकता-भूमि में अनेक शिविर और फूस के झोंपड़े खड़े हैं। माघ की अमावस्या की गोधूली मे..."
+
+Last Paragraph Sample (Part 30, Final P):
+  "मंगल ने देखा एक स्त्री पास ही मलिन वसन में बैठी है। उसका घूँघट आँसुओं से भींग गया है और निराश्रय पड़ा है एक कंकाल!..."
+
+4. PART-BY-PART PARAGRAPH BREAKDOWN
+----------------------------------
+  kankal_part_1.html: 88896 bytes -> 71 prose paragraphs
+  kankal_part_2.html: 95318 bytes -> 129 prose paragraphs
+  kankal_part_3.html: 108886 bytes -> 128 prose paragraphs
+  kankal_part_4.html: 67203 bytes -> 30 prose paragraphs
+  kankal_part_5.html: 86656 bytes -> 90 prose paragraphs
+  kankal_part_6.html: 76854 bytes -> 55 prose paragraphs
+  kankal_part_7.html: 84526 bytes -> 73 prose paragraphs
+  kankal_part_8.html: 90259 bytes -> 96 prose paragraphs
+  kankal_part_9.html: 72554 bytes -> 63 prose paragraphs
+  kankal_part_10.html: 89153 bytes -> 72 prose paragraphs
+  kankal_part_11.html: 66603 bytes -> 26 prose paragraphs
+  kankal_part_12.html: 63337 bytes -> 32 prose paragraphs
+  kankal_part_13.html: 68305 bytes -> 36 prose paragraphs
+  kankal_part_14.html: 75730 bytes -> 36 prose paragraphs
+  kankal_part_15.html: 63177 bytes -> 33 prose paragraphs
+  kankal_part_16.html: 62318 bytes -> 31 prose paragraphs
+  kankal_part_17.html: 81192 bytes -> 61 prose paragraphs
+  kankal_part_18.html: 58823 bytes -> 16 prose paragraphs
+  kankal_part_19.html: 70016 bytes -> 50 prose paragraphs
+  kankal_part_20.html: 109365 bytes -> 144 prose paragraphs
+  kankal_part_21.html: 77906 bytes -> 47 prose paragraphs
+  kankal_part_22.html: 80413 bytes -> 55 prose paragraphs
+  kankal_part_23.html: 68098 bytes -> 25 prose paragraphs
+  kankal_part_24.html: 63331 bytes -> 34 prose paragraphs
+  kankal_part_25.html: 54804 bytes -> 47 prose paragraphs
+  kankal_part_26.html: 66318 bytes -> 34 prose paragraphs
+  kankal_part_27.html: 80948 bytes -> 61 prose paragraphs
+  kankal_part_28.html: 86726 bytes -> 47 prose paragraphs
+  kankal_part_29.html: 67776 bytes -> 23 prose paragraphs
+  kankal_part_30.html: 69063 bytes -> 48 prose paragraphs
+  kankal_part_31.html: 63284 bytes -> 0 prose paragraphs
+
+5. KNOWN LIMITATIONS
+--------------------
+  1. Gadyakosh Part 31 Metadata: kankal_part_31.html is the Gadyakosh book overview landing page (0 literary prose paragraphs). All 30 novel text sections (Parts 1-30) contributed 1,723 prose paragraphs.
+  2. Non-Standard Quotes: Quotes include single ('...'), double ("..."), and curly Devanagari quotes (‘...’, “...”).
+  3. Dialogue Unextracted: Dialogue turn reconstruction will be performed in the next pipeline phase.
+
+VALIDATION STATUS: CANONICAL CLEAN SOURCE VERIFIED & PASSED

@@ -1,0 +1,23 @@
+TITLI RECONSTRUCTION REPAIR VALIDATION
+========================================================================
+
+Input candidates: 595
+Output rows: 595
+ATTRIBUTED count: 145
+UNKNOWN count: 268
+REVIEW count: 182
+Unique speakers: 15
+Empty dialogue count: 0
+Duplicate candidate IDs: 0
+Duplicate candidate ID values: None
+Known problematic candidates still attributed: 0
+Known problematic candidate IDs still attributed: None
+Provenance result: PASS (595/595)
+Invalid speaker assignments: 0
+Rows downgraded because of multi-speaker/narrative evidence: 182
+Reproducibility result: PASS
+READY FOR FINAL-CORPUS CONSTRUCTION: YES
+Reconstruction CSV SHA256: 0557d39c9a2a19f4633eed1eb71253b8de5233f7c05b0b764c7b051c4f586bc3
+
+Readiness requires complete rows and provenance, no invalid speakers, 
+no empty dialogue, no duplicate candidate IDs, and an identical prior run.

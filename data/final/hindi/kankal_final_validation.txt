@@ -1,0 +1,121 @@
+==============================================================================
+KANKAL (कंकाल) — FINAL HINDI DIALOGUE CORPUS VALIDATION
+==============================================================================
+
+Corpus status: FINAL CORPUS CONSTRUCTED; REPRODUCIBILITY VERIFIED
+Novel: कंकाल
+Author: जयशंकर प्रसाद
+
+1. FINAL CORPUS
+------------------------------------------------------------------------------
+Final CSV: data\final\hindi\kankal_dialogue_final.csv
+Final rows: 317
+Unique speakers: 10
+Final CSV bytes: 119247
+Final CSV SHA256: cac1687770092cc643c9db7b5b7eea34eb4c693aae86f1cf84bc0990d2eeb84e
+
+Speaker counts:
+  किशोरी = 64
+  गोस्वामी = 19
+  तारा = 29
+  निरंजन = 24
+  मंगलदेव = 24
+  मोहन = 5
+  यमुना = 29
+  लतिका = 22
+  विजय = 88
+  श्रीचन्द्र = 13
+
+2. FINAL STRUCTURAL CHECKS
+------------------------------------------------------------------------------
+317 final rows: PASS
+10 unique speakers: PASS
+No Unknown/empty speakers: PASS
+No empty dialogue: PASS
+No duplicate turn IDs: PASS
+All rows ATTRIBUTED: PASS
+
+3. SOURCE AND CLEANING EVIDENCE
+------------------------------------------------------------------------------
+Source inspection report: data\extracted\hindi\kankal\kankal_source_inspection_report.txt
+Canonical clean source: data/cleaned/hindi/kankal_clean.txt
+Source parts retrieved: 31
+Novel prose parts used: 1–30
+Part 31: excluded because it is book-overview metadata, not novel prose
+Clean-source report and source inspection report are retained as provenance evidence.
+
+4. EXTRACTION AND ATTRIBUTION ACCOUNTING
+------------------------------------------------------------------------------
+Dialogue candidates: 1340
+Final ATTRIBUTED rows promoted to corpus: 317
+Unresolved/Unknown candidate rows: 1017
+Additional high-confidence long records routed to review: 6
+Total review rows: 1023
+Accounting check: 1340 candidates = 317 final ATTRIBUTED + 1017 unresolved/Unknown + 6 additional review rows
+The final corpus promotes only validated ATTRIBUTED rows.
+Unresolved/low-confidence candidates were not promoted into the final corpus.
+
+5. INDEPENDENT AUDIT EVIDENCE
+------------------------------------------------------------------------------
+Independent audit: data\extracted\hindi\kankal\kankal_independent_audit.txt
+Candidate provenance checks: 100/100 exact matches
+Speaker audit sample: 100/100 correct
+Invalid speaker tokens: 0
+Unflagged narrative/web contamination: 0
+Long or potentially ambiguous records were retained in review rather than promoted automatically.
+
+6. DUPLICATE DIALOGUE INVESTIGATION
+------------------------------------------------------------------------------
+Duplicate investigation: data\extracted\hindi\kankal\kankal_duplicate_investigation.txt
+Duplicate groups investigated: 9
+Duplicate rows investigated: 22
+Excess duplicate occurrences: 13
+Reconstruction duplicates: 0
+Candidate overlaps: 0
+Provenance errors: 0
+All investigated repeated-dialogue groups were judged legitimate repetitions.
+The final builder therefore preserves legitimate repeated dialogue.
+
+7. REPRODUCIBILITY
+------------------------------------------------------------------------------
+Two consecutive final-builder runs were executed.
+First run:
+  Rows = 317
+  SHA256 = cac1687770092cc643c9db7b5b7eea34eb4c693aae86f1cf84bc0990d2eeb84e
+Second run:
+  Rows = 317
+  SHA256 = cac1687770092cc643c9db7b5b7eea34eb4c693aae86f1cf84bc0990d2eeb84e
+Byte-for-byte identical: PASS
+Overall reproducibility: PASS
+
+8. VALIDATION CONCLUSION
+------------------------------------------------------------------------------
+FINAL VALIDATION STATUS: PASS — READY TO FREEZE
+
+The final Kankal corpus contains only ATTRIBUTED dialogue turns from the validated attribution layer.
+Unresolved candidates remain outside the final corpus and are preserved as review evidence.
+The final corpus is reproducible byte-for-byte under the current builder.
+
+9. LIMITATIONS
+------------------------------------------------------------------------------
+1. 1,017 candidate records remained Unknown/unresolved at the attribution layer.
+2. Review evidence includes low-confidence records and long potentially ambiguous records.
+3. The final corpus should therefore be interpreted as a validated attributed subset, not as a claim that every dialogue-like passage in the novel was successfully attributed.
+4. Legitimate repeated dialogue was intentionally preserved.
+
+10. EVIDENCE FILES
+------------------------------------------------------------------------------
+data/cleaned/hindi/kankal_clean.txt
+data/cleaned/hindi/kankal_clean_validation.txt
+data/extracted/hindi/kankal/kankal_source_inspection_report.txt
+data/extracted/hindi/kankal/kankal_dialogue_candidates.csv
+data/extracted/hindi/kankal/kankal_candidate_extraction_validation.txt
+data/extracted/hindi/kankal/kankal_dialogue_turns_attributed.csv
+data/extracted/hindi/kankal/kankal_attribution_validation.txt
+data/extracted/hindi/kankal/kankal_independent_audit.txt
+data/extracted/hindi/kankal/kankal_duplicate_investigation.txt
+data/final/hindi/kankal_dialogue_final.csv
+
+==============================================================================
+END OF KANKAL FINAL VALIDATION REPORT
+==============================================================================

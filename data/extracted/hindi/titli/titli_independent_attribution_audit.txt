@@ -1,0 +1,121 @@
+TITLI INDEPENDENT ATTRIBUTION AUDIT
+================================================================================
+
+1. SOURCE
+--------------------------------------------------------------------------------
+Canonical sections: 28
+Canonical paragraphs: 1406
+Canonical source SHA256: 21f45bccbb755181ba5832d4f0c20291d9db23e929b0668190879362f15132ec
+
+2. INPUT / OUTPUT ACCOUNTING
+--------------------------------------------------------------------------------
+Candidate rows: 595
+Reconstructed rows: 595
+ATTRIBUTED: 145
+UNKNOWN: 450
+Missing candidate IDs from output: 0
+Unexpected output IDs: 0
+Accounting check: PASS
+
+3. PROVENANCE
+--------------------------------------------------------------------------------
+PASS: 595
+Source lookup misses: 0
+Source-file mismatches: 0
+Source-paragraph mismatches: 0
+Invalid offsets: 0
+Invalid offset ranges: 0
+Dialogue not found in source paragraph: 0
+Empty dialogue: 0
+Full provenance status: PASS
+
+4. SPEAKER INVENTORY
+--------------------------------------------------------------------------------
+Unique attributed speakers: 15
+शैला: 34
+मधुबन: 21
+तितली: 18
+इंद्रदेव: 14
+रामनाथ: 12
+इन्द्रदेव: 10
+महंगू: 6
+बंजो: 5
+माधुरी: 4
+अनवरी: 4
+राजकुमारी: 4
+तहसीलदार: 4
+रामजस: 4
+सुखदेव: 3
+मधुवा: 2
+
+Valid character assignments: 145
+Invalid generic speakers: 0
+Not in verified inventory: 0
+
+5. NARRATIVE CONTAMINATION / REVIEW FLAGS
+--------------------------------------------------------------------------------
+Attributed rows flagged for manual review: 7
+POSSIBLE_REPORTING_CLAUSE_AT_START: 7
+
+Flagged rows:
+- TITLI-CAND-000014 | 1.1 | paragraph 33 | speaker=बंजो | length=40 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  नहीं बापू! सुना दो मुझे वह अकाल की कहानी
+- TITLI-CAND-000266 | 2.5 | paragraph 372 | speaker=शैला | length=20 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  बड़ी सरकार कहां हैं?
+- TITLI-CAND-000267 | 2.5 | paragraph 376 | speaker=शैला | length=18 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  इंद्रदेव कहां हैं?
+- TITLI-CAND-000450 | 3.6 | paragraph 922 | speaker=मधुबन | length=8 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  तुम कहां
+- TITLI-CAND-000504 | 3.8 | paragraph 1049 | speaker=तितली | length=82 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  मलिया कहां गई? जीजी! क्या तुमने गऊ के ही खाने के लिए इतना-सा बोझ यहां डाल दिया है?
+- TITLI-CAND-000513 | 4.1 | paragraph 1084 | speaker=मधुबन | length=91 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  अरे तूने इतने नोट कहां से पाएं? क्या उससे तूने छीन लिया पाजी! क्या फिर यहां चोरी पकड़वाएगा।
+- TITLI-CAND-000589 | 4.5 | paragraph 1364 | speaker=तितली | length=79 | flags=POSSIBLE_REPORTING_CLAUSE_AT_START
+  क्यों, तू इतनी देर तक कहां घूमता रहा? छुट्टी है तो क्या घर पर पढ़ने को नहीं है?
+
+6. DUPLICATE DIALOGUE AUDIT
+--------------------------------------------------------------------------------
+Duplicate dialogue groups: 2
+Rows involved in duplicate groups: 4
+Excess duplicate occurrences: 2
+- 2 occurrences | TITLI-CAND-000214, TITLI-CAND-000242
+  क्या?
+- 2 occurrences | TITLI-CAND-000041, TITLI-CAND-000102
+  शैला
+
+7. SECTION DISTRIBUTION
+--------------------------------------------------------------------------------
+1.1: 10
+1.2: 8
+1.3: 1
+1.6: 6
+1.7: 1
+2.10: 5
+2.3: 2
+2.4: 20
+2.5: 6
+2.9: 6
+3.1: 12
+3.2: 15
+3.3: 3
+3.4: 9
+3.6: 5
+3.7: 9
+3.8: 2
+4.1: 7
+4.2: 6
+4.3: 5
+4.4: 2
+4.5: 5
+
+8. HASHES
+--------------------------------------------------------------------------------
+Candidate CSV SHA256: 77a2e97b8ec9911904c5387ea47a22888129f0f6dc3ae74c9afcf9d2da67fc72
+Attributed CSV SHA256: 0557d39c9a2a19f4633eed1eb71253b8de5233f7c05b0b764c7b051c4f586bc3
+
+9. FINAL STATUS
+--------------------------------------------------------------------------------
+INDEPENDENT STRUCTURAL AUDIT: PASS
+The reconstructed Titli attribution layer passes structural, provenance, speaker-inventory, and accounting checks.
+
+Important: narrative flags and duplicate groups are inspection evidence; they are not automatically rejected.

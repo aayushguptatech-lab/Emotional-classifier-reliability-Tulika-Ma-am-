@@ -1,0 +1,76 @@
+TITLI (तितली) — CANONICAL CLEAN SOURCE VALIDATION
+
+Author: जयशंकर प्रसाद
+Source: Hindi Wikisource
+
+1. SOURCE SECTIONS USED
+1.1 | titli_01.html | bytes=95843 | paragraphs=94 | title='तितली/1.1 - विकिस्रोत'
+1.2 | titli_02.html | bytes=84332 | paragraphs=37 | title='तितली/1.2 - विकिस्रोत'
+1.3 | titli_03.html | bytes=72000 | paragraphs=3 | title='तितली/1.3 - विकिस्रोत'
+1.4 | titli_04.html | bytes=68705 | paragraphs=1 | title='तितली/1.4 - विकिस्रोत'
+1.5 | titli_05.html | bytes=88841 | paragraphs=12 | title='तितली/1.5 - विकिस्रोत'
+1.6 | titli_06.html | bytes=83677 | paragraphs=19 | title='तितली/1.6 - विकिस्रोत'
+1.7 | titli_07.html | bytes=87358 | paragraphs=8 | title='तितली/1.7 - विकिस्रोत'
+1.8 | titli_08.html | bytes=83131 | paragraphs=4 | title='तितली/1.8 - विकिस्रोत'
+2.1 | titli_09.html | bytes=99725 | paragraphs=8 | title='तितली/2.1 - विकिस्रोत'
+2.2 | titli_10.html | bytes=79974 | paragraphs=10 | title='तितली/2.2 - विकिस्रोत'
+2.3 | titli_11.html | bytes=101752 | paragraphs=38 | title='तितली/2.3 - विकिस्रोत'
+2.4 | titli_12.html | bytes=98147 | paragraphs=113 | title='तितली/2.4 - विकिस्रोत'
+2.5 | titli_13.html | bytes=99583 | paragraphs=73 | title='तितली/2.5 - विकिस्रोत'
+2.9 | titli_17.html | bytes=84961 | paragraphs=48 | title='तितली/2.9 - विकिस्रोत'
+2.10 | titli_18.html | bytes=94495 | paragraphs=69 | title='तितली/2.10 - विकिस्रोत'
+3.1 | titli_19.html | bytes=88646 | paragraphs=63 | title='तितली/3.1 - विकिस्रोत'
+3.2 | titli_20.html | bytes=102746 | paragraphs=91 | title='तितली/3.2 - विकिस्रोत'
+3.3 | titli_21.html | bytes=105672 | paragraphs=74 | title='तितली/3.3 - विकिस्रोत'
+3.4 | titli_22.html | bytes=107688 | paragraphs=74 | title='तितली/3.4 - विकिस्रोत'
+3.5 | titli_23.html | bytes=92250 | paragraphs=51 | title='तितली/3.5 - विकिस्रोत'
+3.6 | titli_24.html | bytes=75209 | paragraphs=32 | title='तितली/3.6 - विकिस्रोत'
+3.7 | titli_25.html | bytes=132961 | paragraphs=101 | title='तितली/3.7 - विकिस्रोत'
+3.8 | titli_26.html | bytes=82658 | paragraphs=37 | title='तितली/3.8 - विकिस्रोत'
+4.1 | titli_27.html | bytes=112241 | paragraphs=69 | title='तितली/4.1 - विकिस्रोत'
+4.2 | titli_28.html | bytes=93234 | paragraphs=54 | title='तितली/4.2 - विकिस्रोत'
+4.3 | titli_29.html | bytes=105737 | paragraphs=80 | title='तितली/4.3 - विकिस्रोत'
+4.4 | titli_30.html | bytes=92981 | paragraphs=58 | title='तितली/4.4 - विकिस्रोत'
+4.5 | titli_31.html | bytes=104708 | paragraphs=85 | title='तितली/4.5 - विकिस्रोत'
+
+2. MISSING SOURCE SECTIONS
+Missing and not reconstructed: 2.6, 2.7, 2.8
+
+3. EXCLUDED FILES
+titli_001.html — excluded from canonical source because it is byte-identical to titli_01.html.
+titli_part_1.html — excluded because source inspection identified it as a Wikisource landing/navigation page rather than novel prose.
+
+4. CLEAN SOURCE
+Output: C:\Users\ASUS\Desktop\emotion-classifier-reliability---codePart\emotion-classifier-reliability\data\cleaned\hindi\titli_clean.txt
+Source files used: 28
+Source bytes read: 2619255
+Clean source bytes: 872690
+Clean source paragraphs: 1406
+Clean source SHA256: 21f45bccbb755181ba5832d4f0c20291d9db23e929b0668190879362f15132ec
+
+5. LINE-LEVEL STRUCTURE CHECKS
+Physical lines: 1461
+Section headers expected: 28
+Section headers found: 28
+Section header count: PASS
+Non-header content lines: 1406
+Extracted paragraph count expected: 1406
+Paragraph serialization check: PASS
+
+6. INTERFACE CONTAMINATION CHECKS
+Interface marker 'log in': NOT FOUND
+Interface marker 'create account': NOT FOUND
+Interface marker 'donate': NOT FOUND
+Interface marker 'main menu': NOT FOUND
+Interface marker 'sidebar': NOT FOUND
+
+7. STRUCTURAL CHECKS
+Expected section headers: 28
+Found section headers: 28
+Section-header count: PASS
+
+8. CONCLUSION
+Canonical clean source constructed from all available verified Wikisource novel sections.
+Missing sections 2.6, 2.7, and 2.8 remain explicitly unavailable and were not synthesized.
+Paragraph-level source structure is preserved as one extracted paragraph per physical content line.
+No dialogue extraction or speaker attribution was performed at this stage.

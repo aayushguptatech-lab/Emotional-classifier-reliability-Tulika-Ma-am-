@@ -1,0 +1,134 @@
+KANKAL (जयशंकर प्रसाद) SOURCE INSPECTION REPORT
+=================================================
+Novel: Kankal (कंकाल — जयशंकर प्रसाद)
+Task: Source Inspection and Pattern Analysis (Pre-Extraction Phase)
+Date: 2026-09-30
+
+1. SOURCE INVENTORY
+-------------------
+Source Directory: data\raw\hindi\kankal\
+Total Files Found: 31 HTML part files (kankal_part_1.html to kankal_part_31.html)
+Total Size: 2,357,838 bytes
+Clean Source File Target: data\cleaned\hindi\kankal_clean.txt (to be generated in next phase)
+Extracted Report Target: data\extracted\hindi\kankal\kankal_source_inspection_report.txt
+
+2. 31-PART INTEGRITY
+--------------------
+Total Part Files Checked: 31 / 31
+Non-Empty Parts: 31
+Empty Parts: 0
+Missing Parts (1 to 31): None (100% continuous coverage from part 1 to 31)
+Extra Parts: None
+Source Integrity Status: PASSED (All 31 raw HTML source parts exist and contain valid text content)
+
+Detailed Part Sizes:
+  kankal_part_1.html: 88,896 bytes
+  kankal_part_2.html: 95,318 bytes
+  kankal_part_3.html: 108,886 bytes
+  kankal_part_4.html: 67,203 bytes
+  kankal_part_5.html: 86,656 bytes
+  kankal_part_6.html: 76,854 bytes
+  kankal_part_7.html: 84,526 bytes
+  kankal_part_8.html: 90,259 bytes
+  kankal_part_9.html: 72,554 bytes
+  kankal_part_10.html: 89,153 bytes
+  kankal_part_11.html: 66,603 bytes
+  kankal_part_12.html: 63,337 bytes
+  kankal_part_13.html: 68,305 bytes
+  kankal_part_14.html: 75,730 bytes
+  kankal_part_15.html: 63,177 bytes
+  kankal_part_16.html: 62,318 bytes
+  kankal_part_17.html: 81,192 bytes
+  kankal_part_18.html: 58,823 bytes
+  kankal_part_19.html: 70,016 bytes
+  kankal_part_20.html: 109,365 bytes
+  kankal_part_21.html: 77,906 bytes
+  kankal_part_22.html: 80,413 bytes
+  kankal_part_23.html: 68,098 bytes
+  kankal_part_24.html: 63,331 bytes
+  kankal_part_25.html: 54,804 bytes
+  kankal_part_26.html: 66,318 bytes
+  kankal_part_27.html: 80,948 bytes
+  kankal_part_28.html: 86,726 bytes
+  kankal_part_29.html: 67,776 bytes
+  kankal_part_30.html: 69,063 bytes
+  kankal_part_31.html: 63,284 bytes
+
+3. SOURCE STRUCTURE
+-------------------
+HTML Content Container: Each HTML file contains standard web page tags with main literary prose wrapped inside <p> elements.
+Non-Empty Paragraph Count (>=10 chars): 1,750 prose paragraphs across all 31 parts.
+Text Formatting Features:
+  - Quotation marks ('...', ‘...’, "...", “...”) are used in 1,283 paragraphs (73.3% of all paragraphs).
+  - Em-dashes/hyphens (-, –, —) appear in 724 paragraphs (41.4% of all paragraphs).
+  - Colons (:) are not used for speaker introduction in Kankal (0 colon introductions).
+
+4. GENUINE DIALOGUE PATTERNS
+----------------------------
+Jaishankar Prasad's narrative style in Kankal uses several key dialogue structures:
+  a) Explicit Attribution + Quoted Dialogue:
+     Example: Kishori ne kaha, '...' / Niranjan ne puchha, '...' / Srichand ne kaha, '...'
+     Prefix contains: Character Name + 'ने' + Attribution Verb ('कहा', 'पूछा', 'बोला', 'बोली', 'सुनाया', 'उत्तर दिया').
+  b) Character Name + Dash + Quoted Speech:
+     Example: Niranjan - '...' / Kishori - '...'
+  c) Unattributed Continuation Dialogue (Quote Only):
+     Sequential dialogue turns within high-tempo exchanges where Prasad omits explicit speaker attribution.
+  d) Multi-Turn Paragraphs:
+     Single prose paragraphs containing two or more character dialogue turns separated by narrative bridges or attributions.
+  e) Direct Speech after Action / Modifier Phrases:
+     Example: 'उत्तेजित किशोरी ने कहा,' / 'विरक्त होकर श्रीचन्द्र ने कहा,' / 'किशोरी ने हाथ जोड़कर कहा,'
+
+5. FALSE-POSITIVE PATTERNS
+--------------------------
+Previous experimental extraction (51 turns) produced high contamination with invalid speaker tokens such as:
+  'एक', 'वह', 'उस', 'सब', 'मैंने', 'फिर', 'डरते', 'भाव से'
+
+Root Causes of Previous Errors:
+  1. Naive Split on Hyphens / Dash: Generic dash splitting without verifying Devanagari Unicode name boundaries captured arbitrary words before dashes.
+  2. Unrestricted Token Capture: Pronouns ('वह', 'उस', 'सब', 'मैंने'), numerals ('एक'), adverbs ('फिर'), and verb/action modifiers ('भाव से', 'डरते') were converted into speaker names.
+  3. Lack of Validated Speaker Inventory: The previous builder had no character whitelist, permitting arbitrary string snippets as speakers.
+  4. ASCII Word Boundary Bugs: Standard \b regex boundary fails on Hindi Devanagari text, causing name matching truncations.
+
+6. CANDIDATE SPEAKER INVENTORY
+------------------------------
+Primary Character Names Identified in Kankal Source Text (with paragraph occurrence counts):
+  1. विजय (Vijay): present in 295 paragraphs
+  2. यमुना (Yamuna): present in 182 paragraphs
+  3. किशोरी (Kishori): present in 156 paragraphs
+  4. तारा (Tara): present in 110 paragraphs
+  5. निरंजन / देवनिरंजन (Niranjan / Devaniranjan): present in 92 paragraphs
+  6. श्रीचन्द्र (Srichand): present in 76 paragraphs
+  7. मंगलदेव (Mangaldev): present in 69 paragraphs
+  8. लतिका (Latika): present in 59 paragraphs
+  9. गोस्वामी (Goswami): present in 42 paragraphs
+  10. मोहन (Mohan): present in 20 paragraphs
+  11. अनन्त (Anant): present in 8 paragraphs
+  12. ठाकुर (Thakur): present in 8 paragraphs
+  13. महन्त (Mahant): present in 2 paragraphs
+  14. घंटी (Ghanti): present in 1 paragraph
+  15. चमेली (Chameli): present in 1 paragraph
+
+7. EXTRACTION RISKS
+-------------------
+  1. Action Phrase Contamination: Prasad often prefixes speech with emotional state descriptions ('उत्तेजित किशोरी ने कहा', 'विरक्त होकर श्रीचन्द्र ने कहा'). Parser must isolate nominal subject ('किशोरी', 'श्रीचन्द्र').
+  2. Pronoun & Generic Reference: Phrases like 'उसने कहा' or 'महात्मा ने कहा' must map to 'Unknown' rather than extracting 'उसने' or 'महात्मा'.
+  3. Continuation Dialogue: 30-40% of dialogue turns lack inline character names. Explicit Unknown handling is required to avoid false attribution.
+  4. Multi-Turn Paragraph Splitting: Paragraphs with multiple quote pairs must be split cleanly into individual rows.
+
+8. RECOMMENDATION FOR NEXT PIPELINE STEP
+----------------------------------------
+  1. Generate clean unified source text file: data\cleaned\hindi\kankal_clean.txt from the 31 raw HTML parts.
+  2. Build a disciplined Kankal extraction pipeline script: src\21_build_kankal_hindi.py following the 7-stage architecture used in Gaban.
+  3. Implement strict Devanagari boundary regex matching with the validated Kankal character inventory.
+  4. Route unattributed and ambiguous turns to review CSV rather than guessing speakers.
+
+9. EXACT FILES CREATED/MODIFIED
+-------------------------------
+Created Artifact:
+  data\extracted\hindi\kankal\kankal_source_inspection_report.txt (Inspection report)
+
+Untouched / Preserved Artifacts:
+  - All Gaban files and scripts (UNTOUCHED)
+  - All English files and scripts (UNTOUCHED)
+  - Raw Kankal source files data\raw\hindi\kankal\ (UNTOUCHED)
+  - Previous experimental outputs data\final\hindi\kankal_dialogue_final.csv (PRESERVED)

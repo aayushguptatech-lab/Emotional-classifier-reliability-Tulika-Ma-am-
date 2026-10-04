@@ -1,0 +1,2205 @@
+====================================================================================================
+TITLI ATTRIBUTED-ROW INSPECTION
+====================================================================================================
+
+Total reconstructed rows: 595
+Attributed rows: 145
+Unknown rows: 450
+Unique attributed speakers: 15
+
+Speaker distribution:
+----------------------------------------------------------------------------------------------------
+शैला: 34
+मधुबन: 21
+तितली: 18
+इंद्रदेव: 14
+रामनाथ: 12
+इन्द्रदेव: 10
+महंगू: 6
+बंजो: 5
+माधुरी: 4
+अनवरी: 4
+राजकुमारी: 4
+तहसीलदार: 4
+रामजस: 4
+सुखदेव: 3
+मधुवा: 2
+
+====================================================================================================
+ALL ATTRIBUTED ROWS
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+Attributed row #1
+Candidate ID: TITLI-CAND-000005
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: बंजो
+Status: ATTRIBUTED
+Dialogue length: 43
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+नमक और तेल से मुझे रोटी अच्छी लगती है बापू!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #2
+Candidate ID: TITLI-CAND-000007
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: मधुवा
+Status: ATTRIBUTED
+Dialogue length: 62
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+डेढ़ सेर घुमची, एक बोझा महुआ का पत्ता और एक खांचा कंडा बाबाजी!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #3
+Candidate ID: TITLI-CAND-000008
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: मधुवा
+Status: ATTRIBUTED
+Dialogue length: 53
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+कहां चरावें, कुछ ऊसर-परती कहीं चरने के लिए बची भी है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #4
+Candidate ID: TITLI-CAND-000014
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: बंजो
+Status: ATTRIBUTED
+Dialogue length: 40
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+नहीं बापू! सुना दो मुझे वह अकाल की कहानी
+
+----------------------------------------------------------------------------------------------------
+Attributed row #5
+Candidate ID: TITLI-CAND-000019
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 101
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+सच कहना शैला क्या चौबे का घुटना टूट गया? ओहो, तो कैसे वह इतनी दूर चलेगा! नहीं-नहीं, तुम हंसी करती हो।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #6
+Candidate ID: TITLI-CAND-000021
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: बंजो
+Status: ATTRIBUTED
+Dialogue length: 54
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+पास ही झोपड़ी है। आप लोग वहीं तक चलिए; फिर जैसी इच्छा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #7
+Candidate ID: TITLI-CAND-000022
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: बंजो
+Status: ATTRIBUTED
+Dialogue length: 8
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आती हूं!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #8
+Candidate ID: TITLI-CAND-000027
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: बंजो
+Status: ATTRIBUTED
+Dialogue length: 30
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+रहने दो बापू। मैं ही जाती हूं।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #9
+Candidate ID: TITLI-CAND-000028
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 42
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तो आप यहीं रहिए, मैं जाकर सवारी भेजती हूं।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #10
+Candidate ID: TITLI-CAND-000029
+Section: 1.1
+Paragraph: 
+Source file: titli_01.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 22
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+शैला! आओ, हम लोग चलें।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #11
+Candidate ID: TITLI-CAND-000033
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 36
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+-क्यों, तुम्हारे पिता-माता नहीं हैं?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #12
+Candidate ID: TITLI-CAND-000036
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 93
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा सुनो तो, तुम पास के भोजनालय तक चलो, तुमको खाने के लिए, और मिल सका तो कोई भी दिलवादूंगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #13
+Candidate ID: TITLI-CAND-000039
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+चलिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #14
+Candidate ID: TITLI-CAND-000040
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 25
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तुम्हारा नाम 'शैला' है न?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #15
+Candidate ID: TITLI-CAND-000041
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 4
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+शैला
+
+----------------------------------------------------------------------------------------------------
+Attributed row #16
+Candidate ID: TITLI-CAND-000043
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 47
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+कहां चलोगी? भोजनालय में या हम लोगों के मेस में?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #17
+Candidate ID: TITLI-CAND-000051
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 72
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बुड्ढे। तुम बहुत बीमार हो न? हां सरकार! मुझे नहीं मालूम था, रात को आप...
+
+----------------------------------------------------------------------------------------------------
+Attributed row #18
+Candidate ID: TITLI-CAND-000052
+Section: 1.2
+Paragraph: 
+Source file: titli_02.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 14
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा तो होगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #19
+Candidate ID: TITLI-CAND-000067
+Section: 1.3
+Paragraph: 
+Source file: titli_03.html
+Speaker: इन्द्रदेव
+Status: ATTRIBUTED
+Dialogue length: 63
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+शैला! क्या इन्द्रदेव? मां से भेंट करोगी? चलूं? अच्छा, कल सवेरे!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #20
+Candidate ID: TITLI-CAND-000102
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: माधुरी
+Status: ATTRIBUTED
+Dialogue length: 4
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+शैला
+
+----------------------------------------------------------------------------------------------------
+Attributed row #21
+Candidate ID: TITLI-CAND-000112
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 152
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मां जी, अभी तो मैं गांवों में जाकर यहां की बातें समझने लगी हूं। फिर भी बहुत-सी बातें अभी नहीं समझ सकी हूं। किसी दिन आपको अवकाश रहे, तो मैं नक्शा ले आऊं?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #22
+Candidate ID: TITLI-CAND-000114
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: अनवरी
+Status: ATTRIBUTED
+Dialogue length: 11
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बहुत अच्छा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #23
+Candidate ID: TITLI-CAND-000115
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 76
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं आपके पास आकर कभी-कभी बैठा करूं, इसके लिए क्या आप मुझे आज्ञा देगी मां जी!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #24
+Candidate ID: TITLI-CAND-000117
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 99
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मां जी, मुझसे मूल हो सकती है, अपराध नहीं। तब भी, आप लोगों की स्नेह-छाया में मुझे सुख की अधिक आशाहै।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #25
+Candidate ID: TITLI-CAND-000122
+Section: 1.6
+Paragraph: 
+Source file: titli_06.html
+Speaker: अनवरी
+Status: ATTRIBUTED
+Dialogue length: 58
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+घबराइए मत चौबेजी, बीबी रानी आपके लिए कोई बात उठा न रखेंगी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #26
+Candidate ID: TITLI-CAND-000147
+Section: 1.7
+Paragraph: 
+Source file: titli_07.html
+Speaker: राजकुमारी
+Status: ATTRIBUTED
+Dialogue length: 57
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+रोटी खाने का अब समय हुआ है न ? मधु ! तुम कितना जलाते हो ।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #27
+Candidate ID: TITLI-CAND-000200
+Section: 2.3
+Paragraph: 
+Source file: titli_11.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 88
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा! आप ही मधुबन की बहन हैं? जी। __ मैं मधुबन के साथ पड़ती हूं। आप मेरी भी बहन हुईं न!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #28
+Candidate ID: TITLI-CAND-000214
+Section: 2.3
+Paragraph: 
+Source file: titli_11.html
+Speaker: राजकुमारी
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #29
+Candidate ID: TITLI-CAND-000221
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 25
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+कितना प्यार करती हो मुझे!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #30
+Candidate ID: TITLI-CAND-000222
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 53
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा, मैं भी आज न पढूंगी—बाबाजी से मिलकर चली जाऊंगी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #31
+Candidate ID: TITLI-CAND-000223
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 66
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आज पाठ न होगा क्या? मधुबन भी नहीं दिखाई पड़ रहा है, तितली भी नहीं!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #32
+Candidate ID: TITLI-CAND-000226
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 69
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या अभी और विचार करने के लिए तुमको अवसर नहीं चाहिए? दीक्षा तो मैं...
+
+----------------------------------------------------------------------------------------------------
+Attributed row #33
+Candidate ID: TITLI-CAND-000227
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 160
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मेरा निश्चय हो चुका। अच्छा तो आज मुझे छुट्टी दीजिए। अभी नीलवलिा कोठी पर जाना होगा। मधुबन तो कई दिन से रात को भी वहीं रहता है। वह घर क्यों नहीं जाता। आप पूछिएगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #34
+Candidate ID: TITLI-CAND-000228
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 6
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तितली!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #35
+Candidate ID: TITLI-CAND-000231
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 35
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या राजकुमारी का कोई संदेश आया था?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #36
+Candidate ID: TITLI-CAND-000232
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 42
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों मधुबन, आज-कल तुम घर क्यों नहीं जाते?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #37
+Candidate ID: TITLI-CAND-000236
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 6
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #38
+Candidate ID: TITLI-CAND-000238
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 34
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हां, अभी ही नील-कोठी की ओर गई हैं!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #39
+Candidate ID: TITLI-CAND-000239
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 26
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आपकी पाठशाला तो चल रही है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #40
+Candidate ID: TITLI-CAND-000240
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 31
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन, तुम आजकल कैसे हो रहे हो?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #41
+Candidate ID: TITLI-CAND-000241
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 129
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन! कुछ ही दिनों में एक नई घटना होने वाली है। वह अच्छी होगी या बुरी, नहीं कह सकता। किंतु उसके लिए हम सबको प्रस्तुत रहना चाहिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #42
+Candidate ID: TITLI-CAND-000242
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #43
+Candidate ID: TITLI-CAND-000243
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 39
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तो इसमें क्या कुछ अनिष्ट की संभावना है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #44
+Candidate ID: TITLI-CAND-000244
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 48
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आज पाठ न होगा। तुम कई दिन से घर नहीं गए हो, जाओ!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #45
+Candidate ID: TITLI-CAND-000246
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: राजकुमारी
+Status: ATTRIBUTED
+Dialogue length: 24
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं आज एक काम से आई हूं।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #46
+Candidate ID: TITLI-CAND-000247
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 23
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों? नहीं क्यों होगा?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #47
+Candidate ID: TITLI-CAND-000253
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 16
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या घर नहीं गए?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #48
+Candidate ID: TITLI-CAND-000257
+Section: 2.4
+Paragraph: 
+Source file: titli_12.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 88
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+पर तुमको तो आज ही शहर जाना होगा। यह लो रुपये सब वस्तुएं इसी सूची के अनुसार आ जानी चाहिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #49
+Candidate ID: TITLI-CAND-000262
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 35
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों बे, तूने मनीबेग चुरा लिया है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #50
+Candidate ID: TITLI-CAND-000263
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 56
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+चुप बदमाश! क्या तुमसे उनकी कोई बुराई है जो वह ऐसा करेगी?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #51
+Candidate ID: TITLI-CAND-000266
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 20
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बड़ी सरकार कहां हैं?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #52
+Candidate ID: TITLI-CAND-000267
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 18
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+इंद्रदेव कहां हैं?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #53
+Candidate ID: TITLI-CAND-000272
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 23
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तब जैसी तुम्हारी इच्छा!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #54
+Candidate ID: TITLI-CAND-000273
+Section: 2.5
+Paragraph: 
+Source file: titli_13.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 27
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+और मुझे क्षमा भी मांगनी है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #55
+Candidate ID: TITLI-CAND-000281
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: अनवरी
+Status: ATTRIBUTED
+Dialogue length: 45
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+और मैं तो मिस शैला की चेली बनूंगी! बहुत जल्द!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #56
+Candidate ID: TITLI-CAND-000282
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 35
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+उसके लिए—अभी बहुत देर है मिस अनवरी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #57
+Candidate ID: TITLI-CAND-000290
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: तहसीलदार
+Status: ATTRIBUTED
+Dialogue length: 124
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बाबाजी! आप यह काम अच्छा नहीं कर रहे हैं। तितली के घरवालों की संमति के बिना उसका ब्याह अपराध तो है ही, उसका कोई अर्थ भी नहीं।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #58
+Candidate ID: TITLI-CAND-000291
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 26
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या आपकी भी यही संमति है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #59
+Candidate ID: TITLI-CAND-000297
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 133
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+एक पल-भर रुक जाइए। क्यों मधुबन! तुम पूरी तरह से विचार करके यह ब्याह कर रहे हो न? कोई तुमको बहका तो नहीं रहा है? इसमें तुम प्रसन्न हो?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #60
+Candidate ID: TITLI-CAND-000298
+Section: 2.9
+Paragraph: 
+Source file: titli_17.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 4
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हां?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #61
+Candidate ID: TITLI-CAND-000302
+Section: 2.10
+Paragraph: 
+Source file: titli_18.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 33
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+इस समय मैं जो भी चाहता, वह मिलता।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #62
+Candidate ID: TITLI-CAND-000304
+Section: 2.10
+Paragraph: 
+Source file: titli_18.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 225
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं तो शासन कर रही हूं। और अभी अधिक तम्हारे ऊपर अत्याचार करते हए मैं कांप उठती हूं! इंद्र! तम कैसे दबले हए जा रहे हो? तम नहीं जानते कि मैं तुम्हारे अधिक क्षोभ का कारण नहीं बनना चाहती। कोठी में अधिक जाने से अच्छा तो नहीं होता।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #63
+Candidate ID: TITLI-CAND-000312
+Section: 2.10
+Paragraph: 
+Source file: titli_18.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 51
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं स्वार्थी नहीं हूं शैला! तुम जिसमें सुखी रह सको।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #64
+Candidate ID: TITLI-CAND-000313
+Section: 2.10
+Paragraph: 
+Source file: titli_18.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 8
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+चलोगी न?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #65
+Candidate ID: TITLI-CAND-000317
+Section: 2.10
+Paragraph: 
+Source file: titli_18.html
+Speaker: रामनाथ
+Status: ATTRIBUTED
+Dialogue length: 80
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों बेटी, सरदी में क्यों खड़ी हो? पूछ लो जो तम्हें पूछना हो। संकोच किस बात का?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #66
+Candidate ID: TITLI-CAND-000321
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तहसीलदार
+Status: ATTRIBUTED
+Dialogue length: 6
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+महंगू!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #67
+Candidate ID: TITLI-CAND-000322
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 24
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+सरकार ने बुलाया है क्या?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #68
+Candidate ID: TITLI-CAND-000323
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 97
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन बाबू! मलिया को बुलाने के लिए छावनी से तहसीलदार साहब आए थे। वहां उसे न जाने से उपद्रव मचेगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #69
+Candidate ID: TITLI-CAND-000324
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 32
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+वाह, मलिया क्या वहां मरने जाएगी!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #70
+Candidate ID: TITLI-CAND-000325
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 251
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हां बेटी, ठीक कह रही हो। पर हम लोग जमींदार से टक्कर ले सकें, इतना तो बल नहीं। मलिया अब मेरे यहां रहेगी तो तहसीलदार मेरे साथ कोई-न-कोई झगड़ा-झंझट खड़ा करेगा। सुना है कि कुंवर साहब तो अब यहां रहते नहीं। आज-कल औरतों का दरबार है। उसी के हाथ में सब-कुछ है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #71
+Candidate ID: TITLI-CAND-000326
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 32
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तो उसे यहीं रहने दो, देखा जाएगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #72
+Candidate ID: TITLI-CAND-000327
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 124
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+रोती क्यों है रे, यहीं रह, कोई डर नहीं, तुझे क्या कोई खा जाएगा? जा-जा देख, ईंधन की लकड़ी सुखाने के लिए डाल दी गई है, उठा ला।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #73
+Candidate ID: TITLI-CAND-000328
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 42
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अब रुके क्यों खड़े हो? नील-कोठी जाना था न?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #74
+Candidate ID: TITLI-CAND-000329
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 87
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+जल्द आना; दंगल देख आओ। खा-पीकर नील-कोठी चले जाना। आज बसंत-पंचमी की छुट्टी नहीं है क्या?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #75
+Candidate ID: TITLI-CAND-000332
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: रामजस
+Status: ATTRIBUTED
+Dialogue length: 49
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों भइया, यह हम लोगों को उल्लू बनाकर चला जाएगा?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #76
+Candidate ID: TITLI-CAND-000335
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 80
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं इनाम का क्या करूंगा—मेरा तो यह व्यवसाय नहीं है। आप लोगों की कृपा ही बहुत है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #77
+Candidate ID: TITLI-CAND-000339
+Section: 3.1
+Paragraph: 
+Source file: titli_19.html
+Speaker: तहसीलदार
+Status: ATTRIBUTED
+Dialogue length: 4
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हूं।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #78
+Candidate ID: TITLI-CAND-000340
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 110
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+रामजस! मैंने तुमको मना किया था। इसे यहां क्यों ले आए? खाने के लिए सागूदाना छोड़कर और कुछ न देना! ठंड से बचाना!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #79
+Candidate ID: TITLI-CAND-000343
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 15
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं भी साथ चलूं
+
+----------------------------------------------------------------------------------------------------
+Attributed row #80
+Candidate ID: TITLI-CAND-000346
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: माधुरी
+Status: ATTRIBUTED
+Dialogue length: 24
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं तो सब तरह से लुट गई!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #81
+Candidate ID: TITLI-CAND-000348
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 34
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तो क्या हुआ, बाबू श्यामलाल चले गए?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #82
+Candidate ID: TITLI-CAND-000349
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 79
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+यह कैसे हुआ! इसमें सब इंद्रदेव की भूल है। वह यहां रहते तो ऐसी घटना न होने पाती।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #83
+Candidate ID: TITLI-CAND-000352
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: अनवरी
+Status: ATTRIBUTED
+Dialogue length: 69
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बीबी-रानी! मैं कलकत्ते में डाक्टरी करने के संबंध में बातें कर रही थी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #84
+Candidate ID: TITLI-CAND-000354
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 46
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+जो होना था सो हो गया। अब दुख करने से क्या लाभ?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #85
+Candidate ID: TITLI-CAND-000356
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: माधुरी
+Status: ATTRIBUTED
+Dialogue length: 8
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्या है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #86
+Candidate ID: TITLI-CAND-000361
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 7
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+चलूंगी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #87
+Candidate ID: TITLI-CAND-000363
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 77
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तितली! मुझे भूख लगी है। तुम अपने पकवान रहने दो; जो बना हो, मुझे लाकर खिला दो।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #88
+Candidate ID: TITLI-CAND-000364
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 11
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तो ले आओ न!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #89
+Candidate ID: TITLI-CAND-000366
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 41
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+दूर न जाकर घर में तितली ही से, क्यों बहन!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #90
+Candidate ID: TITLI-CAND-000369
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 63
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मलिया, तू तितली के पास निर्भय होकर रह, किसी बात की चिंता मत कर।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #91
+Candidate ID: TITLI-CAND-000372
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: माधुरी
+Status: ATTRIBUTED
+Dialogue length: 26
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+और कुछ सामान नहीं है क्या?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #92
+Candidate ID: TITLI-CAND-000373
+Section: 3.2
+Paragraph: 
+Source file: titli_20.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 85
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आपने तहसीलदार को साथ में नहीं लिया। बिना उसके वह काम, जो आप करना चाहती हैं; हो सकेगा?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #93
+Candidate ID: TITLI-CAND-000378
+Section: 3.3
+Paragraph: 
+Source file: titli_21.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 19
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अब तो आ गई हूं जीजी
+
+----------------------------------------------------------------------------------------------------
+Attributed row #94
+Candidate ID: TITLI-CAND-000393
+Section: 3.3
+Paragraph: 
+Source file: titli_21.html
+Speaker: सुखदेव
+Status: ATTRIBUTED
+Dialogue length: 21
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन! बे, ते मत करो!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #95
+Candidate ID: TITLI-CAND-000397
+Section: 3.3
+Paragraph: 
+Source file: titli_21.html
+Speaker: राजकुमारी
+Status: ATTRIBUTED
+Dialogue length: 50
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा, भीतर चलो। जो किया सो अच्छा किया। यह कौन है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #96
+Candidate ID: TITLI-CAND-000405
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 103
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मधुबन बाबू को ऐसा नहीं करना चाहिए था। भला ब्याह-बारात में किसी मंगल काम में, ऐसा गड़बड़ करा देना चाहिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #97
+Candidate ID: TITLI-CAND-000406
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: रामजस
+Status: ATTRIBUTED
+Dialogue length: 39
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+झूठे हैं, जो लोग ऐसी बात कहते हैं महतो!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #98
+Candidate ID: TITLI-CAND-000408
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 26
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों रामजस, कब जा रहे हो?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #99
+Candidate ID: TITLI-CAND-000411
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 112
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तुम्हारे खेत की फसल नीलाम हो चुकी है। अब तुम उसे छुओगे तो मुकदमा चलेगा। चलो तुम बनजरिया में रहो। फिर देखा जाएगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #100
+Candidate ID: TITLI-CAND-000414
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 182
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+स्त्री को स्त्री का अवलम्बन मिल गया। तितली, मैना के भय से राजो को पकड़कर उसकी गोद में मुंह छिपाना चाहती है। और राजो, उसकी भी दर्बलता साधारण नहीं। चलो अच्छा हआ एक-दसरे को संभाल लेंगी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #101
+Candidate ID: TITLI-CAND-000417
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: सुखदेव
+Status: ATTRIBUTED
+Dialogue length: 82
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+यह क्या हो रहा है रामजस! कुछ पीछे की भी सुध है? क्या जेल जाने की तैयारी कर रहे हो?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #102
+Candidate ID: TITLI-CAND-000418
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: सुखदेव
+Status: ATTRIBUTED
+Dialogue length: 74
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+दूंगा एक झापड़, दांत झड़ जायेंगे। मैं तो समझा रहा हूं, तू बहकता जा रहा है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #103
+Candidate ID: TITLI-CAND-000419
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 89
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+यह बड़ा अंधेर है। ऐसी नवाबी तो नहीं देखी। भला कुर्क हुए खेत को इस तरह तहस-नहस करना चाहिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #104
+Candidate ID: TITLI-CAND-000423
+Section: 3.4
+Paragraph: 
+Source file: titli_22.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 91
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अरे महंगू बूढ़ा है। उस बेचारे ने क्या किया है? अधिक उपद्रव न बढ़ाओं, जो किया सो अच्छा किया।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #105
+Candidate ID: TITLI-CAND-000443
+Section: 3.6
+Paragraph: 
+Source file: titli_24.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 17
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैंने खून किया है
+
+----------------------------------------------------------------------------------------------------
+Attributed row #106
+Candidate ID: TITLI-CAND-000446
+Section: 3.6
+Paragraph: 
+Source file: titli_24.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 29
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा, जो तुम कहो वही करूंगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #107
+Candidate ID: TITLI-CAND-000448
+Section: 3.6
+Paragraph: 
+Source file: titli_24.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 234
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं कुछ दिनों के लिए धामपुर छोड़ देना चाहता हूं। रामजस वाले मामले में पुलिस मेरे पीछे पड़ी है। अब एक और काण्ड हो गया है। मैना! तुम वेश्या हो तो क्या, न जाने क्यों मैं तुम्हारे ऊपर विश्वास करता हूं। तुम तितली की रक्षा करना, वह निरपराध!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #108
+Candidate ID: TITLI-CAND-000450
+Section: 3.6
+Paragraph: 
+Source file: titli_24.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 8
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तुम कहां
+
+----------------------------------------------------------------------------------------------------
+Attributed row #109
+Candidate ID: TITLI-CAND-000451
+Section: 3.6
+Paragraph: 
+Source file: titli_24.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 100
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+जानते नहीं हो? रामजस के मुकदमे में पुलिस मुझको भी चाहती है। मैं बनारस जा रहा हूं। वकील से सलाह करने।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #110
+Candidate ID: TITLI-CAND-000452
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 67
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+आज मेरे यहां कुछ लोग बाहर के आ गए हैं। उनके लिए थोड़ी-सी मटर चाहिए।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #111
+Candidate ID: TITLI-CAND-000457
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 114
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हम लोग आज बड़े बंगले में ब्यालू करेंगे। वहां, घीसू से कह दो कि मेरे बगल वाले कमरे में मेम साहब के लिए पलंग लगा दे।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #112
+Candidate ID: TITLI-CAND-000458
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 135
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं तो कोठी पर चली जाऊंगी। यहां झंझट बढ़ाने से क्या काम है। मुझे तो यहां आए दो सप्ताह से अधिक हो गया। वहां तो मुझे कोई असुविधा नहीं है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #113
+Candidate ID: TITLI-CAND-000460
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 36
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्षमा करो इंद्रदेव! मैंने भूल की है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #114
+Candidate ID: TITLI-CAND-000473
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 102
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+भाई साहब मुझे एक रजिस्ट्री करानी है! मैं अपनी समस्त सम्पत्ति मां के नाम लिख देना चाहता हूं। क्योंकि...
+
+----------------------------------------------------------------------------------------------------
+Attributed row #115
+Candidate ID: TITLI-CAND-000485
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 134
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+नहीं, तुम दूसरी जगह न जाओ, मैं आज अपनी ही परीक्षा लूंगी। तुमको यह नहीं मालूम कि आज ही उन्होंने अपनी जमींदारी का सर्वस्व त्याग दिया है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #116
+Candidate ID: TITLI-CAND-000498
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बैठो।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #117
+Candidate ID: TITLI-CAND-000499
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 365
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मुझे तुम्हारी सब बातें मालूम हैं। मैं सब तरह की सहायता करूंगा। किंतु जब मधुबन इस समय कहीं जाकर छिप गया है, तब सोच-समझकर कुछ करना होगा। मैं उसका पता लगाने का प्रयत्न करूंगा। और रह गया शेरकोट, उसका कागज मैं देख लूंगा तब कहूंगा! बनजरिया का लगान जमा करवा दूंगा। फिर उसका भी प्रबंध कर दिया जाएगा। तब तक तुम यहीं रहो। क्यों शैला! कल के लिए तुम तितली को निमंत्रित न करोगी?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #118
+Candidate ID: TITLI-CAND-000500
+Section: 3.7
+Paragraph: 
+Source file: titli_25.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 63
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तितली! कल के लिए, मेरी ओर से निमंत्रण है, तुमको यहीं रहना होगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #119
+Candidate ID: TITLI-CAND-000504
+Section: 3.8
+Paragraph: 
+Source file: titli_26.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 82
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मलिया कहां गई? जीजी! क्या तुमने गऊ के ही खाने के लिए इतना-सा बोझ यहां डाल दिया है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #120
+Candidate ID: TITLI-CAND-000505
+Section: 3.8
+Paragraph: 
+Source file: titli_26.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 33
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+-जी मिचलाता है, थोड़ा जल दो जीजी!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #121
+Candidate ID: TITLI-CAND-000506
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 127
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+रामदीन, उस बम्बे से आज एक बाल्टी पानी ले आओ। मुझे ज्वर हो आया है। उसमें से एक लोटा गरम करके मेरे सिरहाने रख देना! मैं सोने जाता
+
+----------------------------------------------------------------------------------------------------
+Attributed row #122
+Candidate ID: TITLI-CAND-000509
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 128
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+चुप रहो—चिरकिट तुम पाजीपन भी करते हो और सबसे टर्राते हो! वह बरतन मांजकर ईंटें नहीं उठा ले जाएगा। हट जाता है तो तुम भी मांज लेना।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #123
+Candidate ID: TITLI-CAND-000513
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 91
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अरे तूने इतने नोट कहां से पाएं? क्या उससे तूने छीन लिया पाजी! क्या फिर यहां चोरी पकड़वाएगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #124
+Candidate ID: TITLI-CAND-000517
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 6
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हबड़ा?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #125
+Candidate ID: TITLI-CAND-000520
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैना!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #126
+Candidate ID: TITLI-CAND-000521
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: महंगू
+Status: ATTRIBUTED
+Dialogue length: 22
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+दुहाई सरकार मर जाएंगे।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #127
+Candidate ID: TITLI-CAND-000523
+Section: 4.1
+Paragraph: 
+Source file: titli_27.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 5
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तितली
+
+----------------------------------------------------------------------------------------------------
+Attributed row #128
+Candidate ID: TITLI-CAND-000528
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 194
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हां, इसका शेरकोट तो जमींदार ने बेदखल करा लिया। अब बनजरिया बची है; उस पर भी लगान लग गया। पहले माफी थी! और वाट्सन! तुमने तो यह न सुना होगा कि इसके पति को डकैती के अपराध में कारावास का दंड मिला है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #129
+Candidate ID: TITLI-CAND-000532
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 14
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+परंतु अभागा है
+
+----------------------------------------------------------------------------------------------------
+Attributed row #130
+Candidate ID: TITLI-CAND-000533
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 114
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+वह! डाकू, हत्यारा और चोर था या नहीं, सो तो मैं नहीं कह सकती; क्योंकि चौबीसों घंटे मैं साथ रही; फिर भी शैला! वह...।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #131
+Candidate ID: TITLI-CAND-000537
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 132
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तितली! मेरी एक बात मानोगी? मैं इंद्रदेव के आने पर तुमको बुलाऊंगी। मैं चाहती हूं कि तुम उनसे एक बार कहो कि वे मधुबन के लिए अपील करें।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #132
+Candidate ID: TITLI-CAND-000542
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 89
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+वह मेरा घर है, खेत नहीं, उसको मैं उसके ही स्वरूप में ले सकती हूं। उससे बदला नहीं ले सकता।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #133
+Candidate ID: TITLI-CAND-000544
+Section: 4.2
+Paragraph: 
+Source file: titli_28.html
+Speaker: इंद्रदेव
+Status: ATTRIBUTED
+Dialogue length: 54
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+मैं तो समझता हूं कि अब हम लोगों को चलना चाहिए; क्योंकि
+
+----------------------------------------------------------------------------------------------------
+Attributed row #134
+Candidate ID: TITLI-CAND-000547
+Section: 4.3
+Paragraph: 
+Source file: titli_29.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 61
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+तुम भी प्रत्येक रविवार को गिरजे में नहीं जाते, फिर कैसे ईसाई!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #135
+Candidate ID: TITLI-CAND-000553
+Section: 4.3
+Paragraph: 
+Source file: titli_29.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 20
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अरे यह तो रामदीन है!
+
+----------------------------------------------------------------------------------------------------
+Attributed row #136
+Candidate ID: TITLI-CAND-000557
+Section: 4.3
+Paragraph: 
+Source file: titli_29.html
+Speaker: शैला
+Status: ATTRIBUTED
+Dialogue length: 66
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अब क्या करेगा रामदीन? अब, यहीं गांव में रहूंगा। कहीं नौकरी करूंगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #137
+Candidate ID: TITLI-CAND-000558
+Section: 4.3
+Paragraph: 
+Source file: titli_29.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 77
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+कहती क्यों नहीं? बोल न, क्यों लजाती है। लिए जा, पहले अपने रामदीन को कुछ खिला।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #138
+Candidate ID: TITLI-CAND-000559
+Section: 4.3
+Paragraph: 
+Source file: titli_29.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 24
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+बैठो बहन! जल्दी क्या है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #139
+Candidate ID: TITLI-CAND-000573
+Section: 4.4
+Paragraph: 
+Source file: titli_30.html
+Speaker: मधुबन
+Status: ATTRIBUTED
+Dialogue length: 11
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+कौन महंतजी?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #140
+Candidate ID: TITLI-CAND-000574
+Section: 4.4
+Paragraph: 
+Source file: titli_30.html
+Speaker: तहसीलदार
+Status: ATTRIBUTED
+Dialogue length: 475
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+महाराज! क्यों आप घबराते हैं, कुछ काम तो करना नहीं है। इसके साथ हम लोगों के रहने का यह तात्पर्य तो है नहीं कि यह सुधारा जाए। खाओ-पीओ, मौज लो। देखते नहीं, मैं चला था धामपुर के जमींदार को सुधारने, क्या दशा हुई! आज वही मेम सर्वस्व की स्वामिनी है। और मैं निकाल बाहर किया गया। गांव में किसी की दाल नहीं गलती। किसान लोगों के पास लम्बी-चौड़ी खेती हो गई। वे अब भला कानूनगो और तहसीलदारों की बात क्यों सुनेंगे! अमीरों के यहां तो यह सब होता ही रहता है। हम लोग मंदिर के सेवक हैं। चलने दो।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #141
+Candidate ID: TITLI-CAND-000581
+Section: 4.5
+Paragraph: 
+Source file: titli_31.html
+Speaker: रामजस
+Status: ATTRIBUTED
+Dialogue length: 146
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+हां बेटा! मसान ही है। इसी जगह तुम्हारे वंश की प्रभुता की चिता जल रही है। तुमको क्या मालूम; यही तुम्हारे पुरुषों की डीह है। तुम्हारी ही यह गढ़ी है।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #142
+Candidate ID: TITLI-CAND-000587
+Section: 4.5
+Paragraph: 
+Source file: titli_31.html
+Speaker: रामजस
+Status: ATTRIBUTED
+Dialogue length: 51
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+होगा कोई, चलो, अब रात हो रही है। तेरी बुआ बिगड़ेगी।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #143
+Candidate ID: TITLI-CAND-000589
+Section: 4.5
+Paragraph: 
+Source file: titli_31.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 79
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+क्यों, तू इतनी देर तक कहां घूमता रहा? छुट्टी है तो क्या घर पर पढ़ने को नहीं है?
+
+----------------------------------------------------------------------------------------------------
+Attributed row #144
+Candidate ID: TITLI-CAND-000592
+Section: 4.5
+Paragraph: 
+Source file: titli_31.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 44
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+अच्छा, जाओ। तुम लोग खा-पी लो। कल देखा जाएगा।
+
+----------------------------------------------------------------------------------------------------
+Attributed row #145
+Candidate ID: TITLI-CAND-000594
+Section: 4.5
+Paragraph: 
+Source file: titli_31.html
+Speaker: तितली
+Status: ATTRIBUTED
+Dialogue length: 11
+Detection method: 
+Attribution text: 
+
+DIALOGUE:
+सो जा बेटा!

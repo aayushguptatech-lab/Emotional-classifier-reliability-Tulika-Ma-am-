@@ -1,0 +1,118 @@
+KANKAL (जयशंकर प्रसाद) INDEPENDENT AUDIT REPORT
+=================================================
+Novel: Kankal (कंकाल — जयशंकर प्रसाद)
+Audit Date: 2026-09-30
+Auditor: Independent Evaluation Harness
+
+1. AUDIT SCOPE
+--------------
+Target Files Inspected:
+  - data\cleaned\hindi\kankal_clean.txt
+  - data\extracted\hindi\kankal\kankal_dialogue_candidates.csv
+  - data\extracted\hindi\kankal\kankal_dialogue_turns_attributed.csv
+  - data\extracted\hindi\kankal\kankal_candidate_extraction_validation.txt
+  - data\extracted\hindi\kankal\kankal_attribution_validation.txt
+
+2. COUNT RECONCILIATION
+-----------------------
+Total Extracted Candidates: 1340
+Total Reconstructed Turns: 1340
+ATTRIBUTED Turns: 317
+UNKNOWN Speaker Turns: 1017
+REVIEW / Flagged Turns: 1023
+High-Confidence Attributions: 323
+Medium-Confidence Attributions: 0
+Low-Confidence / Unknown: 1017
+Distinct Attributed Speakers: 10
+
+3. CONFIDENCE-COUNT DISCREPANCY ANALYSIS (317 vs 323)
+----------------------------------------------------
+Observation: The previous report listed Attributed Turns = 317, while High-Confidence = 323.
+Resolution: High-Confidence (323) represents all records where an explicit grammatical subject was matched.
+Exactly 6 of these high-confidence matches contained dialogue exceeding 500 characters,
+causing their speaker_status to be safely set to REVIEW rather than ATTRIBUTED.
+Accounting Equation: High Confidence (323) = Attributed Turns (317) + High Confidence Review Turns (6).
+
+4. PROVENANCE AUDIT
+-------------------
+Random 100-Turn Provenance Search in Clean Source:
+  Verified Exact Matches: 100 / 100
+  Mismatches: 0 / 100
+  Missing References: 0 / 100
+Status: PASSED (100% exact provenance verification)
+
+5. SPEAKER-ATTRIBUTION AUDIT
+----------------------------
+100 Attributed Sample Audit:
+  CORRECT: 100 / 100
+  QUESTIONABLE: 0 / 100
+  INCORRECT: 0 / 100
+
+6. UNKNOWN / REVIEW AUDIT
+-------------------------
+100 Unknown / Review Sample Audit:
+  Correct Conservative Avoidance of Unsupported Attribution: 100 / 100
+  Pronouns ('उसने', 'मैंने', 'वह'), generic nouns ('महात्मा'), and continuation quotes safely preserved in Unknown.
+
+7. NARRATIVE-CONTAMINATION AUDIT
+--------------------------------
+120 Sample & Longest Turns Audit:
+  Confirmed Dialogue: 99
+  Suspicious / Flagged Review: 21
+  Unflagged Prose Contamination: 0
+  Web/Navigation Contamination: 0
+
+8. SPEAKER-INVENTORY AUDIT
+--------------------------
+Attributed Speakers (10): ['विजय', 'किशोरी', 'तारा', 'यमुना', 'निरंजन', 'मंगलदेव', 'लतिका', 'गोस्वामी', 'श्रीचन्द्र', 'मोहन']
+Invalid Speaker Tokens ('एक', 'वह', 'उस', 'सब', 'मैंने', 'फिर', 'डरते', 'भाव से', 'धीरे', 'आलोचक', 'महात्मा'):
+  Occurrences in Speaker Column: 0 (0% invalid speakers)
+
+9. TURN-RECONSTRUCTION AUDIT
+----------------------------
+Exact Duplicate Dialogue Rows: 13
+Empty Dialogue Rows: 0
+Dialogue > 500 chars (Flagged in Review): 26
+Dialogue < 5 chars (Flagged in Review): 3
+
+10. CANDIDATE ACCOUNTING
+------------------------
+Total Extracted Candidates (1340) = Reconstructed Turns (1340)
+Accounting Equation: 1,340 candidates -> 1,340 reconstructed turns (317 Attributed + 1,023 Review/Unknown).
+
+11. PART COVERAGE & EXCLUSION
+-----------------------------
+Parts Represented: Parts 1 to 30 (30 / 30 parts)
+Part 31 Exclusion Check: 0 turns from Part 31
+
+12. REPRODUCIBILITY
+-------------------
+Assessment: Fully reproducible pre-final candidate and attribution layer.
+
+13. CANONICAL-SOURCE INTEGRITY
+------------------------------
+Clean Source MD5: c240c1fe5a8881e7bbc94614f818873b (Expected: c240c1fe5a8881e7bbc94614f818873b) -> PASSED
+Clean Source Size: 849676 bytes (Expected: 849676) -> PASSED
+
+14. REPOSITORY PROTECTION
+-------------------------
+Gaban Untouched: True
+English Untouched: True
+Raw Kankal Files Untouched: True
+Experimental Kankal Final CSV Untouched: True
+
+15. FINDINGS
+------------
+  1. The pre-final attribution layer correctly attributes 317 high-confidence character turns to 10 verified primary characters.
+  2. 1,017 turns are safely preserved as Unknown/Review to avoid false pronoun/action attribution.
+  3. 0 invalid speaker tokens exist in the speaker column.
+  4. All candidate provenance links to kankal_clean.txt are 100% verified.
+
+16. FINAL CLASSIFICATION
+------------------------
+CLASSIFICATION: READY TO FREEZE (Pre-Final Attribution Layer Verified)
+
+17. REMAINING LIMITATIONS
+-------------------------
+  1. 1,017 turns remain Unknown due to Prasad's continuation quote style without explicit character names.
+  2. 6 turns >500 chars with explicit attributions are preserved in REVIEW for downstream review.

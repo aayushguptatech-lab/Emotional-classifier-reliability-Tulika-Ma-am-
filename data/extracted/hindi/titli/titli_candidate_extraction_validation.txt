@@ -1,0 +1,66 @@
+TITLI HINDI DIALOGUE CANDIDATE EXTRACTION VALIDATION
+========================================================================
+Source path: data/cleaned/hindi/titli_clean.txt
+Source SHA256: 21f45bccbb755181ba5832d4f0c20291d9db23e929b0668190879362f15132ec
+Sections detected: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 2.1, 2.2, 2.3, 2.4, 2.5, 2.9, 2.10, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 4.1, 4.2, 4.3, 4.4, 4.5
+Expected sections: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 2.1, 2.2, 2.3, 2.4, 2.5, 2.9, 2.10, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 4.1, 4.2, 4.3, 4.4, 4.5
+Missing sections: None
+Unexpected sections: None
+Total source paragraphs: 1406
+Total candidates: 595
+Candidates by detection method:
+  attribution_dash: 416
+  attribution_quote: 20
+  named_dash: 0
+  quoted_speech: 0
+  multi_turn_paragraph: 156
+  unattributed_quote: 3
+  other_conservative_speech: 0
+Candidates by section:
+  1.1: 32
+  1.2: 22
+  1.3: 13
+  1.4: 6
+  1.5: 22
+  1.6: 27
+  1.7: 25
+  1.8: 15
+  2.1: 28
+  2.2: 7
+  2.3: 20
+  2.4: 40
+  2.5: 16
+  2.9: 27
+  2.10: 19
+  3.1: 20
+  3.2: 36
+  3.3: 29
+  3.4: 22
+  3.5: 12
+  3.6: 13
+  3.7: 50
+  3.8: 4
+  4.1: 20
+  4.2: 20
+  4.3: 22
+  4.4: 12
+  4.5: 16
+Candidates with attribution evidence: 592
+Unresolved candidates: 3
+Candidates >500 characters: 12
+Candidates <5 characters: 14
+Duplicate candidate IDs: 0
+Provenance verification sample size: 100
+Provenance mismatches: 0
+Obvious narrative contamination count: 0
+Narrative-only candidate spans rejected: 0
+Narrative boundary cuts flagged for review: 20
+Interface contamination count: 0
+Interface-only candidate spans rejected: 0
+Empty dialogue count: 0
+Final validation status: PASS
+
+Validation details:
+- All required structural and provenance checks passed.
+
+Detection note: speaker labels are not assigned; attribution_name_candidate only copies an explicit nearby Hindi attribution token.
